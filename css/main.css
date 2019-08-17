@@ -2238,11 +2238,13 @@ input::-moz-focus-inner {
   margin: 0;
 }
 .header__logo h1 {
-  width: 160px;
+  width: 220px;
   height: 30px;
-  margin: 10px;
+  margin: 0;
+  padding:0;
+  padding-bottom: 20%;
   font-family: 'Heebo', sans-serif;
-  font-weight: bolder;
+  font-weight: 900;
   color: white;
 }
 
@@ -2469,8 +2471,8 @@ input::-moz-focus-inner {
   z-index: 1;
   content: "";
   display: block;
-  height: 1.4rem;
-  width: 1.4rem;
+  height: 1.7rem;
+  width: 1.7rem;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -2512,8 +2514,8 @@ input::-moz-focus-inner {
   background-image: url(../images/icons/social/icon-medium.svg);
 }
 
-.header__social .ss-behance a::after {
-  background-image: url(../images/icons/social/icon-behance.svg);
+.header__social .ss-kaggle a::after {
+  background-image: url(../images/icons/social/icon-kaggle.svg);
 }
 
 .header__social .ss-instagram a::after {
