@@ -18,6 +18,18 @@
       <!-- script
          ================================================== -->
       <script src="../js/modernizr.js"></script>
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          "HTML-CSS": {
+            availableFonts: [],
+            preferredFonts: "TeX",
+            webFont:"",
+            imageFont:"",
+            undefinedFamily:"'Arial Unicode MS',serif"
+          }
+        });
+        </script>
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
       <!-- favicons
          ================================================== -->
       <link rel="apple-touch-icon" sizes="180x180" href="../icons/192x192.png">
@@ -124,7 +136,7 @@
                      Orthonormal Vectors, Orthogonal Matrices and Hadamard Matrix
                   </h1>
                   <ul class="entry__header-meta">
-                     <li class="author">By <a href="#0">Avnish Pal</a></li>
+                     <li class="author">By <a href="https://avnish98.github.io/" title="Author" target="_blank">Avnish Pal</a></li>
                      <li class="date">August 19, 2019</li>
                      <li class="cat-links">
                         <a href="../category-page/category-linear-algebra.html">Linear Algebra</a>
@@ -134,14 +146,14 @@
                <!-- end entry__header -->
                <div class="entry__content">
                   <p>
-                     Two vector <strong>x</strong> and <strong>y</strong> are orthogonal if they are perpendicular to each other i.e. their dot product is 0.
+                     Two vector \( {\sf \bf \vec{x}} \)  and \( {\sf \bf \vec{y}} \) are orthogonal if they are perpendicular to each other i.e. their dot product is 0.
                   </p>
                   <div style="display: flex; justify-content:center;">
                      <img src="ortho-matrices/ortho-thumb3.png"  alt="">
                   </div>
                   <h2>Orthonormal Vectors</h2>
                   <p>
-                     If vector <strong>x</strong> and vector <strong>y</strong> are also  unit vectors then they are <i>orthonormal</i>.
+                     If vector \( {\sf \bf \vec{x}} \) and vector \( {\sf \bf \vec{y}} \) are also  unit vectors then they are <i>orthonormal</i>.
                   </p>
                   <p>
                      To summarize, for a set of vectors to be orthogonal :
@@ -157,7 +169,7 @@
                   </ol>
                   </p>
                   <h3>Property of orthonormal vectors</h3>
-                  <p>Assuming vectors <strong>q1</strong>, <strong>q2</strong>, <strong>q3</strong>, …….,<strong>qn</strong>  are orthonormal vectors. Then</p>
+                  <p>Assuming vectors \( {\sf \bf \vec{q1}} \), \( {\sf \bf \vec{q2}} \), \( {\sf \bf \vec{q3}} \), …….,\( {\sf \bf \vec{qn}} \)  are orthonormal vectors. Then</p>
                   <div style="display: flex; justify-content:center;">
                      <img src="ortho-matrices/orthonormal-prop1.png" alt=""> 
                   </div>
@@ -177,7 +189,7 @@
                   <div style="display: flex; justify-content:center;">
                      <img  src="ortho-matrices/orthogonal-matrix.png" alt="">
                   </div>
-                  <p>If matrix <strong>Q</strong> has n rows then it is an orthogonal matrix (as vectors <strong>q1</strong>, <strong>q2</strong>, <strong>q3</strong>, …, <strong>qn</strong> are assumed to be orthonormal earlier)</p>
+                  <p>If matrix <strong>Q</strong> has n rows then it is an orthogonal matrix (as vectors \( {\sf \bf \vec{q1}} \), \( {\sf \bf \vec{q2}} \), \( {\sf \bf \vec{q3}} \), …….,\( {\sf \bf \vec{qn}} \) are assumed to be orthonormal earlier)</p>
                   <h3>Properties of Orthogonal Matrix</h3>
                   <ol>
                      <li>
@@ -224,12 +236,12 @@
                      </li>
                   </ol>
                   <h3>Solving a system of linear equation containing Orthogonal matrix</h3>
-                  <p>Say we have to find the solution (vector x) from the following equation</p>
+                  <p>Say we have to find the solution (vector \( {\sf \bf \vec{x}} \)) from the following equation</p>
                   <div style="display: flex; justify-content:center;">
                      <img  src="ortho-matrices/equation.png" alt="">
                   </div>
-                  <p>Matrix A is the coefficient matrix and matrix b is the constant matrix.</p>
-                  <p>We have done this earlier using  Gaussian elimination. But  if matrix A is orthogonal and we multiply transpose of matrix A on both sides we get</p>
+                  <p>Matrix <b>A</b> is the coefficient matrix and matrix <b>b</b> is the constant matrix.</p>
+                  <p>We have done this earlier using  Gaussian elimination. But if matrix <b>A</b> is orthogonal and we multiply transpose of matrix <b>A</b> on both sides we get</p>
                   <div style="display: flex; justify-content:center;">
                      <img  src="ortho-matrices/eq2.png" alt="">
                   </div>
