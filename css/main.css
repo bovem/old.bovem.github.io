@@ -1775,7 +1775,7 @@ input::-moz-focus-inner {
   -webkit-transform: scale(0.5);
   transform: scale(0.5);
 }
-
+/*
 .masonry .entry__thumb:hover .entry__thumb-link::before {
   opacity: 1;
   visibility: visible;
@@ -1792,7 +1792,7 @@ input::-moz-focus-inner {
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
-
+*/
 .masonry .entry__text {
   padding: 3.2rem 2.8rem 4rem;
   background-color: #ffffff;
