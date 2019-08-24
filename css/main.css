@@ -1775,7 +1775,7 @@ input::-moz-focus-inner {
   -webkit-transform: scale(0.5);
   transform: scale(0.5);
 }
-/*
+
 .masonry .entry__thumb:hover .entry__thumb-link::before {
   opacity: 1;
   visibility: visible;
@@ -1792,7 +1792,7 @@ input::-moz-focus-inner {
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
-*/
+
 .masonry .entry__text {
   padding: 3.2rem 2.8rem 4rem;
   background-color: #ffffff;
@@ -2237,16 +2237,6 @@ input::-moz-focus-inner {
   height: 30px;
   margin: 0;
 }
-.header__logo h1 {
-  width: 220px;
-  height: 30px;
-  margin: 0;
-  padding:0;
-  padding-bottom: 20%;
-  font-family: 'Heebo', sans-serif;
-  font-weight: 900;
-  color: white;
-}
 
 /* -------------------------------------------------------------------
  * ## header main navigation
@@ -2459,7 +2449,7 @@ input::-moz-focus-inner {
 
 .header__social a {
   display: block;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.04);
   color: rgba(255, 255, 255, 0.5);
   height: 3.6rem;
   width: 3.6rem;
@@ -2471,8 +2461,8 @@ input::-moz-focus-inner {
   z-index: 1;
   content: "";
   display: block;
-  height: 1.7rem;
-  width: 1.7rem;
+  height: 1.4rem;
+  width: 1.4rem;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -2486,8 +2476,8 @@ input::-moz-focus-inner {
 }
 
 .header__social a:hover::after {
-  height: 2rem;
-  width: 2rem;
+  height: 1.8rem;
+  width: 1.8rem;
 }
 
 .header__social span {
@@ -2502,20 +2492,20 @@ input::-moz-focus-inner {
   position: absolute;
 }
 
-.header__social .ss-linkedin a::after {
-  background-image: url(../images/icons/social/icon-linkedin.svg);
+.header__social .ss-facebook a::after {
+  background-image: url(../images/icons/social/icon-facebook.svg);
 }
 
-.header__social .ss-github a::after {
-  background-image: url(../images/icons/social/icon-github.svg);
+.header__social .ss-twitter a::after {
+  background-image: url(../images/icons/social/icon-twitter.svg);
 }
 
-.header__social .ss-medium a::after {
-  background-image: url(../images/icons/social/icon-medium.svg);
+.header__social .ss-dribbble a::after {
+  background-image: url(../images/icons/social/icon-dribbble.svg);
 }
 
-.header__social .ss-kaggle a::after {
-  background-image: url(../images/icons/social/icon-kaggle.svg);
+.header__social .ss-behance a::after {
+  background-image: url(../images/icons/social/icon-behance.svg);
 }
 
 .header__social .ss-instagram a::after {
