@@ -1,36 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-<head>
 
-    <!--- basic page needs
-    ================================================== -->
-    <meta charset="utf-8">
-    <title>Typerite</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <!-- mobile specific metas
-    ================================================== -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- CSS
-    ================================================== -->
-    <link rel="stylesheet" href="assets/css/base.css">
-    <link rel="stylesheet" href="assets/css/vendor.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-
-    <!-- script
-    ================================================== -->
-    <script src="js/modernizr.js"></script>
-
-    <!-- favicons
-    ================================================== -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/assets/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/assets/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/assets/images/favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
-
-</head>
+{% include head.html %}
 
 <body>
 
@@ -53,7 +24,7 @@
             <div class="header__top">
                 <div class="header__logo">
                     <a class="site-logo" href="index.html">
-                        <img src="assets/images/logo.svg" alt="Homepage">
+                        <img src="/assets/images/logo.svg" alt="Homepage">
                     </a>
                 </div>
 
@@ -140,20 +111,7 @@
 
         <!-- footer
         ================================================== -->
-        <footer class="s-footer">
-            <div class="row">
-                <div class="column large-full footer__content">
-                    <div class="footer__copyright">
-                        <span>© Copyright Typerite 2019</span> 
-                        <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="go-top">
-                <a class="smoothscroll" title="Back to Top" href="#top"></a>
-            </div>
-        </footer>
+        {% include footer.html %}
 
     </div> <!-- end s-wrap -->
 
