@@ -25,11 +25,11 @@ layout: default
                       <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                       <div class="entry__meta">
                           <span class="entry__meta-cat">
-                              <a href="category.html">Design</a> 
-                              <a href="category.html">Photography</a>
+                              <a href="category.html">{{ post.category1 }}</a> 
+                              <a href="category.html">{{ post.category2 }}</a> 
                           </span>
                           <span class="entry__meta-date">
-                              <a href="single-standard.html">Apr 29, 2019</a>
+                              <a href="single-standard.html">{{ post.date | date: "%b %-d, %Y" }}</a>
                           </span>
                       </div>
                       
