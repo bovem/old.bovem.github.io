@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Test title
+title: Sample Post 1
 ---
-<p>Rick and Morty</p>
+<p>This is supposed to be the content of article</p>
 

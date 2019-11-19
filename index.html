@@ -9,7 +9,7 @@ layout: default
       <div class="masonry">
 
           <div class="grid-sizer"></div>
-
+          {% for post in site.posts %}
           <article class="masonry__brick entry format-standard animate-this">
                   
               <div class="entry__thumb">
@@ -22,7 +22,7 @@ layout: default
               <div class="entry__text">
                   <div class="entry__header">
 
-                      <h2 class="entry__title"><a href="{% post_url 2019-11-01-testing %}">Just a Standard Format Post.</a></h2>
+                      <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                       <div class="entry__meta">
                           <span class="entry__meta-cat">
                               <a href="category.html">Design</a> 
@@ -36,13 +36,13 @@ layout: default
                   </div>
                   <div class="entry__excerpt">
                       <p>
-                      Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
+                      {{post.content}}
                       </p>
                   </div>
               </div>
 
           </article> <!-- end article -->
-
+{% endfor %}
          
 
       </div> <!-- end masonry -->
