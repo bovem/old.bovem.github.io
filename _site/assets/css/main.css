@@ -2492,28 +2492,20 @@ input::-moz-focus-inner {
   position: absolute;
 }
 
-.header__social .ss-facebook a::after {
-  background-image: url(../images/icons/social/icon-facebook.svg);
+.header__social .ss-github a::after {
+  background-image: url(/assets/images/icons/social/icon-github.svg);
 }
 
-.header__social .ss-twitter a::after {
-  background-image: url(../images/icons/social/icon-twitter.svg);
+.header__social .ss-medium a::after {
+  background-image: url(/assets/images/icons/social/icon-medium.svg);
 }
 
-.header__social .ss-dribbble a::after {
-  background-image: url(../images/icons/social/icon-dribbble.svg);
+.header__social .ss-kaggle a::after {
+  background-image: url(/assets/images/icons/social/icon-kaggle.svg);
 }
 
-.header__social .ss-behance a::after {
-  background-image: url(../images/icons/social/icon-behance.svg);
-}
-
-.header__social .ss-instagram a::after {
-  background-image: url(../images/icons/social/icon-instagram.svg);
-}
-
-.header__social .ss-pinterest a::after {
-  background-image: url(../images/icons/social/icon-pinterest.svg);
+.header__social .ss-linkedin a::after {
+  background-image: url(/assets/images/icons/social/icon-linkedin.svg);
 }
 
 .header__social .ss-rss a::after {
