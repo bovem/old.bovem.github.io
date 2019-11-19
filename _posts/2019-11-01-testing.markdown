@@ -1,6 +1,6 @@
 ---
 layout: article
-title: wubba lubba dub dub
+title: Test title
 ---
-<p>hello, bitch</p>
+<p>Rick and Morty</p>
 
