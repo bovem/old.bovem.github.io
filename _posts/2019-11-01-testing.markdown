@@ -3,6 +3,7 @@ layout: article
 title: Sample Post 1
 category1: cat1
 category2: cat2
+image: /assets/images/thumbs/masonry/woodcraft-600.jpg
 ---
 <p>This is supposed to be the content of article</p>
 
