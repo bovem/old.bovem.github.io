@@ -6,8 +6,8 @@
 </description>
     <link>http://jekyll.github.io/</link>
     <atom:link href="http://jekyll.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Nov 2019 07:32:19 -0600</pubDate>
-    <lastBuildDate>Tue, 19 Nov 2019 07:32:19 -0600</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2019 07:36:18 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2019 07:36:18 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -18,6 +18,18 @@
         <pubDate>Fri, 01 Nov 2019 00:00:00 -0500</pubDate>
         <link>http://jekyll.github.io/2019/testing.html</link>
         <guid isPermaLink="true">http://jekyll.github.io/2019/testing.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 2</title>
+        <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Oct 2019 00:00:00 -0500</pubDate>
+        <link>http://jekyll.github.io/2019/testing2.html</link>
+        <guid isPermaLink="true">http://jekyll.github.io/2019/testing2.html</guid>
         
         
       </item>

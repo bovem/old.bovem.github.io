@@ -1,0 +1,9 @@
+---
+layout: article
+title: Sample Post 2
+category1: cat3
+category2: cat4
+image: /assets/images/thumbs/masonry/woodcraft-600.jpg
+---
+<p>This is supposed to be the content of article in testing 2</p>
+
