@@ -1,0 +1,8 @@
+---
+layout: article
+title: Sample Post 21
+image: /assets/images/thumbs/masonry/woodcraft-600.jpg
+categories: linear-algebra machine-learning
+desc: This is supposed to be the description of article in testing 2
+---
+<p>This is supposed to be the content of article in testing 2</p>

@@ -64,7 +64,54 @@ layout: default
             </div>
         </div> <!-- end entry__pagenav -->
 
-        
+        <div class="entry__related">
+            <h3 class="h2">Related Articles</h3>
+
+            <ul class="related">
+
+                {% if page.categories[0] == "linear-algebra" %}
+                {% for post in site.categories.linear-algebra limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "machine-learning" %}
+                {% for post in site.categories.machine-learning limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "statistics" %}
+                {% for post in site.categories.statistics limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+               
+            </ul>
+        </div> <!-- end entry related -->
+
     </article> <!-- end column large-full entry-->
 
 

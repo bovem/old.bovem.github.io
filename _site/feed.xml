@@ -6,9 +6,9 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Nov 2019 09:19:13 -0600</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2019 09:19:13 -0600</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Sun, 24 Nov 2019 11:19:07 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 11:19:07 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Sample Post 1</title>
@@ -35,6 +35,29 @@ $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}}
       </item>
     
       <item>
+        <title>Sample Post 1w</title>
+        <description>&lt;p&gt;
+
+In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
+divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
+The kerel summation radius $r$ is equal to the N-simplex height $h$.
+
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Oct 2019 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2019/post11.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2019/post11.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
         <title>Sample Post 2</title>
         <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
 
@@ -42,6 +65,74 @@ $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}}
         <pubDate>Wed, 02 Oct 2019 00:00:00 -0500</pubDate>
         <link>http://dsblog.github.io/2019/testing2.html</link>
         <guid isPermaLink="true">http://dsblog.github.io/2019/testing2.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>machine-learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 11</title>
+        <description>&lt;p&gt;
+
+In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
+divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
+The kerel summation radius $r$ is equal to the N-simplex height $h$.
+
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2018/post4dffd.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2018/post4dffd.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 23</title>
+        <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2018/post3dfd.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2018/post3dfd.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>machine-learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 22</title>
+        <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2018/postfd2.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2018/postfd2.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>machine-learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 21</title>
+        <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2018/hello-world.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2018/hello-world.html</guid>
         
         
         <category>linear-algebra</category>
