@@ -1,0 +1,8 @@
+---
+layout: article
+title: Sample Post 1
+categories: linear-algebra statistics
+image: /assets/images/thumbs/masonry/woodcraft-600.jpg
+---
+<p>This is supposed to be the content of article</p>
+

@@ -2,14 +2,17 @@
 layout: default
 ---
 
-<!--Test deployment 2-->
-            
+
+<header class="listing-header">
+    <h1 class="h2">Category: Linear Algebra</h1>
+</header>
+
   <div class="masonry-wrap">
 
       <div class="masonry">
 
           <div class="grid-sizer"></div>
-          {% for post in site.posts %}
+          {% for post in site.categories.linear-algebra %}
           <article class="masonry__brick entry format-standard animate-this">
                   
               <div class="entry__thumb">
@@ -49,6 +52,6 @@ layout: default
 
   </div> <!-- end masonry-wrap -->
 
-  
+ 
   </div>
 

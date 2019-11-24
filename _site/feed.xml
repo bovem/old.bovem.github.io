@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avnish</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://dsblog.github.io/</link>
+    <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Nov 2019 07:59:09 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 07:59:09 -0600</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Sample Post 1</title>
+        <description>&lt;p&gt;This is supposed to be the content of article&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2019/testing.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2019/testing.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>statistics</category>
+        
+      </item>
+    
+      <item>
+        <title>Sample Post 2</title>
+        <description>&lt;p&gt;This is supposed to be the content of article in testing 2&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Oct 2019 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2019/testing2.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2019/testing2.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>machine-learning</category>
+        
+      </item>
+    
+  </channel>
+</rss>
