@@ -1,9 +1,12 @@
 ---
 layout: article
 title: Sample Post 2
-category1: cat3
+category1: Linear Algebra
+cat1link: /Linear Algebra.html
 category2: cat4
+cat2link: /Linear Algebra.html
 image: /assets/images/thumbs/masonry/woodcraft-600.jpg
+categories: Linear
 ---
 <p>This is supposed to be the content of article in testing 2</p>
 
