@@ -6,13 +6,21 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Nov 2019 08:09:50 -0600</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2019 08:09:50 -0600</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 08:14:16 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 08:14:16 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Sample Post 1</title>
-        <description>&lt;p&gt;This is supposed to be the content of article&lt;/p&gt;
+        <description>&lt;p&gt;
+
+In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
+divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
+The kerel summation radius $r$ is equal to the N-simplex height $h$.
+
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 01 Nov 2019 00:00:00 -0500</pubDate>

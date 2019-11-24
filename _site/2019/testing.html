@@ -128,7 +128,29 @@
         </header> <!-- end s-header -->
 
         <div class="s-content">
-            <main class="row content__page">
+            
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
+<main class="row content__page">
                 
     <article class="column large-full entry format-standard">
 
@@ -150,7 +172,15 @@
         <div class="entry__content">
 
             <p class="lead drop-cap">
-            <p>This is supposed to be the content of article</p>
+            <p>
+
+In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
+divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
+The kerel summation radius $r$ is equal to the N-simplex height $h$.
+
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+</p>
 
 
             </p>
