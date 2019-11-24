@@ -14,7 +14,8 @@ layout: default
                 <li class="author">By <a href="#0">Avnish</a></li>
                 <li class="date">{{ page.date | date: "%b %-d, %Y" }}</li>
                 <li class="cat-links">
-                    <a href="{{ page.cat1link }}">{{ page.category1 }}</a><a href="#0">{{ page.category2 }}</a>
+                    <a href="{{ page.categories[0] | remove:',' | append:'.html' | prepend:'/' }}">{{ page.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
+                    <a href="{{ page.categories[1] | remove:',' | append:'.html' | prepend:'/' }}">{{  page.categories[1] | upcase | replace:'-',' ' }}</a>
                 </li>
             </ul>
         </div> <!-- end entry__header -->
@@ -32,8 +33,8 @@ layout: default
                 <span>Post Tags</span>
 
                 <span class="entry__tag-list">
-                    <a href="{{ page.cat1link }}">{{ page.category1 }}</a>
-                    <a href="#0">{{ page.category2 }}</a>
+                    <a href="{{ page.categories[0] | remove:',' | append:'.html' | prepend:'/' }}">{{ page.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
+                    <a href="{{ page.categories[1] | remove:',' | append:'.html' | prepend:'/' }}">{{  page.categories[1] | upcase | replace:'-',' ' }}</a>
                 </span>
 
             </p>
