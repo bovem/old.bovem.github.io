@@ -27,8 +27,8 @@ layout: default
                       <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                       <div class="entry__meta">
                           <span class="entry__meta-cat">
-                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/' }}">{{ post.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
-                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/' }}">{{ post.categories[1] | upcase | replace:'-',' ' | remove:','}}</a>
+                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
+                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | upcase | replace:'-',' ' | remove:','}}</a>
                           </span>
                           <br />
                           <span class="entry__meta-date">
