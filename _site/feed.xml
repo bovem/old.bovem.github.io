@@ -6,8 +6,8 @@
 </description>
     <link>http://jekyll.github.io/</link>
     <atom:link href="http://jekyll.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Nov 2019 05:34:22 -0600</pubDate>
-    <lastBuildDate>Sun, 24 Nov 2019 05:34:22 -0600</lastBuildDate>
+    <pubDate>Sun, 24 Nov 2019 05:44:33 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Nov 2019 05:44:33 -0600</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -19,6 +19,10 @@
         <link>http://jekyll.github.io/2019/testing.html</link>
         <guid isPermaLink="true">http://jekyll.github.io/2019/testing.html</guid>
         
+        
+        <category>linear-algebra</category>
+        
+        <category>statistics</category>
         
       </item>
     
@@ -32,7 +36,7 @@
         <guid isPermaLink="true">http://jekyll.github.io/2019/testing2.html</guid>
         
         
-        <category>linear-algebra,</category>
+        <category>linear-algebra</category>
         
         <category>machine-learning</category>
         
