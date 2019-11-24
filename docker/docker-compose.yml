@@ -14,3 +14,4 @@ services:
         - 35729:35729
     volumes:
         - ../:/srv/jekyll
+  
