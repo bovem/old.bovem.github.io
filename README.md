@@ -1,4 +1,4 @@
-example
-=======
+Data Science Blog
+=================
 
-Jekyll example Project site
+This is a Jekyll blog hosted on GitHub pages. The articles on this blog are based on Mathematics, Machine Learning, and Statistics.
