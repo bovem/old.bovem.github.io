@@ -28,7 +28,11 @@ Images should be located in [assets directory](../assets/images/)
 ```liquid 
 categories : <category1> <category2>
 ```
-The threee categories are Linear Algebra (`linear-algebra`), Machine Learning (`machine-learning`) and Statistics (`statistics`). 
+The categories alongwith their tags are  
+* Linear Algebra (```linear-algebra```)    
+* Machine Learning (```machine-learning```)  
+* Statistics (```statistics```)
+
 
 ## Description
 ```liquid 
