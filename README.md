@@ -17,6 +17,5 @@ Hello, I am Avnish. An open source developer, engineering student and author of 
 
 # Credits
 * This blog is created upon [Typerite](https://www.styleshout.com/free-templates/typerite/) HTML template by styleshout.com. They provide awesome HTML templates for [free](https://www.styleshout.com/free-templates/).
-
 * This blog uses [Jekyll](https://jekyllrb.com/) a static site generator. Check [this](https://jekyllrb.com/tutorials/convert-site-to-jekyll/) tutorial about converting HTML site to Jekyll.
 
