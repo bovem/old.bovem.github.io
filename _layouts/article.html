@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- Works only if matjax:true in front-matter of post-->
+<!-- Works only if mathjax:true is present in front-matter of post-->
 {% include mathjax.html %}
 <main class="row content__page">
                 
@@ -64,7 +64,7 @@ layout: default
                     
                 </div>
                 <div class="entry__next">
-                    <!-- If there exists a previous post (based on date) add its title and url to post -->
+                    <!-- If there exists a next post (based on date) add its title and url to post -->
                         {% if page.next.url %}
                         <a href="{{ page.next.url }}" rel="next">
                                 <span>Next Post</span>
@@ -81,7 +81,7 @@ layout: default
 
             <ul class="related">
                 
-                <!-- Show three posts sharing the same category as first category of that post -->
+                <!-- Show three posts sharing the same category as first category of current post -->
                 {% if page.categories[0] == "linear-algebra" %}
                 {% for post in site.categories.linear-algebra limit:3%}
                 {% if page.url != post.url %}
