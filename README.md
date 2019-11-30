@@ -11,6 +11,8 @@ Hello, I am Avnish. An open source developer, engineering student and author of 
             <li>GitHub username : <a href="https://github.com/avnish98/" target="_blank">@avnish98</a></li>
             <li>Kaggle username : <a href="https://kaggle.com/avnishnish/" target="_blank">@avnishnish</a></li>
             <li>LinkedIn  : <a href="https://www.linkedin.com/in/avnish-pal/" target="_blank">avnish-pal</a></li>
+            <li>Medium  : <a href="https://medium.com/@avnish98" target="_blank">@avnish98</a></li>
+</ul>
 </ul>
 
 # Credits
