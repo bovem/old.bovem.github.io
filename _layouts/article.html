@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<!-- Works only if mathjax:true is present in front-matter of post-->
+{% include mathjax.html %}
 <main class="row content__page">
                 
     <article class="column large-full entry format-standard">
@@ -8,12 +11,17 @@ layout: default
        
         <div class="content__page-header entry__header">
             <h1 class="display-1 entry__title">
+            <!-- Post title -->
             {{page.title}}
             </h1>
             <ul class="entry__header-meta">
-                <li class="author">By <a href="#0">Avnish</a></li>
+                <li class="author">By <a href="/about.html">Avnish</a></li>
+                <!-- Fetches date and changes to Month Day, Year format-->
                 <li class="date">{{ page.date | date: "%b %-d, %Y" }}</li>
+
                 <li class="cat-links">
+                    <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                    <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
                     <a href="{{ page.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
                     <a href="{{ page.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{  page.categories[1] | upcase | replace:'-',' ' }}</a>
                 </li>
@@ -23,16 +31,17 @@ layout: default
         <div class="entry__content">
 
             <p class="lead drop-cap">
+                <!-- Post content-->
             {{page.content}}
             </p>
-
-            
 
 
             <p class="entry__tags">
                 <span>Post Tags</span>
 
                 <span class="entry__tag-list">
+                        <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                        <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
                     <a href="{{ page.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
                     <a href="{{ page.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{  page.categories[1] | upcase | replace:'-',' ' }}</a>
                 </span>
@@ -43,9 +52,11 @@ layout: default
         <div class="entry__pagenav">
             <div class="entry__nav">
                 <div class="entry__prev">
+                    <!-- If there exists a previous post (based on date) add its title and url to post -->
                     {% if page.previous.url %}
                         <a href="{{ page.previous.url }}" rel="prev">
                                 <span>Previous Post</span>
+                                <!-- Title of previous post -->
                                 {{ page.previous.title }} 
                         </a>
                     {% endif %}
@@ -53,9 +64,11 @@ layout: default
                     
                 </div>
                 <div class="entry__next">
+                    <!-- If there exists a next post (based on date) add its title and url to post -->
                         {% if page.next.url %}
                         <a href="{{ page.next.url }}" rel="next">
                                 <span>Next Post</span>
+                                <!-- Title of next post -->
                                 {{ page.next.title }} 
                         </a>
                     {% endif %}
@@ -67,24 +80,48 @@ layout: default
             <h3 class="h2">Related Articles</h3>
 
             <ul class="related">
+                
+                <!-- Show three posts sharing the same category as first category of current post -->
+                {% if page.categories[0] == "linear-algebra" %}
+                {% for post in site.categories.linear-algebra limit:3%}
+                {% if page.url != post.url %}
                 <li class="related__item">
-                    <a href="single-standard.html" class="related__link">
-                        <img src="images/thumbs/masonry/walk-600.jpg" alt="">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
                     </a>
-                    <h5 class="related__post-title">Using Repetition and Patterns in Photography.</h5>
+                    <h5 class="related__post-title">{{post.title}}</h5>
                 </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "machine-learning" %}
+                {% for post in site.categories.machine-learning limit:3%}
+                {% if page.url != post.url %}
                 <li class="related__item">
-                    <a href="single-standard.html" class="related__link">
-                        <img src="images/thumbs/masonry/dew-600.jpg" alt="">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
                     </a>
-                    <h5 class="related__post-title">Health Benefits Of Morning Dew.</h5>
+                    <h5 class="related__post-title">{{post.title}}</h5>
                 </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "statistics" %}
+                {% for post in site.categories.statistics limit:3%}
+                {% if page.url != post.url %}
                 <li class="related__item">
-                    <a href="single-standard.html" class="related__link">
-                        <img src="images/thumbs/masonry/rucksack-600.jpg" alt="">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
                     </a>
-                    <h5 class="related__post-title">The Art Of Visual Storytelling.</h5>
+                    <h5 class="related__post-title">{{post.title}}</h5>
                 </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+               
             </ul>
         </div> <!-- end entry related -->
 
