@@ -1,6 +1,19 @@
 Writing a new post
 ==================
 
+## Sample front-matter
+
+```liquid
+---
+layout: article
+title: Orthogonal and Hadamard Matrices
+image: /assets/images/posts/2019-08-01-orthogonal/head.png
+categories: linear-algebra machine-learning
+desc: About orthogonal and hadamard matrices
+mathjax: true
+---
+```
+
 ## Layout
 
 ```liquid 
