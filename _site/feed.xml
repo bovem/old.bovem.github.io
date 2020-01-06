@@ -6,9 +6,23 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Dec 2019 05:16:01 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Dec 2019 05:16:01 -0600</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2020 03:24:11 -0600</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2020 03:24:11 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Linear Equations</title>
+        <description>Linear equations are used to represent a straight line in mathematical terms.</description>
+        <pubDate>Mon, 06 Jan 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/Linear-Equations.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/Linear-Equations.html</guid>
+        
+        
+        <category>linear-algebra</category>
+        
+        <category>machine-learning</category>
+        
+      </item>
     
   </channel>
 </rss>
