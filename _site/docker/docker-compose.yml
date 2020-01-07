@@ -8,9 +8,9 @@ services:
     image: jekyll-blog
     environment:
         - JEKYLL_ENV=docker
-    command: jekyll serve --force_polling --livereload 
+    command: jekyll serve --force_polling --livereload --port 7000
     ports:
-        - 4000:4000
+        - 7000:7000
         - 35729:35729
     volumes:
         - ../:/srv/jekyll
