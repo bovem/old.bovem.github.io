@@ -1753,7 +1753,7 @@ input::-moz-focus-inner {
 }
 
 .masonry .entry__thumb-link::after {
-  content: "";
+  content: "...";
   font-family: georgia, serif;
   font-size: 2.4rem;
   z-index: 1;
