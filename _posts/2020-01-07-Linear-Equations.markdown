@@ -72,7 +72,7 @@ $$  x+y = 0\ \ \ \ \ \ \ \rightarrow (iii)$$
 Using (i) we will express variable x in terms of y.   
 $$ x = 6 + 2y $$
   
-This value of x will be substituted in (ii) to convert it to an equation of a single variable (y).
+This value of x will be substituted in (ii) to convert it to an equation of a single variable (y).  
 $$ (6  + 2y) - y = 4 $$  
 $$  6 + y = 4 $$    
 $$  y = (-2) $$    
