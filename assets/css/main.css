@@ -2504,8 +2504,8 @@ input::-moz-focus-inner {
   background-image: url(/assets/images/icons/social/icon-kaggle.svg);
 }
 
-.header__social .ss-linkedin a::after {
-  background-image: url(/assets/images/icons/social/icon-linkedin.svg);
+.header__social .ss-twitter a::after {
+  background-image: url(/assets/images/icons/social/icon-twitter.svg);
 }
 
 .header__social .ss-rss a::after {
