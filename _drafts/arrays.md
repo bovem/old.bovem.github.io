@@ -25,3 +25,4 @@ These elements are accessed  using their indices.
 
     # List in Python, could be used interchangebly as an array
     arr = ["Hello", "World", 2, 3.1, True]
+    
