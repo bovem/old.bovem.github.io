@@ -30,3 +30,5 @@ fields:
 - type: boolean
   name: mathjax
   label: mathjax
+pages:
+- _posts/computer-science.md
