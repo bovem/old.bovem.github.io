@@ -26,7 +26,9 @@ title: Artificially Intelligent
                       <div class="entry__meta">
                           <span class="entry__meta-cat">
                             <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | replace:'-',' ' | remove:','}}</a>
+                            {% if page.categories[1] %}
                             <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | replace:'-',' ' | remove:','}}</a>
+                            {% endif %}
                           </span>
                           <br />
                           <span class="entry__meta-date">
