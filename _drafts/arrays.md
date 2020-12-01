@@ -4,6 +4,7 @@ mathjax: true
 title: Arrays
 image: ''
 categories:
+- MATHEMATICS
 - CS
 desc: An array takes a fixed chunk of memory and divides it into equal parts which
   are accessed using indices.
