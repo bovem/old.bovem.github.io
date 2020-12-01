@@ -22,8 +22,8 @@ fields:
     options:
     - ML
     - CS
-    - "  Statistics"
-    - " Maths"
+    - STATISTICS
+    - MATHS
 - type: text
   name: desc
   label: desc
