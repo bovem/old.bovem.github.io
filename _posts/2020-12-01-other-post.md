@@ -3,7 +3,7 @@ layout: article
 title: other post
 image: ''
 categories:
-- MATHS
+- MATHEMATICS
 - STATISTICS
 desc: gsdfgsdfgfsdg
 mathjax: true

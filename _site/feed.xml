@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avnish</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 01 Dec 2020 15:38:43 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2020 15:38:43 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>other post</title>
+        <description>gsdfgsdfgfsdg</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/other-post.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/other-post.html</guid>
+        
+        
+        <category>MATHEMATICS</category>
+        
+        <category>STATISTICS</category>
+        
+      </item>
+    
+      <item>
+        <title>dafadsf</title>
+        <description>dfa</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/dafadsf.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/dafadsf.html</guid>
+        
+        
+        <category>MATHEMATICS</category>
+        
+        <category>STATISTICS</category>
+        
+      </item>
+    
+      <item>
+        <title>Computer Science</title>
+        <description>seomthing</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/computer-science.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/computer-science.html</guid>
+        
+        
+        <category>ML</category>
+        
+        <category>CS</category>
+        
+      </item>
+    
+  </channel>
+</rss>

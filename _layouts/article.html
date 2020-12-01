@@ -83,8 +83,8 @@ title : {{ page.title }}
             <ul class="related">
                 
                 <!-- Show three posts sharing the same category as first category of current post -->
-                {% if page.categories[0] == "MATHS" %}
-                {% for post in site.categories.MATHS limit:3%}
+                {% if page.categories[0] == "MATHEMATICS" %}
+                {% for post in site.categories.MATHEMATICS limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">

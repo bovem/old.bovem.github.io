@@ -1,0 +1,17 @@
+version: "3"
+services:
+  jekyll-blog:
+    build:
+      context: ../
+      dockerfile: ./docker/dockerfile
+    container_name: jekyll-blog
+    image: jekyll-blog
+    environment:
+        - JEKYLL_ENV=docker
+    command: jekyll serve --force_polling --livereload --port 7000
+    ports:
+        - 7000:7000
+        - 35729:35729
+    volumes:
+        - ../:/srv/jekyll
+  

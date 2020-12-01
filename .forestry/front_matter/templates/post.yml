@@ -24,7 +24,7 @@ fields:
     - ML
     - CS
     - STATISTICS
-    - MATHS
+    - MATHEMATICS
 - type: text
   name: desc
   label: desc
