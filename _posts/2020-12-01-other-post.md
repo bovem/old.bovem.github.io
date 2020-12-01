@@ -3,8 +3,8 @@ layout: article
 title: other post
 image: ''
 categories:
-- " Maths"
-- "  Statistics"
+- MATHS
+- STATISTICS
 desc: gsdfgsdfgfsdg
 mathjax: true
 
