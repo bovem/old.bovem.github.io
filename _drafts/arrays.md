@@ -8,6 +8,8 @@ categories:
 - MATHEMATICS
 desc: An array takes a fixed chunk of memory and divides it into equal parts which
   are accessed using indices.
+imagealt: <span>Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Zbynek
+  Burival</a> on <a href="https://unsplash.com/s/photos/array?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ---
 An array takes a fixed chunk of memory and divides it into equal parts. These parts are accessed using indices. 
