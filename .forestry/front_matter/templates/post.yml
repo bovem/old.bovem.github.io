@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: false
 - type: text
   name: title
   label: title
@@ -14,6 +15,14 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - linear-algebra
+    - machine-learning
+    - " computer-science"
 - type: text
   name: desc
   label: desc
