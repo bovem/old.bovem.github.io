@@ -2,7 +2,7 @@
 layout: article
 mathjax: true
 title: Arrays
-image: ''
+image: "/uploads/zbynek-burival-v4zyjzj3w4m-unsplash.jpg"
 categories:
 - CS
 - MATHEMATICS
