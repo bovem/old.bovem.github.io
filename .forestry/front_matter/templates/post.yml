@@ -6,6 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: false
+  default: article
 - type: text
   name: title
   label: title
@@ -30,6 +31,7 @@ fields:
 - type: boolean
   name: mathjax
   label: mathjax
+  default: true
 pages:
 - _posts/2020-12-01-computer-science.md
 - _posts/2020-12-01-dafadsf.md
