@@ -1,12 +1,14 @@
 ---
 layout: article
 title: Linear Equations
-image: /assets/images/posts/2020-01-07-Linear-Equations/4.png
-categories: linear-algebra machine-learning
+image: "/assets/images/posts/2020-01-07-Linear-Equations/4.png"
+categories:
+- linear-algebra
+- ml
 desc: Linear equations are used to represent a straight line in mathematical terms.
 mathjax: true
----
 
+---
 Linear Equations are used to represent a straight line in mathematical terms.
 
 x = 0 is a linear equation of one variable (x). It is represented on a graph as a dot.
@@ -106,5 +108,3 @@ $$ 2 + y = 0 $$
 $$ y = -2 $$
 
 The solution from the elimination method is also (2, -2).
-
-
