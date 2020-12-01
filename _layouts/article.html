@@ -23,8 +23,8 @@ title : {{ page.title }}
                 <li class="cat-links">
                     <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                     <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="{{ page.categories[0] | append:'.html' | prepend:'/categories/' }}">{{page.categories[0]}}</a>
-                    <a href="{{ page.categories[1] | append:'.html' | prepend:'/categories/' }}">{{page.categories[1]}}</a>
+                    <a href="{{ page.categories[0] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] }}</a>
+                    <a href="{{ page.categories[1] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[1] }}</a>
                 </li>
             </ul>
         </div> <!-- end entry__header -->
@@ -43,8 +43,8 @@ title : {{ page.title }}
                 <span class="entry__tag-list">
                         <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                         <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="{{ page.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
-                    <a href="{{ page.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{  page.categories[1] | upcase | replace:'-',' ' }}</a>
+                    <a href="{{ page.categories[0] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] }}</a>
+                    <a href="{{ page.categories[1] | append:'.html' | prepend:'/categories/' }}">{{  page.categories[1] }}</a>
                 </span>
 
             </p>
@@ -83,8 +83,8 @@ title : {{ page.title }}
             <ul class="related">
                 
                 <!-- Show three posts sharing the same category as first category of current post -->
-                {% if page.categories[0] == "linear-algebra" %}
-                {% for post in site.categories.linear-algebra limit:3%}
+                {% if page.categories[0] == "MATHS" %}
+                {% for post in site.categories.MATHS limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -96,8 +96,8 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
 
-                {% if page.categories[0] == "machine-learning" %}
-                {% for post in site.categories.machine-learning limit:3%}
+                {% if page.categories[0] == "ML" %}
+                {% for post in site.categories.ML limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -109,8 +109,8 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
 
-                {% if page.categories[0] == "statistics" %}
-                {% for post in site.categories.statistics limit:3%}
+                {% if page.categories[0] == "STATISTICS" %}
+                {% for post in site.categories.STATISTICS limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -121,7 +121,19 @@ title : {{ page.title }}
                 {% endif %}
                 {% endfor %}
                 {% endif %}
-
+              
+                {% if page.categories[0] == "CS" %}
+                {% for post in site.categories.CS limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
                
             </ul>
         </div> <!-- end entry related -->
