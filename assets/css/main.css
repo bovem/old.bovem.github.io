@@ -1852,7 +1852,7 @@ input::-moz-focus-inner {
 }
 
 .masonry .entry__meta-cat a::after {
-  content: ", ";
+  content: " ";
 }
 
 .masonry .entry__meta-cat a:last-child::after {
@@ -3138,7 +3138,7 @@ body.search-is-visible {
 }
 
 .entry__header-meta .cat-links a::after {
-  content: ", ";
+  content: " ";
 }
 
 .entry__header-meta .cat-links a:last-child::after {

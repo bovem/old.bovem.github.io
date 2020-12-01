@@ -7,7 +7,7 @@
         <!--- basic page needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Artificially Intelligent</title>
+        <title>Arrays</title>
         <meta name="description" content="">
         <meta name="author" content="Avnish">
     
@@ -114,55 +114,145 @@
 
         <div class="s-content">
             <!-- Add webpage content here -->
-            <!--Test deployment 2-->
-            
-  <div class="masonry-wrap">
+            <!-- Works only if mathjax:true is present in front-matter of post-->
 
-      <div class="masonry">
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
 
-          <div class="grid-sizer"></div>
-          
-          <article class="masonry__brick entry format-standard animate-this">
-                  
-              <div class="entry__thumb">
-                  <a href="/2020/arrays.html" class="entry__thumb-link">
-                      <img src="/uploads/zbynek-burival-v4zyjzj3w4m-unsplash.jpg" alt="">
-                  </a>
-              </div>
+<main class="row content__page">
+                
+    <article class="column large-full entry format-standard">
 
-              <div class="entry__text">
-                  <div class="entry__header">
+       
+        <div class="content__page-header entry__header">
+            <h1 class="display-1 entry__title">
+            <!-- Post title -->
+            Arrays
+            </h1>
+            <ul class="entry__header-meta">
+                <li class="author">By <a href="/about.html">Avnish</a></li>
+                <!-- Fetches date and changes to Month Day, Year format-->
+                <li class="date">Dec 1, 2020</li>
 
-                      <h2 class="entry__title"><a href="/2020/arrays.html">Arrays</a></h2>
-                      <div class="entry__meta">
-                          <span class="entry__meta-cat">
-                            <a href="/categories/CS.html">CS</a>
-                            <a href="/categories/MATHEMATICS.html">MATHEMATICS</a>
-                          </span>
-                          <br />
-                          <span class="entry__meta-date">
-                              <a href="/2020/arrays.html">Dec 1, 2020</a>
-                          </span>
-                      </div>
+                <li class="cat-links">
+                    <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                    <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
+                    <a href="/categories/CS.html">CS</a>
+                    <a href="/categories/MATHEMATICS.html">MATHEMATICS</a>
+                </li>
+            </ul>
+        </div> <!-- end entry__header -->
+
+        <div class="entry__content">
+
+            <p class="lead drop-cap">
+                <!-- Post content-->
+            <p>An array takes a fixed chunk of memory and divides it into equal parts. These parts are accessed using indices.</p>
+
+<p>All the <strong>elements</strong> stored inside an array have the same datatype.</p>
+
+<p>These elements are accessed using their respective indices.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Array in C++
+  int arr[5] = { 1, 54, 2131, 231, 3231 };
+
+// Accesssing element
+  cout &lt;&lt; "First element is:" &lt;&lt; arr[0];
+</code></pre></div></div>
+
+<p>Arrays can be nested inside each other to create <strong>multidimensional arrays</strong>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Multidimensional Array in C++
+  int multarr[5][5] = { {1, 2, 3, 4, 2},
+  {54, 23, 4, 432, 4},
+  {4, 3, 4, 32, 42},
+  {5, 2, 4, 2, 4},
+  {9, 5, 4, 3, 3}
+  };
+</code></pre></div></div>
+
+<p><strong>Lists</strong> are special kinds of arrays that can store elements of multiple datatypes.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># List in Python
+arr = ["Hello", "World", 2, 3.1, True
+</code></pre></div></div>
+
+
+            </p>
+
+
+            <p class="entry__tags">
+                <span>Post Tags</span>
+
+                <span class="entry__tag-list">
+                        <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                        <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
+                    <a href="/categories/CS.html">CS</a>
+                    <a href="/categories/MATHEMATICS.html">MATHEMATICS</a>
+                </span>
+
+            </p>
+        </div> <!-- end entry content -->
+
+        <div class="entry__pagenav">
+            <div class="entry__nav">
+                <div class="entry__prev">
+                    <!-- If there exists a previous post (based on date) add its title and url to post -->
+                    
                       
-                  </div>
-                  <div class="entry__excerpt">
-                      <p>
-                      An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices.
-                      </p>
-                  </div>
-              </div>
+                    
+                </div>
+                <div class="entry__next">
+                    <!-- If there exists a next post (based on date) add its title and url to post -->
+                        
+                </div>
+            </div>
+        </div> <!-- end entry__pagenav -->
 
-          </article> <!-- end article -->
+        <div class="entry__related">
+            <h3 class="h2">Related Articles</h3>
 
-         
+            <ul class="related">
+                
+                <!-- Show three posts sharing the same category as first category of current post -->
+                
 
-      </div> <!-- end masonry -->
+                
 
-  </div> <!-- end masonry-wrap -->
+                
+              
+                
+                
+                
+                
+                
+               
+            </ul>
+        </div> <!-- end entry related -->
 
-  
-  </div>
+    </article> <!-- end column large-full entry-->
+
+
+</main>
+
             
         </div> <!-- end s-content -->
 
