@@ -10,7 +10,7 @@ desc: An array takes a fixed chunk of memory and divides it into equal parts whi
   are accessed using indices.
 
 ---
-An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices. 
+An array takes a fixed chunk of memory and divides it into equal parts. These parts are accessed using indices. 
 
 All the **elements** stored inside an array have the same datatype.
 
