@@ -1,21 +1,82 @@
-Artificially Intelligent
-=================
+# Jekyll in a Docker Container
 
-This is a Jekyll blog hosted on GitHub pages. The articles on this blog are based on Mathematics, Machine Learning, and Statistics.
+> But this has been done. Why not `docker run jekyll/jekyll`?
 
-# Author
-Hello, I am Avnish. An open source developer, engineering student and author of this blog. Currently I am working as Machine Learning Scientist Intern at Intel Indexer LLC. 
+- I wanted two images, one for easy CLI (`bretfisher/jekyll`) and one for 
+easy local server for dev with sane defaults (`bretfisher/jekyll-serve`), which I use 90% of time
+- So you can start any Jekyll server with `docker-compose up`
+- I wanted to dev on a local jekyll site w/o having jekyll installed on my host OS
+- I wanted it to be as easy as possible to start
+- I wanted current alpine, ruby, and jekyll
 
-   <ul style="list-style-type:none">
-            <li>Portfolio : <a href="https://avnish98.github.io/" target="_blank">avnish98.github.io</a></li>
-            <li>GitHub username : <a href="https://github.com/avnish98/" target="_blank">@avnish98</a></li>
-            <li>Kaggle username : <a href="https://kaggle.com/avnishnish/" target="_blank">@avnishnish</a></li>
-            <li>LinkedIn  : <a href="https://www.linkedin.com/in/avnish-pal/" target="_blank">avnish-pal</a></li>
-            <li>Medium  : <a href="https://medium.com/@avnish98" target="_blank">@avnish98</a></li>
-</ul>
-</ul>
+> So, this does that.
 
-# Credits
-* This blog is created upon [Typerite](https://www.styleshout.com/free-templates/typerite/) HTML template by styleshout.com. They provide awesome HTML templates for [free](https://www.styleshout.com/free-templates/).
-* This blog uses [Jekyll](https://jekyllrb.com/) a static site generator. Check [this](https://jekyllrb.com/tutorials/convert-site-to-jekyll/) tutorial about converting HTML site to Jekyll.
+Note [I have courses on Docker (including a Lecture on Jekyll in Docker)](https://www.bretfisher.com/courses).
 
+## Docker Images
+
+| Image | Purpose | Example |
+| ----- | ------- | ------- |
+| [bretfisher/jekyll](https://hub.docker.com/r/bretfisher/jekyll/) | Runs Jekyll by default with no options, good for general CLI commands | `docker run -v $(pwd):/site bretfisher/jekyll new .` |
+| [bretfisher/jekyll-serve](https://hub.docker.com/r/bretfisher/jekyll-serve/) | Runs Jekyll serve with sane defaults, good for local Jekyll site dev | `docker run -p 8080:4000 -v $(pwd):/site bretfisher/jekyll-serve` |
+
+## Getting Started
+
+Creating a site:
+
+```shell
+cd to empty directory
+docker run -v $(pwd):/site bretfisher/jekyll new .
+```
+
+Start a local server with sane defaults listening on port 8080:
+
+```shell
+cd dir/of/your/jekyll/site
+docker run -p 8080:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
+That's it! 
+
+Details: it will mount your current path into the containers `/site`, `bundle install` before running `jekyll serve` to , serve it at `http://<docker-host>:8080`.
+
+To make this even easier, copy `docker-compose.yml` [from this repo](https://github.com/BretFisher/jekyll-serve/blob/master/docker-compose.yml) to your jekyll site root. Then you'll only need to:
+
+```shell
+cd dir/of/your/jekyll/site
+docker-compose up
+```
+
+## Q&A
+
+**Q. What if I want to run other jekyll commands?**
+
+just add the jekyll options to the end of the `bretfisher/jekyll`:
+
+```shell
+docker run -v $(pwd):/site bretfisher/jekyll doctor
+```
+
+## License
+
+MIT License
+
+Copyright (c) [Bret Fisher bret@bretfisher.com]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

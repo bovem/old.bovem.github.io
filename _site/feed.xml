@@ -4,23 +4,51 @@
     <title>Avnish</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://dsblog.github.io/</link>
-    <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Mar 2020 07:38:18 -0500</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2020 07:38:18 -0500</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 01 Dec 2020 14:57:49 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2020 14:57:49 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Linear Equations</title>
-        <description>Linear equations are used to represent a straight line in mathematical terms.</description>
-        <pubDate>Tue, 07 Jan 2020 00:00:00 -0600</pubDate>
-        <link>http://dsblog.github.io/2020/Linear-Equations.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2020/Linear-Equations.html</guid>
+        <title>other post</title>
+        <description>gsdfgsdfgfsdg</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/other-post.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/other-post.html</guid>
         
         
-        <category>linear-algebra</category>
+        <category>MATHS</category>
         
-        <category>machine-learning</category>
+        <category>STATISTICS</category>
+        
+      </item>
+    
+      <item>
+        <title>dafadsf</title>
+        <description>dfa</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/dafadsf.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/dafadsf.html</guid>
+        
+        
+        <category>MATHS</category>
+        
+        <category>STATISTICS</category>
+        
+      </item>
+    
+      <item>
+        <title>Computer Science</title>
+        <description>seomthing</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2020/computer-science.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2020/computer-science.html</guid>
+        
+        
+        <category>ML</category>
+        
+        <category>CS</category>
         
       </item>
     

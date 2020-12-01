@@ -2233,8 +2233,8 @@ input::-moz-focus-inner {
 }
 
 .header__logo img {
-  width: 125px;
-  height: 30px;
+  width: 200px;
+  height: 50px;
   margin: 0;
 }
 
@@ -2769,8 +2769,8 @@ body.search-is-visible {
   }
 
   .header__logo img {
-    width: 120px;
-    height: 29px;
+    width: 200px;
+    height: 50px;
   }
 
   .header__nav-wrap {
