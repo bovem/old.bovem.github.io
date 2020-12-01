@@ -32,5 +32,10 @@ fields:
   name: mathjax
   label: mathjax
   default: true
+- name: imagealt
+  type: text
+  config:
+    required: false
+  label: imagealt
 pages:
 - _posts/arrays.md
