@@ -20,9 +20,10 @@ fields:
     source:
       type: simple
     options:
-    - linear-algebra
-    - machine-learning
-    - " computer-science"
+    - ML
+    - CS
+    - "  Statistics"
+    - " Maths"
 - type: text
   name: desc
   label: desc
