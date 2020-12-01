@@ -38,4 +38,4 @@ fields:
     required: false
   label: imagealt
 pages:
-- _posts/arrays.md
+- _posts/2020-12-01-arrays.md
