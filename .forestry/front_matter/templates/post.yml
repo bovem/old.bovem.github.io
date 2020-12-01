@@ -32,5 +32,3 @@ fields:
   name: mathjax
   label: mathjax
   default: true
-pages:
-- _posts/2020-12-01-computer-science.md
