@@ -15,7 +15,6 @@ All the **elements** stored inside array are of same datatype.
 
 These elements are accessed  using their indices.
 
-    C++
     // Array in C++
     int arr[5] = {1, 54, 2131, 231, 3231};
     
@@ -24,7 +23,6 @@ These elements are accessed  using their indices.
 
 **Lists** are special kinds of arrays that can store elements of multiple datatypes.
 
-    Python
     # List in Python, could be used interchangebly as an array
     arr = ["Hello", "World", 2, 3.1, True]
     
