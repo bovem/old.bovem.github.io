@@ -3,8 +3,8 @@ layout: article
 title: Linear Equations
 image: "/assets/images/posts/2020-01-07-Linear-Equations/4.png"
 categories:
-- linear-algebra
-- ml
+- " Maths"
+- " ML"
 desc: Linear equations are used to represent a straight line in mathematical terms.
 mathjax: true
 
