@@ -12,9 +12,9 @@ desc: An array takes a fixed chunk of memory and divides it into equal parts whi
 ---
 An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices. 
 
-All the **elements** stored inside array are of same datatype.
+All the **elements** stored inside an array have same datatype.
 
-These elements are accessed  using their indices.
+These elements are accessed using their respective indices.
 
     // Array in C++
     int arr[5] = {1, 54, 2131, 231, 3231};
