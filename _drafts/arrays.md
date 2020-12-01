@@ -26,3 +26,4 @@ These elements are accessed using their respective indices.
 
     # List in Python
     arr = ["Hello", "World", 2, 3.1, True]
+    
