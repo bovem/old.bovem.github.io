@@ -12,7 +12,7 @@ desc: An array takes a fixed chunk of memory and divides it into equal parts whi
 ---
 An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices. 
 
-All the **elements** stored inside an array have same datatype.
+All the **elements** stored inside an array have the same datatype.
 
 These elements are accessed using their respective indices.
 
@@ -24,6 +24,5 @@ These elements are accessed using their respective indices.
 
 **Lists** are special kinds of arrays that can store elements of multiple datatypes.
 
-    # List in Python, could be used interchangebly as an array
+    # List in Python
     arr = ["Hello", "World", 2, 3.1, True]
-    
