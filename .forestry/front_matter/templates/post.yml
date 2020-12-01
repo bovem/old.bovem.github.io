@@ -32,3 +32,5 @@ fields:
   name: mathjax
   label: mathjax
   default: true
+pages:
+- _posts/arrays.md
