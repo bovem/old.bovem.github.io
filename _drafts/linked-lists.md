@@ -14,7 +14,7 @@ A Linked List is a sequence of elements. Each element in the linked list contain
 
 Individual elements of the linked list are called **nodes**.
 
-Unlike [arrays](https://aipublication.github.io/2020/arrays.html), linked lists are dynamically allocated so the space for next element is allocated only when it is inserted.
+Unlike [arrays](https://aipublication.github.io/2020/arrays.html), linked lists are dynamically allocated so the space for the next element is allocated only when it is inserted.
 
 Also, the elements aren't next to each other in memory. That's why accessing the element in the linked list will take more time than the array.
 
