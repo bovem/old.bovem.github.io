@@ -2508,8 +2508,8 @@ input::-moz-focus-inner {
   background-image: url(/assets/images/icons/social/icon-twitter.svg);
 }
 
-.header__social .ss-rss a::after {
-  background-image: url(../images/icons/social/icon-rss.svg);
+.header__social .ss-linkedin a::after {
+  background-image: url(../images/icons/social/icon-linkedin.svg);
 }
 
 /* -------------------------------------------------------------------
