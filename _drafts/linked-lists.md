@@ -10,20 +10,18 @@ imagealt: <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=
   Spiske</a> on <a href="https://unsplash.com/s/photos/chain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ---
-A Linked List is a sequence of elements, where each element is linked to next element.
+A Linked List is a sequence of elements. Each element in the linked list contains a value and a pointer to the next element.
 
 Individual elements of the linked list are called **nodes**.
 
-Unlike [arrays](https://aipublication.github.io/2020/arrays.html), linked lists are dynamically allocated i.e. the space for next element is allocated only when it is inserted.
+Unlike [arrays](https://aipublication.github.io/2020/arrays.html), linked lists are dynamically allocated so the space for next element is allocated only when it is inserted.
 
-Also, the elements aren't next to each other in memory. 
+Also, the elements aren't next to each other in memory. That's why accessing the element in the linked list will take more time than the array.
 
-That's why accessing the element in linked list will take more time than array.
-
-But the insertion and deletion will be really quick as you have to just delete to pointer to the element to be removed and join the nodes in new order.
+But the insertion and deletion will be really quick as you have to just delete the pointer to the element to be removed and join the nodes in the new order.
 
 ### Doubly Linked List
 
-Doubly linked list is a variation of linked list.
+A doubly linked list is a variation of a linked list.
 
-A node in doubly linked list will contain pointer to next node as well as pointer to last node.
+A node in the doubly linked list will contain a pointer to the next node as well as a pointer to the last node.
