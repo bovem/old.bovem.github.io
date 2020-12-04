@@ -18,7 +18,7 @@ Unlike [arrays](https://aipublication.github.io/2020/arrays.html), linked lists 
 
 Also, the elements aren't next to each other in memory. That's why accessing the element in the linked list will take more time than the array.
 
-But the insertion and deletion will be really quick as you have to just delete the pointer to the element to be removed and join the nodes in the new order.
+But the insertion and deletion will be really quick as you just have to delete the pointer to the element to be removed and join the nodes in the new order.
 
 ### Doubly Linked List
 
