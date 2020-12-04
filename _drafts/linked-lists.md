@@ -10,7 +10,7 @@ imagealt: <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=
   Spiske</a> on <a href="https://unsplash.com/s/photos/chain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ---
-A Linked List is a sequence of elements. Each element in the linked list contains a value and a pointer to the next element.
+A linked list is a sequence of elements. Each element in the linked list contains a value and a pointer to the next element.
 
 Individual elements of the linked list are called **nodes**.
 
