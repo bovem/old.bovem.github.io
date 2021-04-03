@@ -4,18 +4,30 @@
     <title>Avnish</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 01 Dec 2020 18:55:09 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2020 18:55:09 +0000</lastBuildDate>
+    <link>http://dsblog.github.io/</link>
+    <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 03 Apr 2021 08:05:22 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Apr 2021 08:05:22 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Linked Lists</title>
+        <description>A linked list is a sequence of elements. Each element in the linked list contains a value and a pointer to the next element.</description>
+        <pubDate>Fri, 04 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/linked-lists.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/linked-lists.html</guid>
+        
+        
+        <category>CS</category>
+        
+      </item>
     
       <item>
         <title>Arrays</title>
         <description>An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices.</description>
-        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2020/arrays.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2020/arrays.html</guid>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/arrays.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/arrays.html</guid>
         
         
         <category>CS</category>
