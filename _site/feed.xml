@@ -6,9 +6,21 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Apr 2021 03:27:45 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 03:27:45 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Apr 2021 05:52:02 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 05:52:02 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Correlation</title>
+        <description>Correlation is the statistical measure of the strength of the relationship between two variables.</description>
+        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/correlation.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/correlation.html</guid>
+        
+        
+        <category>STATISTICS</category>
+        
+      </item>
     
       <item>
         <title>Linked Lists</title>
