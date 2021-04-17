@@ -7,7 +7,7 @@
         <!--- basic page needs
         ================================================== -->
         <meta charset="utf-8">
-        <title>Correlation</title>
+        <title>Linear Equation</title>
         <meta name="description" content="">
         <meta name="author" content="Avnish">
     
@@ -148,7 +148,7 @@
         <div class="content__page-header entry__header">
             <h1 class="display-1 entry__title">
             <!-- Post title -->
-            Correlation
+            Linear Equation
             </h1>
             <ul class="entry__header-meta">
                 <li class="author">By <a href="/about.html">Avnish</a></li>
@@ -158,7 +158,7 @@
                 <li class="cat-links">
                     <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                     <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="/categories/STATISTICS.html">STATISTICS</a>
+                    <a href="/categories/MATHEMATICS.html">MATHEMATICS</a>
                     
                 </li>
             </ul>
@@ -168,52 +168,97 @@
 
             <p class="lead drop-cap">
                 <!-- Post content-->
-            <p>For a dataset with two variables (columns): x and y.</p>
+            <p>We will start by looking at a simple linear equation and their representation on graph.</p>
 
-<p>Correlation is the statistical measure of the strength of the relationship between x and y.<br />
-or<br />
-Correlation tells if an increase or decrease in the value of x will result in an increase or decrease in the values of y.</p>
+<p>x = 0 is a simple linear equation of one variable (x), on a graph it is plotted as a dot.<br />
+<img src="/uploads/lineareq.png" /><br />
+<small>Red dot on 0.00 represents the point x=0</small></p>
 
-<p>It is measured by the correlation coefficient which ranges from -1 to +1. Where -1 means negative correlation (if x increases then y decreases and vice versa).</p>
+<p>Whereas, 2x+3y=6 is a linear equation of two variables (x and y) which can be plotted as a line on graph.</p>
 
-<p><img src="/uploads/correlation2.png" /></p>
+<p><img src="/uploads/lineareq2.png" /><br />
+<small>Blue line represents the equation 2x+3y=6</small></p>
 
-<p>and +1 means positive correlation (if x increases then y increases).</p>
+<p>On a graph with two axis (x and y), x=0 will be represented as a line.</p>
 
-<p><img src="/uploads/correlation3.png" /></p>
+<p><img src="/uploads/lineareq3.png" /><br />
+<small>Red line is representation of x=0 in two dimensional graph</small></p>
 
-<p>But, if the value of correlation is 0 then both variables are independent of each other or we can say that there is a negligible relationship between them.</p>
+<p>All the linear combinations of x and y are representation of line, and if we plot all at once they will fill up the complete Cartesian plane.</p>
 
-<p><img src="/uploads/correlation4.png" /></p>
+<script type="math/tex; mode=display">x-2y = 6 →(1)</script>
 
-<h2 id="correlation-matrix">Correlation Matrix</h2>
-<p>Often the dataset contains more than two variables. So, to represent the correlation of different variables we create a correlation matrix as 
-<img src="/uploads/correlation5.png" /></p>
+<script type="math/tex; mode=display">x-y = 4 →(2)</script>
 
-<h3 id="example">Example</h3>
+<script type="math/tex; mode=display">x+y = 0 →(3)</script>
 
-<p><img src="/uploads/correlation6.png" />
-<img src="/uploads/correlation7.png" />
-<img src="/uploads/correlation8.png" /><br />
-The diagonal of this matrix will always contain 1.</p>
+<p>These three equations can be called a system of linear equations. There might be a common value of x and y such that it satisfies all three equations and that value of x and y can be found thought plotting all of these on a graph. The point where these lines intersect would be called solution of linear equation.</p>
 
-<h2 id="pearson-product-moment-correlation">Pearson Product-Moment Correlation</h2>
-<p>The formula of the Pearson correlation coefficient is
-<img src="/uploads/correlation9.png" /><br />
-where<br />
-<img src="/uploads/correlation10.png" /><br />
-it is also known as Pearson Product-Moment Correlation, named after Karl Pearson, an English Mathematician, and Statistician.</p>
+<p><img src="/uploads/lineareq4.png" /></p>
 
-<p>To calculate Pearson Product-Moment Correlation both variables/columns need not have the same scale or same units. Also, it does not take in consideration if any of the variables are dependent or independent.</p>
+<p>For the system of linear equation we assumed, there is one solution i.e. $ (x,y)=(2,-2) $  because all three lines intersect at (2,-2).</p>
 
-<h3 id="example-1">Example</h3>
+<h2 id="solving-a-system-of-linear-equations">Solving a system of linear equations</h2>
+<p>There are many methods for solving a system of linear equation, one of them is elimination method.</p>
 
-<p><img src="/uploads/correlation11.png" /></p>
+<p>As the name suggest in elimination method, we eliminate one of the variables by subtracting one equation from another (or first multiplying one of the equation with some number and then subtracting from other equation).</p>
 
-<h2 id="correlation-and-slope">Correlation and Slope</h2>
-<p>At first glance, the correlation seems similar to the slope. But this is not true, it is possible that there is a correlation of 1 and still the resulting plot is not a straight line.</p>
+<p>From our example above :</p>
 
-<p>Examples are available <a href="https://github.com/bovem/publications/blob/master/PyFinance/Correlation/correlation.ipynb" target="_blank">here</a></p>
+<p><strong>Step 1</strong> : We eliminate “y” from (1) by adding (2) to (1)</p>
+
+<script type="math/tex; mode=display">(x+y) + (x-y) = 0+4</script>
+
+<script type="math/tex; mode=display">2x = 4</script>
+
+<script type="math/tex; mode=display">x = 2 → (4)</script>
+
+<p><strong>Step 2</strong> : We take the value of “x” from (4) and substitute it in (1)</p>
+
+<script type="math/tex; mode=display">2+y = 0</script>
+
+<script type="math/tex; mode=display">y = -2 → (5)</script>
+
+<p>From (4) and (5) we can say that $ x+y = 0 $ and $ x-y = 4 $ have a solution (2,-2).</p>
+
+<p>But what about (3)? Does it have same solution?</p>
+
+<p><strong>Step 3</strong> : Substitute the value of (2,-2) in equation (3)</p>
+
+<script type="math/tex; mode=display">2-(2×(-2)) = 6</script>
+
+<script type="math/tex; mode=display">2-(-4) = 6</script>
+
+<script type="math/tex; mode=display">6 = 6</script>
+
+<p>So, (2,-2) satisfies the equation. Hence, it is a solution of aforementioned system of linear equations.</p>
+
+<h2 id="matrices">Matrices</h2>
+<p>A matrix is an arrangement of elements in rows and columns. An element can be anything (constant, number, variable, etc).</p>
+
+<p><img src="/uploads/lineareq5.png" /><br />
+<small>A matrix of order 3x3</small></p>
+
+<p>Usually matrix are enclosed in “[ ]”.</p>
+
+<p>Order of a matrix is = Number of rows × Number of columns.</p>
+
+<p>A linear equation can also be represented in the form of matrices like the system of linear equations in (1),(2) and (3) can be represented as:</p>
+
+<p><img src="/uploads/lineareq6.png" /><br />
+<small>Coefficient matrix of (1), (2) and (3)</small></p>
+
+<p>This is the coefficient side of all the equations represented as matrix. Column 1 is coefficients of “x” and column 2 is coefficients of “y”. Every row represents an equation.</p>
+
+<p><img src="/uploads/lineareq7.png" /><br />
+<small>Constants matrix of (1), (2) and (3)</small></p>
+
+<p>This is the constant side of system of equations represented as a matrix of order 3 × 1. Both matrices can be written together as an augmented matrix, separated by pipe ($\  | \ $) or dotted line.</p>
+
+<p><img src="/uploads/lineareq8.png" /><br />
+<small>Augmented matrix of (1),(2) and (3)</small></p>
+
+<p>Augmented matrix might be useful in future while applying <a href="" target="_blank">Gauss Elimination algorithm</a>.</p>
 
             </p>
 
@@ -224,7 +269,7 @@ it is also known as Pearson Product-Moment Correlation, named after Karl Pearson
                 <span class="entry__tag-list">
                         <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                         <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="/categories/STATISTICS.html">STATISTICS</a>
+                    <a href="/categories/MATHEMATICS.html">MATHEMATICS</a>
                     
                 </span>
 
@@ -236,10 +281,10 @@ it is also known as Pearson Product-Moment Correlation, named after Karl Pearson
                 <div class="entry__prev">
                     <!-- If there exists a previous post (based on date) add its title and url to post -->
                     
-                        <a href="/2020/linked-lists.html" rel="prev">
+                        <a href="/2021/deep-work.html" rel="prev">
                                 <span>Previous Post</span>
                                 <!-- Title of previous post -->
-                                Linked Lists 
+                                Deep Work 
                         </a>
                     
                       
@@ -248,12 +293,6 @@ it is also known as Pearson Product-Moment Correlation, named after Karl Pearson
                 <div class="entry__next">
                     <!-- If there exists a next post (based on date) add its title and url to post -->
                         
-                        <a href="/2021/deep-work.html" rel="next">
-                                <span>Next Post</span>
-                                <!-- Title of next post -->
-                                Deep Work 
-                        </a>
-                    
                 </div>
             </div>
         </div> <!-- end entry__pagenav -->
@@ -265,13 +304,13 @@ it is also known as Pearson Product-Moment Correlation, named after Karl Pearson
                 
                 <!-- Show three posts sharing the same category as first category of current post -->
                 
+                
+                
+                
+                
 
                 
 
-                
-                
-                
-                
                 
               
                 

@@ -6,9 +6,33 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Apr 2021 05:52:02 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 05:52:02 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Apr 2021 06:48:57 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Apr 2021 06:48:57 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Linear Equation</title>
+        <description>Linear Equations are used to model systems</description>
+        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/linear-equation.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/linear-equation.html</guid>
+        
+        
+        <category>MATHEMATICS</category>
+        
+      </item>
+    
+      <item>
+        <title>Deep Work</title>
+        <description>“Deep Work” is a book by Cal Newport that focuses mostly on pushing your cognitive abilities to their limit and producing work that is difficult to replicate.</description>
+        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/deep-work.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/deep-work.html</guid>
+        
+        
+        <category>PRODUCTIVITY</category>
+        
+      </item>
     
       <item>
         <title>Correlation</title>
