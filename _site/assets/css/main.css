@@ -2233,7 +2233,7 @@ input::-moz-focus-inner {
 }
 
 .header__logo img {
-  width: 200px;
+  width: 100px;
   height: 50px;
   margin: 0;
 }

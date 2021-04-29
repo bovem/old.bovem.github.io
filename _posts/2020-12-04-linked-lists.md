@@ -4,7 +4,7 @@ mathjax: true
 title: Linked Lists
 image: "/uploads/markus-spiske-k-ff5sb4icy-unsplash.jpg"
 categories:
-- CS
+- DATA_STRUCTURES
 desc: A linked list is a sequence of elements. Each element in the linked list contains
   a value and a pointer to the next element.
 imagealt: <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus

@@ -6,9 +6,21 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 17 Apr 2021 08:58:38 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Apr 2021 08:58:38 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Apr 2021 14:41:30 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 14:41:30 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Proposition Logic</title>
+        <description>Proposition is a statement that declares a fact that is either true or false but not both.</description>
+        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/proposition-logic.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/proposition-logic.html</guid>
+        
+        
+        <category>DISCRETE_MATHEMATICS</category>
+        
+      </item>
     
       <item>
         <title>Linear Equation</title>
@@ -54,7 +66,7 @@
         <guid isPermaLink="true">http://dsblog.github.io/2020/linked-lists.html</guid>
         
         
-        <category>CS</category>
+        <category>DATA_STRUCTURES</category>
         
       </item>
     
@@ -66,7 +78,7 @@
         <guid isPermaLink="true">http://dsblog.github.io/2020/arrays.html</guid>
         
         
-        <category>CS</category>
+        <category>DATA_STRUCTURES</category>
         
       </item>
     

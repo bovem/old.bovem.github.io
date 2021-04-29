@@ -1,16 +1,19 @@
 ---
 layout: default
-title: bovem.github.io
+title: Discrete Mathematics
 
 ---
-<!--Test deployment 2-->
+<header class="listing-header">
+    <h1 class="h2">Discrete Mathematics</h1>
+</header>
             
   <div class="masonry-wrap">
 
       <div class="masonry">
 
           <div class="grid-sizer"></div>
-          {% for post in site.posts %}
+          <!-- For all posts in Statistics category -->
+          {% for post in site.categories.DISCRETE_MATHEMATICS %}
           <article class="masonry__brick entry format-standard animate-this">
                   
               <div class="entry__thumb">
@@ -25,9 +28,9 @@ title: bovem.github.io
                       <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                       <div class="entry__meta">
                           <span class="entry__meta-cat">
-                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | replace:'-',' ' | remove:','}}</a>
+                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
                             {% if page.categories[1] %}
-                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | replace:'-',' ' | remove:','}}</a>
+                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | upcase | replace:'-',' ' | remove:','}}</a>
                             {% endif %}
                           </span>
                           <br />
