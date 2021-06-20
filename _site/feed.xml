@@ -6,79 +6,19 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 May 2021 05:14:04 -0500</pubDate>
-    <lastBuildDate>Wed, 12 May 2021 05:14:04 -0500</lastBuildDate>
+    <pubDate>Sun, 20 Jun 2021 17:14:28 -0500</pubDate>
+    <lastBuildDate>Sun, 20 Jun 2021 17:14:28 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Proposition Logic</title>
-        <description>Proposition is a statement that declares a fact that is either true or false but not both.</description>
-        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/proposition-logic.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/proposition-logic.html</guid>
-        
-        
-        <category>DISCRETE_MATHEMATICS</category>
-        
-      </item>
-    
-      <item>
-        <title>Linear Equation</title>
-        <description>Linear Equations are used to model systems</description>
-        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/linear-equation.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/linear-equation.html</guid>
-        
-        
-        <category>MATHEMATICS</category>
-        
-      </item>
-    
-      <item>
-        <title>Deep Work</title>
-        <description>“Deep Work” is a book by Cal Newport that focuses mostly on pushing your cognitive abilities to their limit and producing work that is difficult to replicate.</description>
-        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/deep-work.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/deep-work.html</guid>
-        
-        
-        <category>PRODUCTIVITY</category>
-        
-      </item>
-    
-      <item>
-        <title>Correlation</title>
-        <description>Correlation is the statistical measure of the strength of the relationship between two variables.</description>
-        <pubDate>Sat, 17 Apr 2021 00:00:00 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/correlation.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/correlation.html</guid>
-        
-        
-        <category>STATISTICS</category>
-        
-      </item>
-    
-      <item>
-        <title>Linked Lists</title>
-        <description>A linked list is a sequence of elements. Each element in the linked list contains a value and a pointer to the next element.</description>
-        <pubDate>Fri, 04 Dec 2020 00:00:00 -0600</pubDate>
-        <link>http://dsblog.github.io/2020/linked-lists.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2020/linked-lists.html</guid>
-        
-        
-        <category>DATA_STRUCTURES</category>
-        
-      </item>
-    
-      <item>
         <title>Arrays</title>
-        <description>An array takes a fixed chunk of memory and divides it into equal parts which are accessed using indices.</description>
+        <description></description>
         <pubDate>Tue, 01 Dec 2020 00:00:00 -0600</pubDate>
         <link>http://dsblog.github.io/2020/arrays.html</link>
         <guid isPermaLink="true">http://dsblog.github.io/2020/arrays.html</guid>
         
         
-        <category>DATA_STRUCTURES</category>
+        <category>ALGO</category>
         
       </item>
     

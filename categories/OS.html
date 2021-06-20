@@ -1,0 +1,59 @@
+---
+layout: default
+title: Operating Systems
+
+---
+<header class="listing-header">
+    <h1 class="h2">Operating Systems</h1>
+</header>
+            
+  <div class="masonry-wrap">
+
+      <div class="masonry">
+
+          <div class="grid-sizer"></div>
+          <!-- For all posts in Statistics category -->
+          {% for post in site.categories.OS %}
+          <article class="masonry__brick entry format-standard animate-this">
+                  
+              <div class="entry__thumb">
+                  <a href="{{ post.url }}" class="entry__thumb-link">
+                      <img src="{{ post.image }}" alt="">
+                  </a>
+              </div>
+
+              <div class="entry__text">
+                  <div class="entry__header">
+
+                      <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                      <div class="entry__meta">
+                          <span class="entry__meta-cat">
+                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
+                            {% if page.categories[1] %}
+                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | upcase | replace:'-',' ' | remove:','}}</a>
+                            {% endif %}
+                          </span>
+                          <br />
+                          <span class="entry__meta-date">
+                              <a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+                          </span>
+                      </div>
+                      
+                  </div>
+                  <div class="entry__excerpt">
+                      <p>
+                      {{post.desc}}
+                      </p>
+                  </div>
+              </div>
+
+          </article> <!-- end article -->
+{% endfor %}
+         
+
+      </div> <!-- end masonry -->
+
+  </div> <!-- end masonry-wrap -->
+
+  
+  </div>
