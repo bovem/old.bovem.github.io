@@ -6,16 +6,16 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Jun 2021 02:06:51 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 03:45:34 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-30-uniqueness-quantifier.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-30-uniqueness-quantifier.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-08-exponential-calculation-algorithm.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-08-exponential-calculation-algorithm.html</guid>
         
         
       </item>
@@ -23,9 +23,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-29-uniqueness-proofs.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-29-uniqueness-proofs.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-02-generating-r-combinations.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-02-generating-r-combinations.html</guid>
         
         
       </item>
@@ -33,9 +33,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-28-union-of-collection-of-sets.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-28-union-of-collection-of-sets.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-01-generating-permutation.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-01-generating-permutation.html</guid>
         
         
       </item>
@@ -43,9 +43,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-20-tree-diagrams.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-20-tree-diagrams.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-17-permutation-with-indistinguishable-objects.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-17-permutation-with-indistinguishable-objects.html</guid>
         
         
       </item>
@@ -53,9 +53,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-10-summations.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-10-summations.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-30-product-rule.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-30-product-rule.html</guid>
         
         
       </item>
@@ -63,9 +63,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-25-sets.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-25-sets.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-25-correctness-of-conditional-statement.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-25-correctness-of-conditional-statement.html</guid>
         
         
       </item>
@@ -73,9 +73,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-17-sequences.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-17-sequences.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-16-recursive-definition-of-number-of-vertices-of-full-binary-tree.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-16-recursive-definition-of-number-of-vertices-of-full-binary-tree.html</guid>
         
         
       </item>
@@ -83,9 +83,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-15-satisfiability-of-sudoku.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-15-satisfiability-of-sudoku.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-14-recursive-definition-of-extended-binary-trees.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-14-recursive-definition-of-extended-binary-trees.html</guid>
         
         
       </item>
@@ -93,9 +93,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-13-sample-space.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-13-sample-space.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-13-recusive-definition-of-full-binary-trees.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-13-recusive-definition-of-full-binary-trees.html</guid>
         
         
       </item>
@@ -103,9 +103,9 @@
       <item>
         <title></title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-04-recusive-definition-of-full-binary-trees.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-04-recusive-definition-of-full-binary-trees.html</guid>
+        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-09-08-recursively-defined-functions.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-08-recursively-defined-functions.html</guid>
         
         
       </item>

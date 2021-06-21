@@ -188,7 +188,7 @@
             <ul class="entry__header-meta">
                 <li class="author">By <a href="/index.html">Avnish</a></li>
                 <!-- Fetches date and changes to Month Day, Year format-->
-                <li class="date">Oct 27, 2020</li>
+                <li class="date">Oct 26, 2020</li>
 
                 <li class="cat-links">
                     <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
@@ -206,11 +206,13 @@
             <p>This is a recursive implementation of <a href="/2020/modular-exponentiation.html">Modular Exponentiation</a>.</p>
 
 <p>It will be based on the observation that
-<script type="math/tex">% <![CDATA[
-M_{exp}(b, n, m) = b^n\ mod\ m = \begin{cases} 
-      (b^{n/2}\ mod\ m)^2\ mod\ m & n\ is\ even \\
-      ((b^{\lfloor n/2 \rfloor}\ mod\ m)^2\ mod\ m \cdot\ b\ mod\ m )\ mod\ m & n\ is\ odd
-\end{cases} %]]></script></p>
+$$</p>
+
+<p>M_{exp}(b, n, m) = b^n\ mod\ m = \begin{cases} 
+      (b^{n/2}\ mod\ m)^2\ mod\ m &amp; n\ is\ even <br />
+      ((b^{\lfloor n/2 \rfloor}\ mod\ m)^2\ mod\ m \cdot\ b\ mod\ m )\ mod\ m &amp; n\ is\ odd
+\end{cases}
+$$</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mpower(b, n, m):
 	if(b&gt;0 and m&gt;=2 and n&gt;=0):
@@ -245,10 +247,10 @@ M_{exp}(b, n, m) = b^n\ mod\ m = \begin{cases}
                 <div class="entry__prev">
                     <!-- If there exists a previous post (based on date) add its title and url to post -->
                     
-                        <a href="/2020/sides.html" rel="prev">
+                        <a href="/2020/modular-exponentiation.html" rel="prev">
                                 <span>Previous Post</span>
                                 <!-- Title of previous post -->
-                                Sides 
+                                Modular Exponentiation 
                         </a>
                     
                       
@@ -281,7 +283,46 @@ M_{exp}(b, n, m) = b^n\ mod\ m = \begin{cases}
               
                 
                
+                
+
+                
+
+                
+                
+                
+                <li class="related__item">
+                    <a href="/2020/well-formed-formulae-on-operators-and-operands.html" class="related__link">
+                        <img src="/assets/images/img_test.jpg" alt="">
+                    </a>
+                    <h5 class="related__post-title">Well-Formed Formulae on Operators and Operands</h5>
+                </li>
+                
+                
+                
+                <li class="related__item">
+                    <a href="/2020/geometric-series.html" class="related__link">
+                        <img src="/assets/images/img_test.jpg" alt="">
+                    </a>
+                    <h5 class="related__post-title">Geometric Series</h5>
+                </li>
+                
+                
+                
+                <li class="related__item">
+                    <a href="/2020/binary-search-algorithm.html" class="related__link">
+                        <img src="/assets/images/img_test.jpg" alt="">
+                    </a>
+                    <h5 class="related__post-title">Binary Search Algorithm</h5>
+                </li>
+                
+                
+                
+
+                
+
+                
             </ul>
+
         </div> <!-- end entry related -->
 
     </article> <!-- end column large-full entry-->

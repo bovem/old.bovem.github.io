@@ -5,8 +5,9 @@ title: Logical Equivalence of Quantifiers
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: '' 
-imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+desc: Logical Equivalence of two statements containing Predicates and Quantifiers is true only when they have same truth value 
+ 
+imagealt: 
 ---
 
 [Logical Equivalence]({% post_url 2020-02-04-logical-equivalence %}) of two statements containing [Predicates]({% post_url 2020-02-16-predicates %}) and [Quantifiers]({% post_url 2020-03-03-quantifiers %}) is true only when they have same truth value 

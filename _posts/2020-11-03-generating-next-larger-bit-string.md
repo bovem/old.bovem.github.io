@@ -5,8 +5,9 @@ title: Generating Next larger Bit String
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: '' 
-imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+desc: We can use Bit String to generate combinations. If bit string represents occurrence of element in combination then if all the possible bit strings are listed then all the combinations can be listed.
+ 
+imagealt: 
 ---
 
 We can use [Bit String]({% post_url 2020-01-21-bit-string %}) to generate combinations. If bit string represents occurrence of element in combination then if all the possible bit strings are listed then all the combinations can be listed.

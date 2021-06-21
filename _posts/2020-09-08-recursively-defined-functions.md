@@ -5,8 +5,9 @@ title: Recursively Defined Functions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: '' 
-imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+desc: To define a Functions recursively with non-negative integers as its Domain we have to do two steps:
+ 
+imagealt: 
 ---
 
 To define a [Functions]({% post_url 2020-06-18-functions %}) *recursively* with non-negative integers as its [Domain]({% post_url 2020-05-26-domain %}) we have to do two steps:

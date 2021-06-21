@@ -87,8 +87,8 @@ title : {{ page.title }}
             <ul class="related">
                 
                 <!-- Show three posts sharing the same category as first category of current post -->
-                {% if page.categories[0] == "MATHEMATICS" %}
-                {% for post in site.categories.MATHEMATICS limit:3%}
+                {% if page.categories[0] == "MATH" %}
+                {% for post in site.categories.MATH limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -100,8 +100,8 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
 
-                {% if page.categories[0] == "ML" %}
-                {% for post in site.categories.ML limit:3%}
+                {% if page.categories[0] == "ALGO" %}
+                {% for post in site.categories.ALGO limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -113,8 +113,8 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
 
-                {% if page.categories[0] == "STATISTICS" %}
-                {% for post in site.categories.STATISTICS limit:3%}
+                {% if page.categories[0] == "CD" %}
+                {% for post in site.categories.CD limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -126,8 +126,8 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
               
-                {% if page.categories[0] == "CS" %}
-                {% for post in site.categories.CS limit:3%}
+                {% if page.categories[0] == "CN" %}
+                {% for post in site.categories.CN limit:3%}
                 {% if page.url != post.url %}
                 <li class="related__item">
                     <a href="{{post.url}}" class="related__link">
@@ -139,7 +139,72 @@ title : {{ page.title }}
                 {% endfor %}
                 {% endif %}
                
+                {% if page.categories[0] == "CPROG" %}
+                {% for post in site.categories.CPROG limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "DBMS" %}
+                {% for post in site.categories.DBMS limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "DM" %}
+                {% for post in site.categories.DM limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "OS" %}
+                {% for post in site.categories.OS limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+
+                {% if page.categories[0] == "TOC" %}
+                {% for post in site.categories.TOC limit:3%}
+                {% if page.url != post.url %}
+                <li class="related__item">
+                    <a href="{{post.url}}" class="related__link">
+                        <img src="{{post.image}}" alt="">
+                    </a>
+                    <h5 class="related__post-title">{{post.title}}</h5>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
             </ul>
+
         </div> <!-- end entry related -->
 
     </article> <!-- end column large-full entry-->
