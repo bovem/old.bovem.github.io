@@ -17,12 +17,13 @@ mkdir _site
 git clone https://${GH_TOKEN}@github.com/bovem/bovem.github.io.git --branch gh-pages _site
 
 # build with Jekyll into "_site"
+bundle update --bundler
 bundle exec jekyll build
 
 # push
 cd _site
 git config user.email "av_nish@outlook.com"
-git config user.name "Avnish Pal"
+git config user.name "Avnish"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push --force origin gh-pages
