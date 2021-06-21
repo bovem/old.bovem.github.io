@@ -1,8 +1,14 @@
 ---
 layout: default
+mathjax: true
 title: C Programming
-
+permalink: /CPROG/
+pagination: 
+  enabled: true
+  category: CPROG
+  permalink: /:num/
 ---
+
 <header class="listing-header">
     <h1 class="h2">C Programming</h1>
 </header>
@@ -12,8 +18,8 @@ title: C Programming
       <div class="masonry">
 
           <div class="grid-sizer"></div>
-          <!-- For all posts in Machine Learning category -->
-          {% for post in site.categories.CPROG %}
+          <!-- For all posts in Statistics category -->
+          {% for post in paginator.posts %}
           <article class="masonry__brick entry format-standard animate-this">
                   
               <div class="entry__thumb">
@@ -54,6 +60,40 @@ title: C Programming
       </div> <!-- end masonry -->
 
   </div> <!-- end masonry-wrap -->
+<nav class="pgn">
+    {% if paginator.total_pages > 1 %}
+    
+    <ul>
+    {% if paginator.previous_page %}
+    <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" style="color: black;" class="pgn__num"><b>&laquo;</b></a>
+    </li>
+    {% endif %}
+    
+  <!-- <span class="page_number ">
+        Page: {{ paginator.page }} of {{ paginator.total_pages }}   
+  </span> -->
 
+{% if paginator.page_trail %}
+  {% for trail in paginator.page_trail %}
+    <li {% if page.url == trail.path %}class="selected"{% endif %}>
+        {% if page.url == trail.path %}
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="pgn__num current">{{ trail.num }}</a>
+        {% else %}
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="pgn__num">{{ trail.num }}</a>
+        {% endif %}
+    </li>
+  {% endfor %}
+{% endif %}
+
+    {% if paginator.next_page %}
+    <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" style="color: black;" class="pgn__num"><b>&raquo;</b></a>
+    </li>
+    {% endif %}
+    
+    </ul>
+    {% endif %}
+  </nav>
   
   </div>

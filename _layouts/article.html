@@ -23,9 +23,9 @@ title : {{ page.title }}
                 <li class="cat-links">
                     <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                     <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="{{ page.categories[0] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] }}</a>
+                    <a href="{{ page.categories[0] | prepend:'/' }}">{{ page.categories[0] }}</a>
                     {% if page.categories[1] %}
-                    <a href="{{ page.categories[1] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[1] }}</a>
+                    <a href="{{ page.categories[1] | prepend:'/' }}">{{ page.categories[1] }}</a>
                     {% endif %}
                 </li>
             </ul>
@@ -45,9 +45,9 @@ title : {{ page.title }}
                 <span class="entry__tag-list">
                         <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
                         <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
-                    <a href="{{ page.categories[0] | append:'.html' | prepend:'/categories/' }}">{{ page.categories[0] }}</a>
+                    <a href="{{ page.categories[0] | prepend:'/' }}">{{ page.categories[0] }}</a>
                     {% if page.categories[1] %}
-                    <a href="{{ page.categories[1] | append:'.html' | prepend:'/categories/' }}">{{  page.categories[1] }}</a>
+                    <a href="{{ page.categories[1] | prepend:'/' }}">{{  page.categories[1] }}</a>
                     {% endif %}
                 </span>
 
