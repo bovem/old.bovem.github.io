@@ -1,0 +1,24 @@
+---
+layout: article
+mathjax: true
+title: Greatest Common Divisor (GCD)
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+Let $a$ and $b$ be two integers such that $a, b \neq 0$.
+Largest number $d$ such that $d | a$ and $d | b$ is *Greatest Common Divisor* of $a$ and $b$. It will be denoted as $gcd(a, b)$.
+
+### Subtopics
+- [Relatively Prime]({% post_url 2020-08-13-relatively-prime %})
+- [Euclidean Algorithm]({% post_url 2020-11-07-euclidean-algorithm %})
+- [Bézout Theorem]({% post_url 2020-08-18-bézout-theorem %})
+
+### Finding GCD using [Prime Factorization]({% post_url 2020-08-14-prime-factorization %})
+
+Given $a = p_1^{a_1}p_2^{a_2} \dots p_n^{a_n}$ and $b = p_1^{b_1}p_2^{b_2} \dots p_n^{b_n}$.
+
+Then $gcd(a, b) = p_1^{min(a_1, b_1)}p_2^{min(a_2, b_2)} \dots p_n^{min(a_n, b_n)}$

@@ -1,0 +1,23 @@
+---
+layout: article
+mathjax: true
+title: Sequences
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+*Sequence* is a [Functions]({% post_url 2020-06-18-functions %}) where [Domain]({% post_url 2020-05-26-domain %}) is [Subsets]({% post_url 2020-05-03-subsets %}) of integers and [Codomain]({% post_url 2020-05-27-codomain %}) is another set $S$.
+
+It is denoted as $\{ a_n \}$
+
+### Subtopics
+- [Geometric Progression (GP)]({% post_url 2020-06-20-geometric-progression-(gp) %})
+- [Arithematic Progression (AP)]({% post_url 2020-06-21-arithematic-progression-(ap) %})
+- [String]({% post_url 2020-06-22-string %})
+- [Recurrance Relations]({% post_url 2020-06-26-recurrance-relations %})
+- [Summations]({% post_url 2020-06-30-summations %})
+- [Geometric Series]({% post_url 2020-12-17-geometric-series %})
+- [Summation Formulas]({% post_url 2020-07-01-summation-formulas %})

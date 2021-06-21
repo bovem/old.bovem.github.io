@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<head>
+
+        <!--- basic page needs
+        ================================================== -->
+        <meta charset="utf-8">
+        <title>Binary Search Algorithm</title>
+        <meta name="description" content="">
+        <meta name="author" content="Avnish">
+    
+        <!-- mobile specific metas
+        ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <!-- CSS
+        ================================================== -->
+        <link rel="stylesheet" href="/assets/css/base.css">
+        <link rel="stylesheet" href="/assets/css/vendor.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
+    
+        <!-- script
+        ================================================== -->
+        <script src="/assets/js/modernizr.js"></script>
+    
+        <!-- favicons
+        ================================================== -->
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="manifest" href="site.webmanifest">
+    
+    </head>
+    
+
+<body>
+
+    <!-- preloader
+    ================================================== -->
+    <div id="preloader">
+        <div id="loader" class="dots-fade">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <div id="top" class="s-wrap site-wrapper">
+
+        <!-- site header
+        ================================================== -->
+        <header class="s-header">
+
+            <div class="header__top">
+                <div class="header__logo">
+                    <a class="site-logo" href="/blog.html">
+                        <img src="/assets/images/bovem5.png" alt="Homepage">
+                        <!--<h2 style=" margin:0%; padding-top: 18%;padding-bottom: 18%;color: white;">OVERFIT</h2>-->
+                    </a>
+                </div>
+
+                <a href="#0" class="header__menu-toggle"><span>Menu</span></a>
+
+            </div> <!-- end header__top -->
+
+            <nav class="header__nav-wrap">
+
+                <ul class="header__nav">
+                    <li class="current"><a href="/blog.html" title="">Blog</a></li>
+                    <li class="has-children">
+                        <a href="#0" title="">Categories</a>
+                        <ul class="sub-menu">
+                            <li><a href="/categories/MATH.html">Mathematics</a></li>
+                            <hr>
+                            <li><a href="/categories/DM.html">Discrete Mathematics</a></li>
+                            <hr>
+                            <li><a href="/categories/ALGO.html">Algorithms</a></li>
+                            <hr>
+                            <li><a href="/categories/CD.html">Compiler Design</a></li>
+                            <hr>
+                            <li><a href="/categories/CN.html">Computer Networking</a></li>
+                            <hr>
+                            <li><a href="/categories/CPROG.html">C Programming</a></li>
+                            <hr>
+                            <li><a href="/categories/DBMS.html">Database Mangement Systems</a></li>
+                            <hr>
+                            <li><a href="/categories/OS.html">Operating Systems</a></li>
+                            <hr>
+                            <li><a href="/categories/TOC.html">Theory of Computation</a></li>
+                            <hr>
+                        </ul>
+                    </li>
+                    <li><a href="/index.html" title="">About Me</a></li>
+
+
+
+                </ul> <!-- end header__nav -->
+
+                <ul class="header__social">
+                    <li class="ss-github">
+                        <a href="https://github.com/bovem" target="_blank">
+                            <span class="screen-reader-text">GitHub</span>
+                        </a>
+                    </li>
+                    <!--
+                    <li class="ss-twitter">
+                        <a href="https://twitter.com/aipublication/" target="_blank">
+                            <span class="screen-reader-text">Twitter</span>
+                        </a>
+                    </li>
+                -->
+                    <li class="ss-medium">
+                        <a href="https://bovem.medium.com/" target="_blank">
+                            <span class="screen-reader-text">Medium</span>
+                        </a>
+                    </li>
+
+                    <li class="ss-linkedin">
+                        <a href="http://www.linkedin.com/in/avnish-pal/" target="_blank">
+                            <span class="screen-reader-text">LinkedIn</span>
+                        </a>
+                    </li>
+                </ul>
+
+            </nav> <!-- end header__nav-wrap -->
+
+
+
+        </header> <!-- end s-header -->
+
+        <div class="s-content">
+            
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
+            <!-- Add webpage content here -->
+            <!-- Works only if mathjax:true is present in front-matter of post-->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
+<main class="row content__page">
+                
+    <article class="column large-full entry format-standard">
+
+       
+        <div class="content__page-header entry__header">
+            <h1 class="display-1 entry__title">
+            <!-- Post title -->
+            Binary Search Algorithm
+            </h1>
+            <ul class="entry__header-meta">
+                <li class="author">By <a href="/index.html">Avnish</a></li>
+                <!-- Fetches date and changes to Month Day, Year format-->
+                <li class="date">Dec 17, 2020</li>
+
+                <li class="cat-links">
+                    <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                    <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
+                    <a href="/categories/DM.html">DM</a>
+                    
+                </li>
+            </ul>
+        </div> <!-- end entry__header -->
+
+        <div class="entry__content">
+
+            <p class="lead drop-cap">
+                <!-- Post content-->
+            <p>To find an element $x$ in an array we first compare $x$ with element at middle index ($\lfloor {n+1 \over 2} \rfloor$). If element is not found at middle index then search is proceeded to left subarray (index 0 to middle index - 1) and right subarray (middle index + 1 to index n).</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>binary_search(i, j, x):
+	if(1 &lt;= i &lt;= j &lt;= n):
+		m = floor(n+1/2)
+		if(a[m]==x):
+			return m
+		else if(x&lt;a[m] and i&lt;m):
+			return binary_search(i, m-1, x)
+		else if(x&gt;a[m] and j&gt;m):
+			return binary_search(m+1, j, x)
+		else:
+			return 0
+</code></pre></div></div>
+
+<p>Tags: #algorithm</p>
+
+            </p>
+
+
+            <p class="entry__tags">
+                <span>Post Tags</span>
+
+                <span class="entry__tag-list">
+                        <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                        <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
+                    <a href="/categories/DM.html">DM</a>
+                    
+                </span>
+
+            </p>
+        </div> <!-- end entry content -->
+
+        <div class="entry__pagenav">
+            <div class="entry__nav">
+                <div class="entry__prev">
+                    <!-- If there exists a previous post (based on date) add its title and url to post -->
+                    
+                        <a href="/2020/well-ordering-property.html" rel="prev">
+                                <span>Previous Post</span>
+                                <!-- Title of previous post -->
+                                Well-Ordering Property 
+                        </a>
+                    
+                      
+                    
+                </div>
+                <div class="entry__next">
+                    <!-- If there exists a next post (based on date) add its title and url to post -->
+                        
+                        <a href="/2020/geometric-series.html" rel="next">
+                                <span>Next Post</span>
+                                <!-- Title of next post -->
+                                Geometric Series 
+                        </a>
+                    
+                </div>
+            </div>
+        </div> <!-- end entry__pagenav -->
+
+        <div class="entry__related">
+            <h3 class="h2">Related Articles</h3>
+
+            <ul class="related">
+                
+                <!-- Show three posts sharing the same category as first category of current post -->
+                
+
+                
+
+                
+              
+                
+               
+            </ul>
+        </div> <!-- end entry related -->
+
+    </article> <!-- end column large-full entry-->
+
+
+</main>
+
+
+        </div> <!-- end s-content -->
+
+
+        <!-- footer
+        ================================================== -->
+        <footer class="s-footer">
+    <div class="row">
+        <div class="column large-full footer__content">
+            <div class="footer__copyright">
+                <span>© Copyright Typerite 2021</span> 
+                <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="go-top">
+        <a class="smoothscroll" title="Back to Top" href="#top"></a>
+    </div>
+</footer>
+
+    </div> <!-- end s-wrap -->
+
+
+    <!-- Java Script
+    ================================================== -->
+
+    <script src="/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/main.js"></script>
+
+</body>

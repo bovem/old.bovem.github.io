@@ -1,0 +1,21 @@
+---
+layout: article
+mathjax: true
+title: Probability Distribution
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+When probability is expressed as a function $p()$ over outcomes $x_1, x_2, \dots x_n$ such that
+$$0 \le p(x_i) \le 1$$ for $i=1, 2, \dots n$
+and
+$$\sum_{i=1}^n p(x_i) = 1$$
+
+### Subtopics
+- [Uniform Distribution]({% post_url 2020-11-20-uniform-distribution %})
+- [Probability of an Event]({% post_url 2020-11-21-probability-of-an-event %})
+- [Laplace Definition of Probabilty of Events]({% post_url 2020-11-22-laplace-definition-of-probabilty-of-events %})
+- [Probability of disjoint events]({% post_url 2020-11-24-probability-of-disjoint-events %})

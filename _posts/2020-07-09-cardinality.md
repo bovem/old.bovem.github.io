@@ -1,0 +1,21 @@
+---
+layout: article
+mathjax: true
+title: Cardinality
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+Let $S$ be a set with finite $n$ distinct elements.
+Then $S$ is a finite set and $n$ is *cardinality* or size of set.
+Cardinality of set $S$ could also be denoted as $|S|$.
+
+If there is a [One-to-One Functions]({% post_url 2020-06-07-one-to-one-functions %}) $f:A \to B$ then $|A| \le |B|$.
+
+### Subtopics
+- [Countable]({% post_url 2020-07-06-countable %})
+- [Computable Functions]({% post_url 2020-07-08-computable-functions %})
+- [Continuum Hypothesis]({% post_url 2020-07-10-continuum-hypothesis %})

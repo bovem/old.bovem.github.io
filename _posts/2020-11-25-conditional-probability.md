@@ -1,0 +1,16 @@
+---
+layout: article
+mathjax: true
+title: Conditional Probability
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+Let $E$ and $F$ be two events such that outcome of $E$ depends on outcome of $F$ and $p(F)>0$ then conditional probability ($p(E | F)$) is
+
+$$p(E|F) = {p(E \cap F) \over p(F)}$$
+
+[Sample Space]({% post_url 2020-11-13-sample-space %}) of event $E$ is changed to $F$.

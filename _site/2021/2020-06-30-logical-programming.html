@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<head>
+
+        <!--- basic page needs
+        ================================================== -->
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="author" content="Avnish">
+    
+        <!-- mobile specific metas
+        ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <!-- CSS
+        ================================================== -->
+        <link rel="stylesheet" href="/assets/css/base.css">
+        <link rel="stylesheet" href="/assets/css/vendor.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
+    
+        <!-- script
+        ================================================== -->
+        <script src="/assets/js/modernizr.js"></script>
+    
+        <!-- favicons
+        ================================================== -->
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="manifest" href="site.webmanifest">
+    
+    </head>
+    
+
+<body>
+
+    <!-- preloader
+    ================================================== -->
+    <div id="preloader">
+        <div id="loader" class="dots-fade">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <div id="top" class="s-wrap site-wrapper">
+
+        <!-- site header
+        ================================================== -->
+        <header class="s-header">
+
+            <div class="header__top">
+                <div class="header__logo">
+                    <a class="site-logo" href="/blog.html">
+                        <img src="/assets/images/bovem5.png" alt="Homepage">
+                        <!--<h2 style=" margin:0%; padding-top: 18%;padding-bottom: 18%;color: white;">OVERFIT</h2>-->
+                    </a>
+                </div>
+
+                <a href="#0" class="header__menu-toggle"><span>Menu</span></a>
+
+            </div> <!-- end header__top -->
+
+            <nav class="header__nav-wrap">
+
+                <ul class="header__nav">
+                    <li class="current"><a href="/blog.html" title="">Blog</a></li>
+                    <li class="has-children">
+                        <a href="#0" title="">Categories</a>
+                        <ul class="sub-menu">
+                            <li><a href="/categories/MATH.html">Mathematics</a></li>
+                            <hr>
+                            <li><a href="/categories/DM.html">Discrete Mathematics</a></li>
+                            <hr>
+                            <li><a href="/categories/ALGO.html">Algorithms</a></li>
+                            <hr>
+                            <li><a href="/categories/CD.html">Compiler Design</a></li>
+                            <hr>
+                            <li><a href="/categories/CN.html">Computer Networking</a></li>
+                            <hr>
+                            <li><a href="/categories/CPROG.html">C Programming</a></li>
+                            <hr>
+                            <li><a href="/categories/DBMS.html">Database Mangement Systems</a></li>
+                            <hr>
+                            <li><a href="/categories/OS.html">Operating Systems</a></li>
+                            <hr>
+                            <li><a href="/categories/TOC.html">Theory of Computation</a></li>
+                            <hr>
+                        </ul>
+                    </li>
+                    <li><a href="/index.html" title="">About Me</a></li>
+
+
+
+                </ul> <!-- end header__nav -->
+
+                <ul class="header__social">
+                    <li class="ss-github">
+                        <a href="https://github.com/bovem" target="_blank">
+                            <span class="screen-reader-text">GitHub</span>
+                        </a>
+                    </li>
+                    <!--
+                    <li class="ss-twitter">
+                        <a href="https://twitter.com/aipublication/" target="_blank">
+                            <span class="screen-reader-text">Twitter</span>
+                        </a>
+                    </li>
+                -->
+                    <li class="ss-medium">
+                        <a href="https://bovem.medium.com/" target="_blank">
+                            <span class="screen-reader-text">Medium</span>
+                        </a>
+                    </li>
+
+                    <li class="ss-linkedin">
+                        <a href="http://www.linkedin.com/in/avnish-pal/" target="_blank">
+                            <span class="screen-reader-text">LinkedIn</span>
+                        </a>
+                    </li>
+                </ul>
+
+            </nav> <!-- end header__nav-wrap -->
+
+
+
+        </header> <!-- end s-header -->
+
+        <div class="s-content">
+            
+            <!-- Add webpage content here -->
+            <p>[[Prolog]] was developed in 1970s to reason using rules of predicate.
+It contains two types of statements:</p>
+<ul>
+  <li><em>Prolog Facts</em>: Define predicate by specifying elements that satisfy it.</li>
+  <li><em>Prolog Rules</em>: Used to create new predicate using those already defined by Prolog facts.</li>
+</ul>
+
+<p>Example- Two predicates <code class="language-plaintext highlighter-rouge">instructor(P, C)</code> and <code class="language-plaintext highlighter-rouge">enrolled(S, C)</code> that tells if instructor <em>P</em> is teaching course <em>C</em> and if student <em>S</em> is enrolled in course <em>C</em>.</p>
+<div class="language-prolog highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="ss">instructor</span><span class="p">(</span><span class="ss">chan</span><span class="p">,</span><span class="ss">math273</span><span class="p">)</span> 
+<span class="ss">instructor</span><span class="p">(</span><span class="ss">patel</span><span class="p">,</span><span class="ss">ee222</span><span class="p">)</span> 
+<span class="ss">instructor</span><span class="p">(</span><span class="ss">grossman</span><span class="p">,</span><span class="ss">cs301</span><span class="p">)</span> 
+<span class="ss">enrolled</span><span class="p">(</span><span class="ss">kevin</span><span class="p">,</span><span class="ss">math273</span><span class="p">)</span> 
+<span class="ss">enrolled</span><span class="p">(</span><span class="ss">juana</span><span class="p">,</span><span class="ss">ee222</span><span class="p">)</span> 
+<span class="ss">enrolled</span><span class="p">(</span><span class="ss">juana</span><span class="p">,</span><span class="ss">cs301</span><span class="p">)</span> 
+<span class="ss">enrolled</span><span class="p">(</span><span class="ss">kiko</span><span class="p">,</span><span class="ss">math273</span><span class="p">)</span> 
+<span class="ss">enrolled</span><span class="p">(</span><span class="ss">kiko</span><span class="p">,</span><span class="ss">cs301</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Example- New predicate <code class="language-plaintext highlighter-rouge">teacher(P, S)</code> formed using existing predicates</p>
+<div class="language-prolog highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="ss">teaches</span><span class="p">(</span><span class="nv">P</span><span class="p">,</span><span class="nv">S</span><span class="p">)</span> <span class="p">:-</span> <span class="ss">instructor</span><span class="p">(</span><span class="nv">P</span><span class="p">,</span><span class="nv">C</span><span class="p">),</span> <span class="ss">enrolled</span><span class="p">(</span><span class="nv">S</span><span class="p">,</span><span class="nv">C</span><span class="p">)</span>
+</code></pre></div></div>
+<p>it will be true only <em>if there exists a</em> course <em>C</em> for which professor <em>P</em> is instructor and a student <em>S</em> is enrolled into it.</p>
+
+<p><code class="language-plaintext highlighter-rouge">,</code> is used for [[Conjunction]] and <code class="language-plaintext highlighter-rouge">;</code> is used for [[Disjunction]].</p>
+
+<p>Programmer can also perform queries like</p>
+<div class="language-prolog highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">?</span><span class="ss">enrolled</span><span class="p">(</span><span class="nv">X</span><span class="p">,</span><span class="ss">math273</span><span class="p">)</span>
+</code></pre></div></div>
+<p>Output:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>kevin 
+kiko
+</code></pre></div></div>
+
+
+        </div> <!-- end s-content -->
+
+
+        <!-- footer
+        ================================================== -->
+        <footer class="s-footer">
+    <div class="row">
+        <div class="column large-full footer__content">
+            <div class="footer__copyright">
+                <span>© Copyright Typerite 2021</span> 
+                <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="go-top">
+        <a class="smoothscroll" title="Back to Top" href="#top"></a>
+    </div>
+</footer>
+
+    </div> <!-- end s-wrap -->
+
+
+    <!-- Java Script
+    ================================================== -->
+
+    <script src="/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/main.js"></script>
+
+</body>

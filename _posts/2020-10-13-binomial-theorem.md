@@ -1,0 +1,28 @@
+---
+layout: article
+mathjax: true
+title: Binomial Theorem
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+Gives [[Binomial Coefficient]] of power expansion of a [Binomial Expression]({% post_url 2020-10-11-binomial-expression %}).
+
+Let $x$ and $y$ be variables and $n$ be a non-negative number then
+$$(x+y)^n = \sum_{j=0}^n \binom n j x^{n-j} y^j$$
+
+## Corollary 1
+$$\sum_{k=0}^n \binom n k = 2^n$$
+
+## Corollary 2
+$$\sum_{k=0}^n (-1)^k \binom n k = 0$$
+
+## Corollary 3
+$$\sum_{k=0}^n 2^k \binom n k = 3^n$$
+
+### Subtopics
+- [Pascal's Identity]({% post_url 2020-10-12-pascal's-identity %})
+- [Vandermonde's Identity]({% post_url 2020-10-14-vandermonde's-identity %})

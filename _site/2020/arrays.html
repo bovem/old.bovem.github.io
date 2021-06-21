@@ -129,6 +129,28 @@
         </header> <!-- end s-header -->
 
         <div class="s-content">
+            
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+>
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
+>
+</script>
+
             <!-- Add webpage content here -->
             <!-- Works only if mathjax:true is present in front-matter of post-->
 
@@ -232,12 +254,24 @@ arr = ["Hello", "World", 2, 3.1, True
                 <div class="entry__prev">
                     <!-- If there exists a previous post (based on date) add its title and url to post -->
                     
+                        <a href="/2020/binomial-distribution.html" rel="prev">
+                                <span>Previous Post</span>
+                                <!-- Title of previous post -->
+                                Binomial Distribution 
+                        </a>
+                    
                       
                     
                 </div>
                 <div class="entry__next">
                     <!-- If there exists a next post (based on date) add its title and url to post -->
                         
+                        <a href="/2020/binomial-distribution.html" rel="next">
+                                <span>Next Post</span>
+                                <!-- Title of next post -->
+                                Binomial Distribution 
+                        </a>
+                    
                 </div>
             </div>
         </div> <!-- end entry__pagenav -->

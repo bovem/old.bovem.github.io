@@ -1,0 +1,19 @@
+---
+layout: article
+mathjax: true
+title: Set Intersection
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+Intersection of two [Sets]({% post_url 2020-07-03-sets %}) $A$ and $B$ is the set that contains elements common in both sets.
+It is denoted as $A \cap B$.
+
+$$A \cap B = \{ x | (x \in A) \wedge (x \in B)\}$$
+
+### Subtopics
+- [Disjoint Sets]({% post_url 2020-05-11-disjoint-sets %})
+- [Intersection of Collection of Sets]({% post_url 2020-05-22-intersection-of-collection-of-sets %})

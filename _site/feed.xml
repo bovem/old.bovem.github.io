@@ -6,19 +6,107 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Jun 2021 17:14:28 -0500</pubDate>
-    <lastBuildDate>Sun, 20 Jun 2021 17:14:28 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 02:06:51 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Arrays</title>
+        <title></title>
         <description></description>
-        <pubDate>Tue, 01 Dec 2020 00:00:00 -0600</pubDate>
-        <link>http://dsblog.github.io/2020/arrays.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2020/arrays.html</guid>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-30-uniqueness-quantifier.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-30-uniqueness-quantifier.html</guid>
         
         
-        <category>ALGO</category>
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-29-uniqueness-proofs.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-29-uniqueness-proofs.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-28-union-of-collection-of-sets.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-28-union-of-collection-of-sets.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-20-tree-diagrams.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-20-tree-diagrams.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-11-10-summations.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-10-summations.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-25-sets.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-25-sets.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-17-sequences.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-17-sequences.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-15-satisfiability-of-sudoku.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-15-satisfiability-of-sudoku.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-13-sample-space.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-13-sample-space.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description></description>
+        <pubDate>Mon, 21 Jun 2021 02:06:51 -0500</pubDate>
+        <link>http://dsblog.github.io/2021/2020-10-04-recusive-definition-of-full-binary-trees.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-04-recusive-definition-of-full-binary-trees.html</guid>
+        
         
       </item>
     

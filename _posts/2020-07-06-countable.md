@@ -1,0 +1,20 @@
+---
+layout: article
+mathjax: true
+title: Countable
+image: "/assets/images/img_test.jpg"
+categories:
+- DM
+desc: '' 
+imagealt: Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/s/photos/logic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+---
+
+A [Sets]({% post_url 2020-07-03-sets %}) that has same cardinality as set of positive integers.
+If an infinite set is countable we write its cardinality as $\aleph_0$ (Pronounced as "aleph null").
+
+If two sets $A$ and $B$ are countable then $A \cup B$ ([Set Union]({% post_url 2020-05-19-set-union %}) is also countable. 
+
+### Subtopics
+- [Grand Hotel Paradox]({% post_url 2020-07-04-grand-hotel-paradox %})
+- [Cantor Diagonalization Argument]({% post_url 2020-07-05-cantor-diagonalization-argument %})
+- [Schröder-Bernstein Theorem]({% post_url 2020-07-07-schröder-bernstein-theorem %})
