@@ -5,8 +5,7 @@ title: Set Builder Notation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When we describe sets by their rules.
- 
+desc: When we describe sets by their rules. 
 imagealt: 
 ---
 

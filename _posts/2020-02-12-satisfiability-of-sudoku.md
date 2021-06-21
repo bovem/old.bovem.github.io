@@ -5,8 +5,7 @@ title: Satisfiability of Sudoku
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Sudoku is Satifiable (or finished) only when there are unique number 1 to 9 in:
- 
+desc:   
 imagealt: 
 ---
 

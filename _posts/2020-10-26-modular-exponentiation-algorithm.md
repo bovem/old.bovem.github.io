@@ -5,8 +5,7 @@ title: Modular Exponentiation Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: This is a recursive implementation of Modular Exponentiation.
- 
+desc: This is a recursive implementation of Modular Exponentiation. 
 imagealt: 
 ---
 
@@ -737,4 +736,3 @@ mpower(b, n, m):
 			return ((mpower(b, floor(n/2), m))**2 mod m * b mod m) mod m)
 ```
 
-Tags: #algorithm 

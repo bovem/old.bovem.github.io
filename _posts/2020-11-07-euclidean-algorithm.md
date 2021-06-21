@@ -5,8 +5,7 @@ title: Euclidean Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after Greek mathematician Euclid.
- 
+desc: Named after Greek mathematician Euclid. 
 imagealt: 
 ---
 
@@ -723,4 +722,3 @@ Then $gcd(a, b) = gcd(b, r)$
 
 So, if we successively apply [Division Algorithm]({% post_url 2020-11-05-division-algorithm %}). The [Greatest Common Divisor (GCD)]({% post_url 2020-08-17-greatest-common-divisor-(gcd) %}) will be the last non-zero remainder.
 
-Tags: #algorithm 

@@ -5,8 +5,7 @@ title: Logical Operators
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Operations performed on one or more Proposition to create new Proposition.
- 
+desc: Operations performed on one or more Proposition to create new Proposition. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Vandermonde's Identity
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after Alexandre-Théophile Vandermonde.
- 
+desc:   
 imagealt: 
 ---
 

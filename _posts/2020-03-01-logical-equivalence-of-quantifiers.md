@@ -5,8 +5,7 @@ title: Logical Equivalence of Quantifiers
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Logical Equivalence of two statements containing Predicates and Quantifiers is true only when they have same truth value 
- 
+desc: Logical Equivalence of two statements containing Predicates and Quantifiers is true only when they have same truth value  
 imagealt: 
 ---
 

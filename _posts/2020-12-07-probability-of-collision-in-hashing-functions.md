@@ -5,8 +5,7 @@ title: Probability of collision in Hashing Functions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ### Subtopics
- 
+desc: ### Subtopics 
 imagealt: 
 ---
 

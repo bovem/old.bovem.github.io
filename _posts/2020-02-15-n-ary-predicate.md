@@ -5,8 +5,7 @@ title: n-ary Predicate
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Multiple Propositional Variables used as input to a Propositional Function.
- 
+desc: Multiple Propositional Variables used as input to a Propositional Function. 
 imagealt: 
 ---
 

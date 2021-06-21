@@ -5,8 +5,7 @@ title: Unsatisfiable
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A Compound Propositions is unsatifiable is there is no set of Truth Value for which it is true.
- 
+desc: A Compound Propositions is unsatifiable is there is no set of Truth Value for which it is true. 
 imagealt: 
 ---
 

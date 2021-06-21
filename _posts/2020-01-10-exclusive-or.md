@@ -5,8 +5,7 @@ title: Exclusive OR
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When either p or q can be true. But in order to satisfy the Proposition both can't be true at same time.
- 
+desc: When either p or q can be true. But in order to satisfy the Proposition both can't be true at same time. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Addition of Matrices
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Sum of two matrices will be another matrix with sum of their corresponding entries.
- 
+desc: Sum of two matrices will be another matrix with sum of their corresponding entries. 
 imagealt: 
 ---
 

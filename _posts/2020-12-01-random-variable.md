@@ -5,8 +5,7 @@ title: Random Variable
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A Functions from Sample Space of Event to real numbers.
- 
+desc: A Functions from Sample Space of Event to real numbers. 
 imagealt: 
 ---
 

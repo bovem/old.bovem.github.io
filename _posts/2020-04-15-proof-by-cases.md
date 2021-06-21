@@ -5,8 +5,7 @@ title: Proof by Cases
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When a Theorem is proved by examining it on all possible cases.
- 
+desc: When a Theorem is proved by examining it on all possible cases. 
 imagealt: 
 ---
 

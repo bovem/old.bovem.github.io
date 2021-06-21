@@ -5,8 +5,7 @@ title: Nested Quantifiers
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: They could be thought of as a Nested Loop.
- 
+desc: They could be thought of as a Nested Loop. 
 imagealt: 
 ---
 

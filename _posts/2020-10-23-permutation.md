@@ -5,8 +5,7 @@ title: Permutation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Permutation of Sets of distinct objects is an ordered arrangement of those objects.
- 
+desc: Permutation of Sets of distinct objects is an ordered arrangement of those objects. 
 imagealt: 
 ---
 

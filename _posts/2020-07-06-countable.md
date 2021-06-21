@@ -5,8 +5,7 @@ title: Countable
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A Sets that has same cardinality as set of positive integers.
- 
+desc: A Sets that has same cardinality as set of positive integers. 
 imagealt: 
 ---
 

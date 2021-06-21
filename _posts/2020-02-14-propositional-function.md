@@ -5,8 +5,7 @@ title: Propositional Function
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A Proposition represented a function. Takes Propositional Variables as inputs.
- 
+desc: A Proposition represented a function. Takes Propositional Variables as inputs. 
 imagealt: 
 ---
 

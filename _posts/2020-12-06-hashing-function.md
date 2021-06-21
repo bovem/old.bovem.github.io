@@ -5,8 +5,7 @@ title: Hashing Function
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It is Functions from Keys to their location in storage.
- 
+desc: It is Functions from Keys to their location in storage. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Generating r-combinations
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ```
- 
+desc:   
 imagealt: 
 ---
 
@@ -28,4 +27,3 @@ func next_r_combination(a[]):
 	
 ```
 
-Tags: #algorithm 

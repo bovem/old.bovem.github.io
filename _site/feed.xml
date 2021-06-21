@@ -6,107 +6,127 @@
 </description>
     <link>http://dsblog.github.io/</link>
     <atom:link href="http://dsblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Jun 2021 03:45:34 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Jun 2021 06:18:33 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 06:18:33 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title></title>
+        <title>Well-Formed Formulae on Operators and Operands</title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-08-exponential-calculation-algorithm.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-08-exponential-calculation-algorithm.html</guid>
+        <pubDate>Fri, 18 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/well-formed-formulae-on-operators-and-operands.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/well-formed-formulae-on-operators-and-operands.html</guid>
         
+        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-02-generating-r-combinations.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-02-generating-r-combinations.html</guid>
+        <title>Geometric Series</title>
+        <description>Sum of terms of Geometric Progression (GP).</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/geometric-series.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/geometric-series.html</guid>
         
         
-      </item>
-    
-      <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-11-01-generating-permutation.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-11-01-generating-permutation.html</guid>
-        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
+        <title>Binary Search Algorithm</title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-10-17-permutation-with-indistinguishable-objects.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-10-17-permutation-with-indistinguishable-objects.html</guid>
+        <pubDate>Wed, 16 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/binary-search-algorithm.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/binary-search-algorithm.html</guid>
         
+        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-30-product-rule.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-30-product-rule.html</guid>
+        <title>Factorial Calculation Algorithm</title>
+        <description>This algorithm is used to find value of Factorial Function for a particular input.</description>
+        <pubDate>Tue, 15 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/factorial-calculation-algorithm.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/factorial-calculation-algorithm.html</guid>
         
         
-      </item>
-    
-      <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-25-correctness-of-conditional-statement.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-25-correctness-of-conditional-statement.html</guid>
-        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-16-recursive-definition-of-number-of-vertices-of-full-binary-tree.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-16-recursive-definition-of-number-of-vertices-of-full-binary-tree.html</guid>
+        <title>Probablistic Method</title>
+        <description>These methods are used to create Nonconstructive Proofs Existence Proofs.</description>
+        <pubDate>Mon, 14 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/probablistic-method.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/probablistic-method.html</guid>
         
         
-      </item>
-    
-      <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-14-recursive-definition-of-extended-binary-trees.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-14-recursive-definition-of-extended-binary-trees.html</guid>
-        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-13-recusive-definition-of-full-binary-trees.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-13-recusive-definition-of-full-binary-trees.html</guid>
+        <title>Ramsey Theory</title>
+        <description>It deals with distribution of subsets of elements of sets.</description>
+        <pubDate>Sun, 13 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/ramsey-theory.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/ramsey-theory.html</guid>
         
+        
+        <category>DM</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description></description>
-        <pubDate>Mon, 21 Jun 2021 03:45:34 -0500</pubDate>
-        <link>http://dsblog.github.io/2021/2020-09-08-recursively-defined-functions.html</link>
-        <guid isPermaLink="true">http://dsblog.github.io/2021/2020-09-08-recursively-defined-functions.html</guid>
+        <title>Ramsey Number</title>
+        <description>$R(m, n)$ where $m$ and $n$ are positive integers tells the minimum number of people at party such that their are $m$ mutual friends or $n$ mutual enemies.</description>
+        <pubDate>Sat, 12 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/ramsey-number.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/ramsey-number.html</guid>
         
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Probability Theory</title>
+        <description></description>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/probability-theory.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/probability-theory.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Monte Carlo Algorithms</title>
+        <description>Monte Carlo Algorithms give answers to Decision Problems. There is some probability that these answers are incorrect but it decreases as algorithm does more computations.</description>
+        <pubDate>Thu, 10 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/monte-carlo-algorithms.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/monte-carlo-algorithms.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Decision Problems</title>
+        <description>Problems that have either &quot;true&quot; or &quot;false&quot; as their answer.</description>
+        <pubDate>Wed, 09 Dec 2020 00:00:00 -0600</pubDate>
+        <link>http://dsblog.github.io/2020/decision-problems.html</link>
+        <guid isPermaLink="true">http://dsblog.github.io/2020/decision-problems.html</guid>
+        
+        
+        <category>DM</category>
         
       </item>
     

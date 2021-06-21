@@ -5,8 +5,7 @@ title: Iteration
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It is a method to find Closed Formula or Initial Condition by reapplying Recurrance Relations.
- 
+desc: It is a method to find Closed Formula or Initial Condition by reapplying Recurrance Relations. 
 imagealt: 
 ---
 

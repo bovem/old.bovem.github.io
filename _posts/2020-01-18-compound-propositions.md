@@ -5,8 +5,7 @@ title: Compound Propositions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: New Proposition formed by applying Logical Operators on existing Proposition.
- 
+desc: New Proposition formed by applying Logical Operators on existing Proposition. 
 imagealt: 
 ---
 

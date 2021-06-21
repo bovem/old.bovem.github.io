@@ -5,8 +5,7 @@ title: Fallacies
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It is incorrect form of reasoning.
- 
+desc: It is incorrect form of reasoning. 
 imagealt: 
 ---
 

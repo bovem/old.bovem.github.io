@@ -5,8 +5,7 @@ title: Probablistic Algorithms
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Algorithms that make random choice at one or more steps.
- 
+desc: Algorithms that make random choice at one or more steps. 
 imagealt: 
 ---
 

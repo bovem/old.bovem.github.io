@@ -5,8 +5,7 @@ title: Bernoulli Trials
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Each performance of Experiment with two possible outcomes is called a Bernoulli Trial  named after James Bernoulli.
- 
+desc: Each performance of Experiment with two possible outcomes is called a Bernoulli Trial  named after James Bernoulli. 
 imagealt: 
 ---
 

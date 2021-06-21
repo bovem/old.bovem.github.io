@@ -5,8 +5,7 @@ title: Bit String
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A string of zero or more Bit.
- 
+desc: A string of zero or more Bit. 
 imagealt: 
 ---
 

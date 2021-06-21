@@ -5,8 +5,7 @@ title: Binomial Theorem
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Gives Binomial Coefficient of power expansion of a Binomial Expression.
- 
+desc: Gives Binomial Coefficient of power expansion of a Binomial Expression. 
 imagealt: 
 ---
 

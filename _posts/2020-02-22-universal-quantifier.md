@@ -5,8 +5,7 @@ title: Universal Quantifier
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Universal Quantification of Propositional Function P(x) over any particular domain asserts that P(x) is true over all values of x in that domain.
- 
+desc: Universal Quantification of Propositional Function P(x) over any particular domain asserts that P(x) is true over all values of x in that domain. 
 imagealt: 
 ---
 

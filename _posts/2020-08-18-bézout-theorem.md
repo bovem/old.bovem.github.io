@@ -5,8 +5,7 @@ title: Bézout Theorem
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after French Mathematician Étienne Bézout.
- 
+desc: Named after French Mathematician Étienne Bézout. 
 imagealt: 
 ---
 

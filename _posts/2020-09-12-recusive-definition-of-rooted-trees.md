@@ -5,8 +5,7 @@ title: Recusive Definition of Rooted Trees
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A Sets of Rooted Trees can be defined recursively.
- 
+desc: A Sets of Rooted Trees can be defined recursively. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Zero-One Matrices
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Matrices whose entries are either 0 or 1.
- 
+desc: Matrices whose entries are either 0 or 1. 
 imagealt: 
 ---
 

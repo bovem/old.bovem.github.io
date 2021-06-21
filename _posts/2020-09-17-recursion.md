@@ -5,8 +5,7 @@ title: Recursion
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Process of defining an object in terms of itself.
- 
+desc: Process of defining an object in terms of itself. 
 imagealt: 
 ---
 

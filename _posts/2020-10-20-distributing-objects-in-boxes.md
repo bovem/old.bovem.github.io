@@ -5,8 +5,7 @@ title: Distributing Objects in Boxes
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Some problems have objects (that are either distinguishable or indistinguishable) to be placed in boxes (that are either distinguishable or indistinguishable).
- 
+desc: Some problems have objects (that are either distinguishable or indistinguishable) to be placed in boxes (that are either distinguishable or indistinguishable). 
 imagealt: 
 ---
 

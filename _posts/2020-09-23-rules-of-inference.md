@@ -5,8 +5,7 @@ title: Rules of Inference
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ### Subtopics
- 
+desc: ### Subtopics 
 imagealt: 
 ---
 

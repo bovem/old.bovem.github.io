@@ -5,8 +5,7 @@ title: Generating Next larger Bit String
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: We can use Bit String to generate combinations. If bit string represents occurrence of element in combination then if all the possible bit strings are listed then all the combinations can be listed.
- 
+desc: We can use Bit String to generate combinations. If bit string represents occurrence of element in combination then if all the possible bit strings are listed then all the combinations can be listed. 
 imagealt: 
 ---
 
@@ -26,4 +25,3 @@ func next_larger_bit_string(b[]):
 	b[i]=1
 ```
 
-Tags: #algorithm

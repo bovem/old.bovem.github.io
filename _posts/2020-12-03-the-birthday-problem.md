@@ -5,8 +5,7 @@ title: The Birthday Problem
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: How many people are needed in one room such that probability of at least two of them having birthday at same day is greater than 1/2?
- 
+desc: How many people are needed in one room such that probability of at least two of them having birthday at same day is greater than 1/2? 
 imagealt: 
 ---
 

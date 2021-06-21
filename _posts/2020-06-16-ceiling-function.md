@@ -5,8 +5,7 @@ title: Ceiling Function
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Ceiling function maps the value to the closest integers greater than or equal to value.
- 
+desc: Ceiling function maps the value to the closest integers greater than or equal to value. 
 imagealt: 
 ---
 

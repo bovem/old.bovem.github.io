@@ -5,8 +5,7 @@ title: Probability of an Event
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Probability of an Event is sum of the probability of outcomes of that event.
- 
+desc: Probability of an Event is sum of the probability of outcomes of that event. 
 imagealt: 
 ---
 

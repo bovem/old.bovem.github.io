@@ -5,8 +5,7 @@ title: Additions Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: To add two integers (in any Base expansion) we start with rightmost values
- 
+desc: To add two integers (in any Base expansion) we start with rightmost values 
 imagealt: 
 ---
 
@@ -1432,4 +1431,3 @@ This process will go on till all the values are added.
 
 
 
-Tags: #algorithm 

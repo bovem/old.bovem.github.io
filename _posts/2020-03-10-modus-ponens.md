@@ -5,8 +5,7 @@ title: Modus Ponens
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Also known as Law of Detachment.
- 
+desc: Also known as Law of Detachment. 
 imagealt: 
 ---
 

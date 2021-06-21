@@ -5,8 +5,7 @@ title: Propositional Logic
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Rules of logic give precise meaning to mathematical statements.
- 
+desc: Rules of logic give precise meaning to mathematical statements. 
 imagealt: 
 ---
 

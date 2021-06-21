@@ -5,8 +5,7 @@ title: Laws defined over compound propositions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ### De Morgan Laws
- 
+desc: ### De Morgan Laws 
 imagealt: 
 ---
 

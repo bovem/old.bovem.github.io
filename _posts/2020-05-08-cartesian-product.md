@@ -5,8 +5,7 @@ title: Cartesian Product
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after French Mathematician Rene Descartes.
- 
+desc: Named after French Mathematician Rene Descartes. 
 imagealt: 
 ---
 

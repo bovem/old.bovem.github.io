@@ -5,8 +5,7 @@ title: Fibonacci Sequence
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after Italian Mathematician Fibonacci.
- 
+desc: Named after Italian Mathematician Fibonacci. 
 imagealt: 
 ---
 

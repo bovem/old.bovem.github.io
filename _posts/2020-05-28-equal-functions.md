@@ -5,8 +5,7 @@ title: Equal Functions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Two functions are equal when
- 
+desc: Two functions are equal when 
 imagealt: 
 ---
 

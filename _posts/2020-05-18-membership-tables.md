@@ -5,8 +5,7 @@ title: Membership Tables
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Memebership tables could be used to prove Set Identities.
- 
+desc: Memebership tables could be used to prove Set Identities. 
 imagealt: 
 ---
 

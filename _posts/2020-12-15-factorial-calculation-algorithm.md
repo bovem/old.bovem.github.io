@@ -5,8 +5,7 @@ title: Factorial Calculation Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: This algorithm is used to find value of Factorial Function for a particular input.
- 
+desc: This algorithm is used to find value of Factorial Function for a particular input. 
 imagealt: 
 ---
 
@@ -20,4 +19,3 @@ factorial(n):
 		return n*factorial(n-1)
 ```
 
-Tags: #algorithm 

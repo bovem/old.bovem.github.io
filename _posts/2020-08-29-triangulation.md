@@ -5,8 +5,7 @@ title: Triangulation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Operation of dividing a Polygon into triangles by adding non-intersecting Diagonal.
- 
+desc:   
 imagealt: 
 ---
 

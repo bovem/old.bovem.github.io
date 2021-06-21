@@ -5,8 +5,7 @@ title: System Specifications
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Requirements for Hardware/Software (from English language) could be translated to Propositional Logic to remove ambiguity in statements.
- 
+desc: Requirements for Hardware/Software (from English language) could be translated to Propositional Logic to remove ambiguity in statements. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Correctness of Conditional Statement
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: To prove that a Conditional Statement is true we have to prove:
- 
+desc:   
 imagealt: 
 ---
 

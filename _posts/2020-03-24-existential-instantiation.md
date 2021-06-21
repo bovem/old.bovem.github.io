@@ -5,8 +5,7 @@ title: Existential Instantiation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Existential Quantifier
- 
+desc: Existential Quantifier 
 imagealt: 
 ---
 

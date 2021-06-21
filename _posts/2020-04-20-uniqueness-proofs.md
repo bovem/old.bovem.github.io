@@ -5,8 +5,7 @@ title: Uniqueness Proofs
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Proofs that assert a Theorem about a particular element with specific properties.
- 
+desc: Proofs that assert a Theorem about a particular element with specific properties. 
 imagealt: 
 ---
 

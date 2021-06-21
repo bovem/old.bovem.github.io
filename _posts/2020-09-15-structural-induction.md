@@ -5,8 +5,7 @@ title: Structural Induction
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Instead of using Principle of Mathematical Induction for proving Theorem on recursive Sets we use Structural Induction.
- 
+desc: Instead of using Principle of Mathematical Induction for proving Theorem on recursive Sets we use Structural Induction. 
 imagealt: 
 ---
 

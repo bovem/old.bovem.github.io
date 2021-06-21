@@ -5,8 +5,7 @@ title: Properties of Arithematic Modulo
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ### Closure
- 
+desc: ### Closure 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Logical Programming
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Prolog was developed in 1970s to reason using rules of predicate.
- 
+desc: Prolog was developed in 1970s to reason using rules of predicate. 
 imagealt: 
 ---
 

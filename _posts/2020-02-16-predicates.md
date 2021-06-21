@@ -5,8 +5,7 @@ title: Predicates
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Statements that are neither true nor false until the value of a particular Propositional Variables is specified.
- 
+desc: Statements that are neither true nor false until the value of a particular Propositional Variables is specified. 
 imagealt: 
 ---
 

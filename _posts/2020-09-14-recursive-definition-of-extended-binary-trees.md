@@ -5,8 +5,7 @@ title: Recursive Definition of Extended Binary Trees
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Basis Step: An empty Sets is an Extended Binary Trees
- 
+desc:   
 imagealt: 
 ---
 

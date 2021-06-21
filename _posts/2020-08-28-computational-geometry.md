@@ -5,8 +5,7 @@ title: Computational Geometry
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Part of Discrete Mathematics that studies computational problems involving geometric objects.
- 
+desc: Part of Discrete Mathematics that studies computational problems involving geometric objects. 
 imagealt: 
 ---
 

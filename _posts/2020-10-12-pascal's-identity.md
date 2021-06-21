@@ -5,8 +5,7 @@ title: Pascal's Identity
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after French Mathematician Blaise Pascal.
- 
+desc: Named after French Mathematician Blaise Pascal. 
 imagealt: 
 ---
 

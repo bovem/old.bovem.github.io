@@ -5,8 +5,7 @@ title: Principle of Inclusion-Exclusion
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Cardinality of union of two sets will be sum of cardinality of both sets less the cardinality of their Set Intersection.
- 
+desc: Cardinality of union of two sets will be sum of cardinality of both sets less the cardinality of their Set Intersection. 
 imagealt: 
 ---
 

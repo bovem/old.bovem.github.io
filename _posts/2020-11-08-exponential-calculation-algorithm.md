@@ -5,8 +5,7 @@ title: Exponential Calculation Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ```
- 
+desc:   
 imagealt: 
 ---
 
@@ -18,4 +17,3 @@ exponetial(a, n):
 		return a*exponential(a, n-1)
 ```
 
-Tags: #algorithm 

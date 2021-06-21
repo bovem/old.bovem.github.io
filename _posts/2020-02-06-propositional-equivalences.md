@@ -5,8 +5,7 @@ title: Propositional Equivalences
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ### Subtopics
- 
+desc: ### Subtopics 
 imagealt: 
 ---
 

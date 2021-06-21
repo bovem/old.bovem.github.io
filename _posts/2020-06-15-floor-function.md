@@ -5,8 +5,7 @@ title: Floor Function
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Floor function maps the value to the closest integers less than or equal to value.
- 
+desc: Floor function maps the value to the closest integers less than or equal to value. 
 imagealt: 
 ---
 

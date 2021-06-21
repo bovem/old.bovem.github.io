@@ -5,8 +5,7 @@ title: Geometric Series
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Sum of terms of Geometric Progression (GP).
- 
+desc: Sum of terms of Geometric Progression (GP). 
 imagealt: 
 ---
 

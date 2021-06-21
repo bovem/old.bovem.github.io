@@ -5,8 +5,7 @@ title: Forward Reasoning
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: You start with the Premises, then by using Axioms and known Theorem by a series of steps you reach Conclusion.
- 
+desc: You start with the Premises, then by using Axioms and known Theorem by a series of steps you reach Conclusion. 
 imagealt: 
 ---
 

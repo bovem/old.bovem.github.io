@@ -5,8 +5,7 @@ title: Identity Function
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When Composistion of Functions of Inverse of Functions and the function itself is taken, it creates an identity function.
- 
+desc: When Composistion of Functions of Inverse of Functions and the function itself is taken, it creates an identity function. 
 imagealt: 
 ---
 

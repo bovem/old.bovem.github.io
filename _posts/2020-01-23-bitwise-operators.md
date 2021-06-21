@@ -5,7 +5,7 @@ title: Bitwise Operators
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When we perform Conjunction, Disjunction or Exclusive OR bit-by-bit between two Bit String. Operators will be called Bitwise AND, Bitwise OR and Bitwise XOR respectively. 
+desc:   
 imagealt: 
 ---
 

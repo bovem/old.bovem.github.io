@@ -5,8 +5,7 @@ title: Uniqueness Quantifier
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Uniqueness Quantification of Propositional Function P(x) states that over a particular domain there exists a unique value for which P(x) is true.
- 
+desc: Uniqueness Quantification of Propositional Function P(x) states that over a particular domain there exists a unique value for which P(x) is true. 
 imagealt: 
 ---
 

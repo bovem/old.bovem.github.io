@@ -5,8 +5,7 @@ title: Existential Quantifier
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Existential Quantification of Propositional Function P(x) will be true over a particular domain if P(x) is true over any value in that domain.
- 
+desc: Existential Quantification of Propositional Function P(x) will be true over a particular domain if P(x) is true over any value in that domain. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Merge Sort
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: This algorithm is used to arrange an unordered list into increasing or decreasing order.
- 
+desc: This algorithm is used to arrange an unordered list into increasing or decreasing order. 
 imagealt: 
 ---
 
@@ -750,4 +749,3 @@ Number of comparisons needed to merge sort a list with $n$ elements is $O(n\ log
 
 
 
-Tags: #algorithm 

@@ -5,8 +5,7 @@ title: Laplace Definition of Probabilty of Events
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after French Mathematician Pierre-Simon Laplace.
- 
+desc:   
 imagealt: 
 ---
 

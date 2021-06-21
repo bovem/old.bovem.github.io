@@ -5,8 +5,7 @@ title: Summations
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Summation notation is used to represent sum of Sequences.
- 
+desc: Summation notation is used to represent sum of Sequences. 
 imagealt: 
 ---
 

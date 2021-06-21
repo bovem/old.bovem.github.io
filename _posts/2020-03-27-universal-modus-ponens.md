@@ -5,8 +5,7 @@ title: Universal Modus Ponens
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It is a combination of Modus Ponens and Universal Instantiation.
- 
+desc: It is a combination of Modus Ponens and Universal Instantiation. 
 imagealt: 
 ---
 

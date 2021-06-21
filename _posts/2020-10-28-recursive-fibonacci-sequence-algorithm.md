@@ -5,8 +5,7 @@ title: Recursive Fibonacci Sequence Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: This algorithm outputs Fibonacci Sequence using Recursion.
- 
+desc: This algorithm outputs Fibonacci Sequence using Recursion. 
 imagealt: 
 ---
 
@@ -20,4 +19,3 @@ fibonacci(n):
 		return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-Tags: #algorithm 

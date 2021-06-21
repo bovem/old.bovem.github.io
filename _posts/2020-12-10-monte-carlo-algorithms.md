@@ -5,8 +5,7 @@ title: Monte Carlo Algorithms
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Monte Carlo Algorithms give answers to Decision Problems. There is some probability that these answers are incorrect but it decreases as algorithm does more computations.
- 
+desc: Monte Carlo Algorithms give answers to Decision Problems. There is some probability that these answers are incorrect but it decreases as algorithm does more computations. 
 imagealt: 
 ---
 
@@ -1433,4 +1432,3 @@ If $p \neq 0$ the probability of "false" response approaches 0 as $n$ increases 
 
 
 
-Tags: #algorithm 

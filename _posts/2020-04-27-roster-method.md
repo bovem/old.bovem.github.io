@@ -5,8 +5,7 @@ title: Roster Method
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: When we list all elements of set in braces
- 
+desc: When we list all elements of set in braces 
 imagealt: 
 ---
 

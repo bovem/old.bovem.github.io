@@ -5,8 +5,7 @@ title: Argument Form
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Series of Compound Propositions containing Propositional Variables.
- 
+desc: Series of Compound Propositions containing Propositional Variables. 
 imagealt: 
 ---
 

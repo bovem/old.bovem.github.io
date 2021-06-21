@@ -5,7 +5,7 @@ title: Summation Formulas
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: !Pasted image 20210607175339.png 
+desc:   
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Conjecture
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A statement that is proposed to be true based on some partial evidence or a heuristic Arguments, or the intuition of an expert.
- 
+desc: A statement that is proposed to be true based on some partial evidence or a heuristic Arguments, or the intuition of an expert. 
 imagealt: 
 ---
 

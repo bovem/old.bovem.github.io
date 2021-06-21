@@ -5,8 +5,7 @@ title: Grand Hotel Paradox
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Invented by Mathematician David Hilbert.
- 
+desc: Invented by Mathematician David Hilbert. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Prime Number Theorem
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Proved by French mathematician Jacques Hadamard and Belgian mathematician Charles-Jean-Gustave-Nicholas de la Vallée-Poussin.
- 
+desc:   
 imagealt: 
 ---
 

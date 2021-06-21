@@ -5,8 +5,7 @@ title: Probablistic Method
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: These methods are used to create Nonconstructive Proofs Existence Proofs.
- 
+desc: These methods are used to create Nonconstructive Proofs Existence Proofs. 
 imagealt: 
 ---
 

@@ -5,8 +5,7 @@ title: Logic Puzzles
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Puzzles could also be solved using Propositional Logic.
- 
+desc: Puzzles could also be solved using Propositional Logic. 
 imagealt: 
 ---
 

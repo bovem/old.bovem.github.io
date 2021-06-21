@@ -5,8 +5,7 @@ title: Universal Instantiation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Universal Quantifier
- 
+desc: Universal Quantifier 
 imagealt: 
 ---
 

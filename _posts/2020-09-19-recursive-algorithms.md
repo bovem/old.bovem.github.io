@@ -5,8 +5,7 @@ title: Recursive Algorithms
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: An algorithm is recursive if it solves the problem by reducing it to an instance of same problem with smaller input.
- 
+desc: An algorithm is recursive if it solves the problem by reducing it to an instance of same problem with smaller input. 
 imagealt: 
 ---
 

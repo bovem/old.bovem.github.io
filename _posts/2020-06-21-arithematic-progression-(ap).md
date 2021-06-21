@@ -5,8 +5,7 @@ title: Arithematic Progression (AP)
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It is a sequence of form
- 
+desc: It is a sequence of form 
 imagealt: 
 ---
 

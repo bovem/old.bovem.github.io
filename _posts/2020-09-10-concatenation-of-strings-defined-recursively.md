@@ -5,8 +5,7 @@ title: Concatenation of Strings defined Recursively
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Concatenation can be defined recursively.
- 
+desc: Concatenation can be defined recursively. 
 imagealt: 
 ---
 

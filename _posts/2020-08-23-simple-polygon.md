@@ -5,7 +5,7 @@ title: Simple Polygon
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: If no two non-consecutive lines intersect. 
+desc:   
 imagealt: 
 ---
 

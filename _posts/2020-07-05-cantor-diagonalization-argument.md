@@ -5,8 +5,7 @@ title: Cantor Diagonalization Argument
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: To prove that a set of positive rational numbers is Countable, we first arrange the numbers such that numbers with denominator 1 are listed in first row, denominator 2 are listed in second row and so on.
- 
+desc: To prove that a set of positive rational numbers is Countable, we first arrange the numbers such that numbers with denominator 1 are listed in first row, denominator 2 are listed in second row and so on. 
 imagealt: 
 ---
 

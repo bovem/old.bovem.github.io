@@ -5,8 +5,7 @@ title: Combination
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Combination of Sets of distinct objects is an unordered arrangement of those objects.
- 
+desc: Combination of Sets of distinct objects is an unordered arrangement of those objects. 
 imagealt: 
 ---
 

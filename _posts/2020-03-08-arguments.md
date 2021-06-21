@@ -5,8 +5,7 @@ title: Arguments
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Series of statements that ends with a Conclusion or a sequence of Proposition.
- 
+desc: Series of statements that ends with a Conclusion or a sequence of Proposition. 
 imagealt: 
 ---
 

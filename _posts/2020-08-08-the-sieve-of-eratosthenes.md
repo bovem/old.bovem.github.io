@@ -5,8 +5,7 @@ title: The Sieve of Eratosthenes
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after Greek mathematician Eratosthenes
- 
+desc: Named after Greek mathematician Eratosthenes 
 imagealt: 
 ---
 

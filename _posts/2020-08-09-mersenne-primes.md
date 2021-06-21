@@ -5,8 +5,7 @@ title: Mersenne Primes
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after French Monk Martin Mersenne.
- 
+desc: Named after French Monk Martin Mersenne. 
 imagealt: 
 ---
 

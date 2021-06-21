@@ -5,8 +5,7 @@ title: One-to-One Functions
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Functions which do not assign same value to two different elements in Domain.
- 
+desc: Functions which do not assign same value to two different elements in Domain. 
 imagealt: 
 ---
 

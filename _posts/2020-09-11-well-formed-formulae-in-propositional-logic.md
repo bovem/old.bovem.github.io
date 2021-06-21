@@ -5,8 +5,7 @@ title: Well-Formed Formulae in Propositional Logic
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: We can define the set of well formed formulae in Propositional Logic involving Propositional Variables, Logical Operators, T and F.
- 
+desc: We can define the set of well formed formulae in Propositional Logic involving Propositional Variables, Logical Operators, T and F. 
 imagealt: 
 ---
 

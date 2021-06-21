@@ -5,8 +5,7 @@ title: Computer Representation of Sets
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: We assume Universal Set to be finite (bounded by Memory limits of system).
- 
+desc: We assume Universal Set to be finite (bounded by Memory limits of system). 
 imagealt: 
 ---
 

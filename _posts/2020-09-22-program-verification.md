@@ -5,8 +5,7 @@ title: Program Verification
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: A program is said to be correct if it generates correct output for every possible input.
- 
+desc: A program is said to be correct if it generates correct output for every possible input. 
 imagealt: 
 ---
 

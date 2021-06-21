@@ -5,8 +5,7 @@ title: Iterative Fibonacci Sequence Algorithm
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: This algorithm outputs Fibonacci Sequence using Iteration.
- 
+desc: This algorithm outputs Fibonacci Sequence using Iteration. 
 imagealt: 
 ---
 
@@ -26,4 +25,3 @@ fibonacci(n):
 		return y
 ```
 
-Tags: #algorithm 

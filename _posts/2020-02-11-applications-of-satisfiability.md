@@ -5,8 +5,7 @@ title: Applications of Satisfiability
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Proposition Satisfiability is used in software testing, robotics, computer-aided design, etc.
- 
+desc:   
 imagealt: 
 ---
 

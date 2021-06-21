@@ -5,8 +5,7 @@ title: Logic Circuits
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Claude Shannon first observed that Propositional Logic could be used to create logic circuits in hardware.
- 
+desc: Claude Shannon first observed that Propositional Logic could be used to create logic circuits in hardware. 
 imagealt: 
 ---
 

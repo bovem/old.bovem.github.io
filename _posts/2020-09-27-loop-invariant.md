@@ -5,8 +5,7 @@ title: Loop Invariant
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: While loop has structure like
- 
+desc: While loop has structure like 
 imagealt: 
 ---
 

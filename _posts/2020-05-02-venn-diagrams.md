@@ -5,8 +5,7 @@ title: Venn Diagrams
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Named after English Mathematician John Venn.
- 
+desc: Named after English Mathematician John Venn. 
 imagealt: 
 ---
 

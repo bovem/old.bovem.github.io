@@ -5,8 +5,7 @@ title: Intersection of Collection of Sets
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Set Intersection of a collection of sets will contains elements which are present in all sets.
- 
+desc: Set Intersection of a collection of sets will contains elements which are present in all sets. 
 imagealt: 
 ---
 

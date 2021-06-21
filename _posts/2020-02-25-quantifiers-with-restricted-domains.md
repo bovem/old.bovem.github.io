@@ -5,8 +5,7 @@ title: Quantifiers with restricted domains
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Here, domain over which quantifier is true is specified in the end.
- 
+desc: Here, domain over which quantifier is true is specified in the end. 
 imagealt: 
 ---
 

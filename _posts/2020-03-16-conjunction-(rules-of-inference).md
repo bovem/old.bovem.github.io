@@ -5,8 +5,7 @@ title: Conjunction (Rules of Inference)
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Same as Conjunction.
- 
+desc: Same as Conjunction. 
 imagealt: 
 ---
 

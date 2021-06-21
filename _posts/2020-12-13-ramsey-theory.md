@@ -5,8 +5,7 @@ title: Ramsey Theory
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: It deals with distribution of subsets of elements of sets.
- 
+desc: It deals with distribution of subsets of elements of sets. 
 imagealt: 
 ---
 

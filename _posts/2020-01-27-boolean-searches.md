@@ -5,8 +5,7 @@ title: Boolean Searches
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Propositional Logic is used to create queries for searching in large databases.
- 
+desc: Propositional Logic is used to create queries for searching in large databases. 
 imagealt: 
 ---
 

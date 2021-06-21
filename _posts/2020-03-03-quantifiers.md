@@ -5,8 +5,7 @@ title: Quantifiers
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Quantification is another way to create a Proposition from Propositional Function. It gives a range of values over which a Proposition is true.
- 
+desc: Quantification is another way to create a Proposition from Propositional Function. It gives a range of values over which a Proposition is true. 
 imagealt: 
 ---
 

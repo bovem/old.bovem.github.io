@@ -5,8 +5,7 @@ title: Truth Table
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Table containing all possible Truth Value of a Proposition.
- 
+desc: Table containing all possible Truth Value of a Proposition. 
 imagealt: 
 ---
 

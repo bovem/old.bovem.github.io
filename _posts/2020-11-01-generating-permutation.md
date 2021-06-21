@@ -5,8 +5,7 @@ title: Generating Permutation
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: ```
- 
+desc:   
 imagealt: 
 ---
 
@@ -33,4 +32,3 @@ func next_permutation(a[]):
 		s = s+1
 ```
 
-Tags: #algorithm 

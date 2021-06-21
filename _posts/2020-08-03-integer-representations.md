@@ -5,8 +5,7 @@ title: Integer Representations
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: An integer can be expressed using any integer > 1 as base.
- 
+desc: An integer can be expressed using any integer > 1 as base. 
 imagealt: 
 ---
 

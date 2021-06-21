@@ -5,8 +5,7 @@ title: Ordered pairs
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: If n=2, then Ordered n-tuples are called ordered pairs.
- 
+desc:   
 imagealt: 
 ---
 

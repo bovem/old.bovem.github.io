@@ -5,8 +5,7 @@ title: Union of Collection of Sets
 image: "/assets/images/img_test.jpg"
 categories:
 - DM
-desc: Set Union of a collection of sets will contains elements which are present in at least one of the set.
- 
+desc: Set Union of a collection of sets will contains elements which are present in at least one of the set. 
 imagealt: 
 ---
 
