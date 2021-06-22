@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 #baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://bovem.github.io" # the base hostname & protocol for your site
 github_username:  bovem
-repository: bovem/bovem.github.io
 
 # Build settings
 markdown: kramdown
