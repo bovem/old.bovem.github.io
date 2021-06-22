@@ -25,7 +25,11 @@
             <div class="header__top">
                 <div class="header__logo">
                     <a class="site-logo" href="/index.html">
-                        <img src="/assets/images/ds2.png" alt="Homepage">
+                        {% if page.about_page %}
+                            <img src="/assets/images/bovem_portfolio.png" alt="Homepage">
+                        {% else %}
+                            <img src="/assets/images/bovem_blog.png" alt="Homepage">
+                        {% endif %}
                         <!--<h2 style=" margin:0%; padding-top: 18%;padding-bottom: 18%;color: white;">OVERFIT</h2>-->
                     </a>
                 </div>
@@ -65,7 +69,7 @@
                             
                         </ul>
                     </li>
-                    <li><a href="/about.html" title="">About Me</a></li>
+                    <li><a href="/index.html" title="">About Me</a></li>
 
 
 
