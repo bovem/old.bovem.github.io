@@ -1,0 +1,99 @@
+---
+layout: default
+mathjax: true
+title: Calculus
+permalink: /CALC/
+pagination: 
+  enabled: true
+  category: CALC
+  permalink: /:num/
+---
+
+<header class="listing-header">
+    <h1 class="h2">Calculus</h1>
+</header>
+            
+  <div class="masonry-wrap">
+
+      <div class="masonry">
+
+          <div class="grid-sizer"></div>
+          <!-- For all posts in Statistics category -->
+          {% for post in paginator.posts %}
+          <article class="masonry__brick entry format-standard animate-this">
+                  
+              <div class="entry__thumb">
+                  <a href="{{ post.url }}" class="entry__thumb-link">
+                      <img src="{{ post.image }}" alt="">
+                  </a>
+              </div>
+
+              <div class="entry__text">
+                  <div class="entry__header">
+
+                      <h2 class="entry__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                      <div class="entry__meta">
+                          <span class="entry__meta-cat">
+                            <a href="{{ post.categories[0] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[0] | upcase | replace:'-',' ' | remove:','}}</a>
+                            {% if page.categories[1] %}
+                            <a href="{{ post.categories[1] | remove:',' | append:'.html' | prepend:'/categories/' }}">{{ post.categories[1] | upcase | replace:'-',' ' | remove:','}}</a>
+                            {% endif %}
+                          </span>
+                          <br />
+                          <span class="entry__meta-date">
+                              <a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+                          </span>
+                      </div>
+                      
+                  </div>
+                  <div class="entry__excerpt">
+                      <p>
+                      {{post.desc}}
+                      </p>
+                  </div>
+              </div>
+
+          </article> <!-- end article -->
+{% endfor %}
+         
+
+      </div> <!-- end masonry -->
+
+  </div> <!-- end masonry-wrap -->
+<nav class="pgn">
+    {% if paginator.total_pages > 1 %}
+    
+    <ul>
+    {% if paginator.previous_page %}
+    <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" style="color: black;" class="pgn__num"><b>&laquo;</b></a>
+    </li>
+    {% endif %}
+    
+  <!-- <span class="page_number ">
+        Page: {{ paginator.page }} of {{ paginator.total_pages }}   
+  </span> -->
+
+{% if paginator.page_trail %}
+  {% for trail in paginator.page_trail %}
+    <li {% if page.url == trail.path %}class="selected"{% endif %}>
+        {% if page.url == trail.path %}
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="pgn__num current">{{ trail.num }}</a>
+        {% else %}
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}" class="pgn__num">{{ trail.num }}</a>
+        {% endif %}
+    </li>
+  {% endfor %}
+{% endif %}
+
+    {% if paginator.next_page %}
+    <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" style="color: black;" class="pgn__num"><b>&raquo;</b></a>
+    </li>
+    {% endif %}
+    
+    </ul>
+    {% endif %}
+  </nav>
+  
+  </div>
