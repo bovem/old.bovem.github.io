@@ -1,3 +1,4 @@
 FROM jekyll/jekyll:latest
 
 RUN bundle init
+RUN bundle update nokogiri kramdown

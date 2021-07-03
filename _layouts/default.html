@@ -44,6 +44,13 @@
 
                 <ul class="header__nav">
                     <li class="current"><a href="/blog/index.html" title="">Blog</a></li>
+                    {% if page.about_page %}
+                            <li><a href="https://github.com/bovem" target="_blank">GitHub</a></li>
+                            <li><a href="https://bovem.medium.com" target="_blank">Medium</a></li>
+                            <li><a href="https://www.hackerrank.com/bovem" target="_blank">HackerRank</a></li>
+                            <li><a href="http://www.linkedin.com/in/avnish-pal" target="_blank">LinkedIn</a></li>
+                            <li><a href="https://www.kaggle.com/bovem98" target="_blank">Kaggle</a></li>
+                    {% else %}
                     <li class="has-children">
                         <a href="#0" title="">Categories</a>
                         <ul class="sub-menu">
@@ -72,7 +79,8 @@
                         </ul>
                     </li>
                     <li><a href="/index.html" title="">About Me</a></li>
-
+                    {% endif %}
+                    <li><a href="/credits.html" title="">Credits</a></li>
 
 
                 </ul> <!-- end header__nav -->
@@ -91,13 +99,13 @@
                     </li>
                 -->
                     <li class="ss-medium">
-                        <a href="https://bovem.medium.com/" target="_blank">
+                        <a href="https://bovem.medium.com" target="_blank">
                             <span class="screen-reader-text">Medium</span>
                         </a>
                     </li>
 
                     <li class="ss-linkedin">
-                        <a href="http://www.linkedin.com/in/avnish-pal/" target="_blank">
+                        <a href="http://www.linkedin.com/in/avnish-pal" target="_blank">
                             <span class="screen-reader-text">LinkedIn</span>
                         </a>
                     </li>
