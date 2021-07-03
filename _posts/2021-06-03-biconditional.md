@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Biconditional
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: For two Proposition p and q, Compound Propositions $p \leftrightarrow q$ is true when both both p and q have same Truth Value false otherwise. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 For two [Proposition]({% post_url 2021-06-03-proposition %}) *p* and *q*, [Compound Propositions]({% post_url 2021-06-03-compound-propositions %}) $p \leftrightarrow q$ is true when both both *p* and *q* have same [Truth Value]({% post_url 2021-06-03-truth-value %}) false otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -721,8 +752,40 @@ It could also be written as $(p \to q) \wedge (q \to p)$. Where $(q \to p)$ is [
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Biconditional are also known as *bi-implication*.
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

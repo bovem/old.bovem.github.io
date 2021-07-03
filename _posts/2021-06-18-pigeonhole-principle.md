@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Pigeonhole Principle
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: If $k>0$ and $k+1$ objects are placed in $k$ boxes then at least one box will have more than one objects. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 If $k>0$ and $k+1$ objects are placed in $k$ boxes then at least one box will have more than one objects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -722,11 +753,43 @@ A [Functions]({% post_url 2021-06-07-functions %}) $f$ from a set of $k+1$ or mo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Generalized Pigeonhole Principle]({% post_url 2021-06-18-generalized-pigeonhole-principle %})
 - [Subsequence]({% post_url 2021-06-18-subsequence %})
 - [Ramsey Theory]({% post_url 2021-06-20-ramsey-theory %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

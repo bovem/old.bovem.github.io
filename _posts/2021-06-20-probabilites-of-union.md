@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Probabilites of Union
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let $E_1$ and $E_2$ be two Event on Sample Space $S$ then Set Union of these two events will be 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let $E_1$ and $E_2$ be two [Event]({% post_url 2021-06-20-event %}) on [Sample Space]({% post_url 2021-06-20-sample-space %}) $S$ then [Set Union]({% post_url 2021-06-05-set-union %}) of these two events will be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -718,8 +749,40 @@ $$P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1 \cap E_2)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is similar to [Principle of Inclusion-Exclusion]({% post_url 2021-06-05-principle-of-inclusion-exclusion %}).
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

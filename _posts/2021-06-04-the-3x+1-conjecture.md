@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: The 3x+1 Conjecture
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let $T$ be a transformation such that 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let $T$ be a transformation such that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -717,7 +748,69 @@ $$T(x) = x/2\ if\ x\ is\ even$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$T(x) = 3x+1\ if\ x\ is\ odd$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1431,6 +1524,38 @@ It has been proved by computer for $x$ over $5.6 \times 10^{13}$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

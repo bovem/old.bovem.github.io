@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Subsequence
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: A subsequence of a sequence $a_1, a_2 \dots a_n$ is of form $a_{i_1}, a_{i_2} \dots a_{i_m}$ where $1 \le i_1 \le i_2 \dots \le i_m \le N$.  
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 A *subsequence* of a sequence $a_1, a_2 \dots a_n$ is of form $a_{i_1}, a_{i_2} \dots a_{i_m}$ where $1 \le i_1 \le i_2 \dots \le i_m \le N$. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -724,6 +755,38 @@ Every sequence of $n^2 + 1$ distinct integers contains a subsequence of length $
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

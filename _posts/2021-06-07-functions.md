@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Functions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Given two nonempty Sets $A$ and $B$. A function $f$ from $A$ to $B$ is assignment of a single element of $B$ to each element in $A$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Given two nonempty [Sets]({% post_url 2021-06-08-sets %}) $A$ and $B$. A *function* $f$ from $A$ to $B$ is assignment of a single element of $B$ to each element in $A$.
@@ -364,7 +364,69 @@ Given two nonempty [Sets]({% post_url 2021-06-08-sets %}) $A$ and $B$. A *functi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It could be denoted as $f(a) = b$ here $b$ is a *unique element* in set $B$ and $a$ is an element from set $A$. It could also be denoted as $f: A \rightarrow B$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1076,6 +1138,37 @@ Function can also be defined as a [Subsets]({% post_url 2021-06-05-subsets %}) o
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Domain]({% post_url 2021-06-07-domain %})
 - [Codomain]({% post_url 2021-06-07-codomain %})
@@ -1103,5 +1196,6 @@ Function can also be defined as a [Subsets]({% post_url 2021-06-05-subsets %}) o
 - [Partial Functions]({% post_url 2021-06-07-partial-functions %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

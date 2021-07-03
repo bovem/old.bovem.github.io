@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Divisibility
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: If $a$ and $b$ are integers then we say *$a$ divides $b$* if there exists an integer $c$ such that $b=ac$ and $b \over a$ is an integer. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 If $a$ and $b$ are integers then we say *$a$ divides $b$* if there exists an integer $c$ such that $b=ac$ and $b \over a$ is an integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -718,7 +749,69 @@ $a$ will be called *factor* of $b$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $b$ will be called *multiple* of $a$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1428,11 +1521,43 @@ $a$ divides $b$ is represented as $a | b$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Basic Properties of Divisiblity]({% post_url 2021-06-08-basic-properties-of-divisiblity %})
 - [Division Algorithm]({% post_url 2021-06-19-division-algorithm %})
 - [Modular Arithematic]({% post_url 2021-06-08-modular-arithematic %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

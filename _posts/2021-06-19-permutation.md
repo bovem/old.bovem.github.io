@@ -2,16 +2,47 @@
 layout: article
 mathjax: true
 title: Permutation
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Permutation of Sets of distinct objects is an ordered arrangement of those objects. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Permutation of [Sets]({% post_url 2021-06-08-sets %}) of distinct objects is an ordered arrangement of those objects.
 
 Ordered arrangement of $r$ elements of a set is called $r$-permutation. It is denoted as $P(n, r)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -720,6 +751,37 @@ Ordered arrangement of $r$ elements of a set is called $r$-permutation. It is de
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$P(n, r) = (n)(n-1)(n-2) \dots (n-r+1)$$ will be $r$-permutation of set with $n$ distinct elements.
 
 
@@ -1075,7 +1137,69 @@ $$P(n, r) = (n)(n-1)(n-2) \dots (n-r+1)$$ will be $r$-permutation of set with $n
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $P(n, 0)=1$ if $n$ is a non-negative integer because there is only one way to arrange zero elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1786,11 +1910,43 @@ If $n$ and $r$ are non-negative integers such that $0 \le r \le n$ then $$P(n, r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Permutation with Repetition]({% post_url 2021-06-19-permutation-with-repetition %})
 - [Permutation with Indistinguishable Objects]({% post_url 2021-06-19-permutation-with-indistinguishable-objects %})
 - [Generating Permutation]({% post_url 2021-06-19-generating-permutation %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

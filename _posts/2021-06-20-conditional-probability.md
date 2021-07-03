@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Conditional Probability
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let $E$ and $F$ be two events such that outcome of $E$ depends on outcome of $F$ and $p(F)>0$ then conditional probability ($p(E | F)$) is 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let $E$ and $F$ be two events such that outcome of $E$ depends on outcome of $F$ and $p(F)>0$ then conditional probability ($p(E | F)$) is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,6 +750,37 @@ $$p(E|F) = {p(E \cap F) \over p(F)}$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Sample Space]({% post_url 2021-06-20-sample-space %}) of event $E$ is changed to $F$.
 
 
@@ -1074,6 +1136,38 @@ $$p(E|F) = {p(E \cap F) \over p(F)}$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Satisfiability of Sudoku
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Sudoku is [Satifiable]({% post_url 2021-06-03-satifiable %}) (or finished) only when there are unique number 1 to 9 in:
@@ -370,11 +370,73 @@ Let $p(i, j, n)$ be a proposition be true if number *n* is in *i*th row and *j*t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * First we have to assert that every row contains every number
 	- check if row *i* contains number *n*.
 	- check if row *i* contains all *n* numbers.
 	- check for all the rows
 	$$\bigwedge_{i=1}^9 \bigwedge_{n=1}^9 \bigvee_{j=1}^9 p(i, j, n)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1088,8 +1150,70 @@ Let $p(i, j, n)$ be a proposition be true if number *n* is in *i*th row and *j*t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Then we check for satisfiability in each 3x3 grid.
 	$$\bigwedge_{r=0}^2 \bigwedge_{s=0}^2 \bigwedge_{n=1}^9 \bigvee_{i=1}^3 \bigvee_{j=1}^3 p(3r+i, 3s+j, n)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1800,6 +1924,37 @@ Let $p(i, j, n)$ be a proposition be true if number *n* is in *i*th row and *j*t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   over all the values of *i*, *j*, *n* and *n'*.
   Here each variable ranges from 1 to 9 and $n \neq n'$.
 
@@ -2156,6 +2311,38 @@ Let $p(i, j, n)$ be a proposition be true if number *n* is in *i*th row and *j*t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

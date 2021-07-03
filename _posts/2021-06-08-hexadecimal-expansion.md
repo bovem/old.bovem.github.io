@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Hexadecimal Expansion
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: An integer n will be expanded with $b = 16$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 An integer n will be expanded with $b = 16$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -718,6 +749,38 @@ $$n = {a_k}{b^k} + {a_{(k-1)}}{b^{(k-1)}} + \dots {a_1}{b} + a_0$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Trivial Proofs
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: If we know $q$ is true in Conditional Statement $p \to q$. Then we can also say that $p \to q$ is also true. This is called Trivial Proof. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 If we know $q$ is true in [Conditional Statement]({% post_url 2021-06-03-conditional-statement %}) $p \to q$. Then we can also say that $p \to q$ is also true. This is called *Trivial Proof*.
@@ -364,6 +364,38 @@ If we know $q$ is true in [Conditional Statement]({% post_url 2021-06-03-conditi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

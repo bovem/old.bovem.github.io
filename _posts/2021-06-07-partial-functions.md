@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Partial Functions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: For a partial function $f$ is an assignment of a unique element $a$ (in a subset of Domain of $A$ called domain of definition) to a unique element $b \in B$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 For a partial function $f$ is an assignment of a unique element $a$ (in a subset of [Domain]({% post_url 2021-06-07-domain %}) of $A$ called *domain of definition*) to a unique element $b \in B$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,8 +750,40 @@ Elements not present *domain of definition* of $A$ are called *undefined*.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 When [Domain]({% post_url 2021-06-07-domain %}) is same as *domain of definition* the function is called *total function*.
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

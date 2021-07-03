@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Lame's Theorem
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Given $a$ and $b$ are positive integers with $a \ge b$. Then number of divisions done by Euclidean Algorithm to find Greatest Common Divisor (GCD) of $a$ and $b$ is $5\ \times$ the number of decimal digits in $b$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Given $a$ and $b$ are positive integers with $a \ge b$. Then number of divisions done by [Euclidean Algorithm]({% post_url 2021-06-19-euclidean-algorithm %}) to find [Greatest Common Divisor (GCD)]({% post_url 2021-06-14-greatest-common-divisor-(gcd) %}) of $a$ and $b$ is $5\ \times$ the number of decimal digits in $b$.
@@ -364,6 +364,38 @@ Given $a$ and $b$ are positive integers with $a \ge b$. Then number of divisions
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Properties of Arithematic Modulo
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: ### Closure 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 ### Closure
@@ -364,7 +364,69 @@ $$\forall a, b \in Z_m\ then\ \forall (a+_mb) \in Z_m$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\forall a, b \in Z_m\ then\ \forall (a \cdot_m b) \in Z_m$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1074,7 +1136,69 @@ $$If\ a, b, c \in Z_m\ then\ a +_m (b +_m c) = (a +_m b) +_m c$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$If\ a, b, c \in Z_m\ then\ a \cdot_m  (b \cdot_m  c) = (a \cdot_m  b) \cdot_m  c$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1786,7 +1910,69 @@ $$a +_m 0 = 0 +_m a = a$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$a \cdot_m 1 = 1 \cdot_m a = a$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2497,7 +2683,69 @@ If $a \neq 0 \in Z_m$ then $(m-a)$ is additive inverse of $a$. 0 is additive inv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$a +_m (m-a) = 0$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3207,6 +3455,37 @@ $$\forall a, b, c \in Z_m\ then\ a +_m (b \cdot_m c) = ((a +_m b) \cdot_m (a +_m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\forall a, b, c \in Z_m\ then\ a \cdot_m (b +_m c) = ((a \cdot_m b) +_m (a \cdot_m c))$$
 
 
@@ -3562,6 +3841,38 @@ $$\forall a, b, c \in Z_m\ then\ a \cdot_m (b +_m c) = ((a \cdot_m b) +_m (a \cd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

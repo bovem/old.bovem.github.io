@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Laws defined over compound propositions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: ### De Morgan Laws 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 ### De Morgan Laws
@@ -22,6 +22,37 @@ Named after <b>Augustus De Morgan</b>.
 <img src="../assets/images/posts/Pasted image 20210603181532.png"/>
 
 Sometimes notations $\bigvee_{j=1}^n p_j$ or $\bigwedge_{j=1}^n p_j$ are used to show [Conjunction]({% post_url 2021-06-03-conjunction %}) or [Disjunction]({% post_url 2021-06-03-disjunction %}) over values $p_1, p_2, \dots p_n$ respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -732,6 +763,38 @@ $$\neg (\bigvee_{j=1}^n p_j) \equiv \bigwedge_{j=1}^n \neg p_j$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

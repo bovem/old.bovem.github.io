@@ -6,124 +6,124 @@
 </description>
     <link>http://bovem.github.io/</link>
     <atom:link href="http://bovem.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Jul 2021 07:47:26 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Jul 2021 07:47:26 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Jul 2021 10:47:12 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Jul 2021 10:47:12 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Well-Formed Formulae on Operators and Operands</title>
+        <title>Strategy for Finding Limits</title>
         <description></description>
-        <pubDate>Mon, 21 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/well-formed-formulae-on-operators-and-operands.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/well-formed-formulae-on-operators-and-operands.html</guid>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/strategy-for-finding-limits.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/strategy-for-finding-limits.html</guid>
         
         
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Uniform Distribution</title>
-        <description>Let $S$ be a Sample Space with $n$ events then uniform distribution will assign probability of $1/n$ to each outcome.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/uniform-distribution.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/uniform-distribution.html</guid>
-        
-        
-        <category>DM</category>
+        <category>CALC</category>
         
       </item>
     
       <item>
-        <title>The Birthday Problem</title>
-        <description>How many people are needed in one room such that probability of at least two of them having birthday at same day is greater than 1/2?</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/the-birthday-problem.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/the-birthday-problem.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Sample Space</title>
-        <description>Sets of all possible outcomes of an Experiment.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/sample-space.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/sample-space.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Random Variable</title>
-        <description>A Functions from Sample Space of Event to real numbers.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/random-variable.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/random-variable.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Ramsey Theory</title>
-        <description>It deals with distribution of subsets of elements of sets.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/ramsey-theory.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/ramsey-theory.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Ramsey Number</title>
-        <description>$R(m, n)$ where $m$ and $n$ are positive integers tells the minimum number of people at party such that their are $m$ mutual friends or $n$ mutual enemies.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/ramsey-number.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/ramsey-number.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Probablistic Method</title>
-        <description>These methods are used to create Nonconstructive Proofs Existence Proofs.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/probablistic-method.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/probablistic-method.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Probablistic Algorithms</title>
-        <description>Algorithms that make random choice at one or more steps.</description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/probablistic-algorithms.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/probablistic-algorithms.html</guid>
-        
-        
-        <category>DM</category>
-        
-      </item>
-    
-      <item>
-        <title>Probability Theory</title>
+        <title>Linear Algebra</title>
         <description></description>
-        <pubDate>Sun, 20 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://bovem.github.io/2021/probability-theory.html</link>
-        <guid isPermaLink="true">http://bovem.github.io/2021/probability-theory.html</guid>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/linear-algebra.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/linear-algebra.html</guid>
+        
+        
+        <category>LINALG</category>
+        
+      </item>
+    
+      <item>
+        <title>Limits by Direct Substitution</title>
+        <description>We can find limits by directly substituting value of $x$ in $f(x)$ iff the function is continuous.</description>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/limits-by-direct-substitution.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/limits-by-direct-substitution.html</guid>
+        
+        
+        <category>CALC</category>
+        
+      </item>
+    
+      <item>
+        <title>Counting</title>
+        <description></description>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/counting.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/counting.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Variance</title>
+        <description>Variance of Random Variable $X$ is weighted average of square of Deviation. It is defined as</description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/variance.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/variance.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Standard Deviation</title>
+        <description>It is the square root of Variance denoted as $\sigma (X) = \sqrt{V(X)}$.</description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/standard-deviation.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/standard-deviation.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Spam</title>
+        <description></description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/spam.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/spam.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Linearity of Expectations</title>
+        <description></description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/linearity-of-expectations.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/linearity-of-expectations.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Independent Random Variables</title>
+        <description>Random Variables $X$ and $Y$ on Sample Space $S$ are said to to be independent if</description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/independent-random-variables.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/independent-random-variables.html</guid>
+        
+        
+        <category>DM</category>
+        
+      </item>
+    
+      <item>
+        <title>Geometric Distribution</title>
+        <description></description>
+        <pubDate>Fri, 02 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://bovem.github.io/2021/geometric-distribution.html</link>
+        <guid isPermaLink="true">http://bovem.github.io/2021/geometric-distribution.html</guid>
         
         
         <category>DM</category>

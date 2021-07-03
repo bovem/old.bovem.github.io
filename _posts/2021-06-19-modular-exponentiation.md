@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Modular Exponentiation
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: To find $b^n\ mod\ m$ efficiently we use Base expansion formula. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 To find $b^n\ mod\ m$ efficiently we use [Base]({% post_url 2021-06-08-base %}) expansion formula.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,7 +750,69 @@ $$b^n = b^{a_{(k-1)}2^{(k-1)} + a_{(k-2)}2^{(k-2)} + \dots a_{1}2 + a_0} = b^{a_
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We multiply $b^{2j}$ to each term where $a_j=1$ and take modulo $m$ for each of them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1431,6 +1524,38 @@ We multiply $b^{2j}$ to each term where $a_j=1$ and take modulo $m$ for each of 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

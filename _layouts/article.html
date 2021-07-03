@@ -6,14 +6,14 @@ title : {{ page.title }}
 <!-- Works only if mathjax:true is present in front-matter of post-->
 {% include mathjax.html %}
 <main class="row content__page">
-                
+
     <article class="column large-full entry format-standard">
 
-       
+
         <div class="content__page-header entry__header">
             <h1 class="display-1 entry__title">
-            <!-- Post title -->
-            {{page.title}}
+                <!-- Post title -->
+                {{page.title}}
             </h1>
             <ul class="entry__header-meta">
                 <li class="author">By <a href="/index.html">Avnish</a></li>
@@ -35,7 +35,7 @@ title : {{ page.title }}
 
             <p class="lead drop-cap">
                 <!-- Post content-->
-            {{page.content}}
+                {{page.content}}
             </p>
 
 
@@ -43,8 +43,8 @@ title : {{ page.title }}
                 <span>Post Tags</span>
 
                 <span class="entry__tag-list">
-                        <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
-                        <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
+                    <!-- For Category Tags: Converts linear-algebra to LINEAR ALGEBRA -->
+                    <!-- For Category Links : Converts linear-algebra to /categories/linear-algebra.html-->
                     <a href="{{ page.categories[0] | prepend:'/' }}">{{ page.categories[0] }}</a>
                     {% if page.categories[1] %}
                     <a href="{{ page.categories[1] | prepend:'/' }}">{{  page.categories[1] }}</a>
@@ -59,23 +59,23 @@ title : {{ page.title }}
                 <div class="entry__prev">
                     <!-- If there exists a previous post (based on date) add its title and url to post -->
                     {% if page.previous.url %}
-                        <a href="{{ page.previous.url }}" rel="prev">
-                                <span>Previous Post</span>
-                                <!-- Title of previous post -->
-                                {{ page.previous.title }} 
-                        </a>
+                    <a href="{{ page.previous.url }}" rel="prev">
+                        <span>Previous Post</span>
+                        <!-- Title of previous post -->
+                        {{ page.previous.title }}
+                    </a>
                     {% endif %}
-                      
-                    
+
+
                 </div>
                 <div class="entry__next">
                     <!-- If there exists a next post (based on date) add its title and url to post -->
-                        {% if page.next.url %}
-                        <a href="{{ page.next.url }}" rel="next">
-                                <span>Next Post</span>
-                                <!-- Title of next post -->
-                                {{ page.next.title }} 
-                        </a>
+                    {% if page.next.url %}
+                    <a href="{{ page.next.url }}" rel="next">
+                        <span>Next Post</span>
+                        <!-- Title of next post -->
+                        {{ page.next.title }}
+                    </a>
                     {% endif %}
                 </div>
             </div>
@@ -85,7 +85,7 @@ title : {{ page.title }}
             <h3 class="h2">Related Articles</h3>
 
             <ul class="related">
-                
+
                 <!-- Show three posts sharing the same category as first category of current post -->
                 {% if page.categories[0] == "CALC" %}
                 {% for post in site.categories.CALC limit:3%}
@@ -138,7 +138,7 @@ title : {{ page.title }}
                 {% endif %}
                 {% endfor %}
                 {% endif %}
-              
+
                 {% if page.categories[0] == "CN" %}
                 {% for post in site.categories.CN limit:3%}
                 {% if page.url != post.url %}
@@ -151,7 +151,7 @@ title : {{ page.title }}
                 {% endif %}
                 {% endfor %}
                 {% endif %}
-               
+
                 {% if page.categories[0] == "CPROG" %}
                 {% for post in site.categories.CPROG limit:3%}
                 {% if page.url != post.url %}

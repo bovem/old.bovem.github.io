@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Recurrance Relations
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 A recurrance [Relation]({% post_url 2021-06-05-relation %}) expresses a term $\{ a_n \}$ in terms of one or more its previous terms $\{ a_0, a_1, a_2, \dots a_{(n-1)} \}$ for all integer $n$. Such that $n \ge n_0$. Here $n_0$ is a non-negative integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -372,5 +403,6 @@ A recurrance [Relation]({% post_url 2021-06-05-relation %}) expresses a term $\{
 - [Iteration]({% post_url 2021-06-17-iteration %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

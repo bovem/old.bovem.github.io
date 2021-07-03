@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Universal Modus Tollens
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: It is a combination of Modus Tollens and Universal Instantiation. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 It is a combination of [Modus Tollens]({% post_url 2021-06-04-modus-tollens %}) and [Universal Instantiation]({% post_url 2021-06-04-universal-instantiation %}).
@@ -364,7 +364,69 @@ If $\forall x(P(x) \to Q(x))$ is true
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 and if $Q(a)$ is false for a particular element $a$ in domain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1073,6 +1135,37 @@ Then $P(a)$ must also be false for that same element.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $\forall x(P(x) \to Q(x))$
 
 
@@ -1427,7 +1520,69 @@ $\forall x(P(x) \to Q(x))$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $\neg Q(a)\ for\ a\ particular\ element\ in\ domain$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2136,6 +2291,38 @@ $\therefore \neg P(a)$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

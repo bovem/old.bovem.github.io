@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: The Birthday Problem
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: How many people are needed in one room such that probability of at least two of them having birthday at same day is greater than 1/2? 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 How many people are needed in one room such that probability of at least two of them having birthday at same day is greater than 1/2?
@@ -371,7 +371,69 @@ Let $p(n)$ be the probability that every one in room has different birthdays.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $1 - p(n)$ is the probability that at least two person have same birthday.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1081,6 +1143,37 @@ According to assumption 2 as people enter in room the probability of having diff
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 So, we have to find the value of $n$ such that $$1 - p(n) = 1 - {365 \over 366} {364 \over 366} {363 \over 366} \dots {(367-n) \over 366} \ge 0.5$$ Therefore $n=23$ for which $1 - p(n) \approx 0.506$.
 
 
@@ -1436,6 +1529,38 @@ So, we have to find the value of $n$ such that $$1 - p(n) = 1 - {365 \over 366} 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

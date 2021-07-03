@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Fermat's Last Theorem
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: The equation $x^n + y^n = z^n$ has no solution when $xyz \neq 0$ when $n >2$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 The equation $x^n + y^n = z^n$ has no solution when $xyz \neq 0$ when $n >2$.
@@ -364,8 +364,40 @@ The equation $x^n + y^n = z^n$ has no solution when $xyz \neq 0$ when $n >2$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This problem was solved and the solution of this equation are called *Pythagorean Triples*.
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

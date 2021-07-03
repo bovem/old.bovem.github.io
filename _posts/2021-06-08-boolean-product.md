@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Boolean Product
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let $A=[a_{ij}]$ and $B=[b_{ij}]$ be two matrices of order $m \times k$ and $k \times n$ respectively. Then boolean product $A \odot B$ will be $A \odot B =[c_{ij}]$ 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let $A=[a_{ij}]$ and $B=[b_{ij}]$ be two matrices of order $m \times k$ and $k \times n$ respectively. Then boolean product $A \odot B$ will be $A \odot B =[c_{ij}]$
@@ -363,7 +363,69 @@ Let $A=[a_{ij}]$ and $B=[b_{ij}]$ be two matrices of order $m \times k$ and $k \
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$c_{ij} = (a_{i1} \wedge b_{1j}) \vee (a_{i2} \wedge b_{2j}) \vee \dots (a_{k1} \wedge b_{kj})$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1075,6 +1137,38 @@ Matrix $A$ raise to boolean power $r$ is denoted as $A^{[r]}$. Is boolean produc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

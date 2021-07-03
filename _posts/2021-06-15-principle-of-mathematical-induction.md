@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Principle of Mathematical Induction
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 To [Proofs]({% post_url 2021-06-04-proofs %}) that [Propositional Function]({% post_url 2021-06-03-propositional-function %}) $P(n)$ is true for all positive integers $n$ we have to do two steps:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -717,6 +748,37 @@ To [Proofs]({% post_url 2021-06-04-proofs %}) that [Propositional Function]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Induction Step**: Show that $P(k) \to P(k+1)$ is true for all positive integers $k$.
 
 
@@ -1071,7 +1133,69 @@ To [Proofs]({% post_url 2021-06-04-proofs %}) that [Propositional Function]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Assumption that $P(k)$ is true is called *inductive hypothesis*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1781,6 +1905,37 @@ $$(P(1) \wedge \forall k(P(k) \to P(k+1))) \to \forall nP(n)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here, [Domain]({% post_url 2021-06-07-domain %}) is set of positive integers.
 
 ### Subtopics
@@ -1788,5 +1943,6 @@ Here, [Domain]({% post_url 2021-06-07-domain %}) is set of positive integers.
 - [Well-Ordering Property]({% post_url 2021-06-15-well-ordering-property %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

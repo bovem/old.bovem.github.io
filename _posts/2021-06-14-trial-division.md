@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Trial Division
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let $n$ be a positive integer such that $n = ab$ where $1<a<n$ and $b>1$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let $n$ be a positive integer such that $n = ab$ where $1<a<n$ and $b>1$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,6 +750,37 @@ If $a > \sqrt{n}$ and $b > \sqrt{n}$ then $a.b > \sqrt{n} \sqrt{n} = n$ which is
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Trail Division is a <b>Brute Force Algorithm</b> in which we divide a number $n$ by primes not exceeding $\sqrt{n}$ if it is not divisible by any of them then it is a prime number.
 
 
@@ -1074,6 +1136,38 @@ Trail Division is a <b>Brute Force Algorithm</b> in which we divide a number $n$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

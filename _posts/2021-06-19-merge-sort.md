@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Merge Sort
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: This algorithm is used to arrange an unordered list into increasing or decreasing order. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 This algorithm is used to arrange an unordered list into increasing or decreasing order.
@@ -39,6 +39,37 @@ merge(arr1, arr2):
 
 ### Lemma
 Two sorted lists with $m$ and $n$ elements could be merged into a single list in not more than $m+n-1$ comparisons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -751,6 +782,38 @@ Number of comparisons needed to merge sort a list with $n$ elements is $O(n\ log
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

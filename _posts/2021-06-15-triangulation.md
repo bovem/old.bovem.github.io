@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Triangulation
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Operation of dividing a [Polygon]({% post_url 2021-06-15-polygon %}) into triangles by adding non-intersecting [Diagonal]({% post_url 2021-06-15-diagonal %}).
@@ -367,9 +367,41 @@ A [Simple Polygon]({% post_url 2021-06-15-simple-polygon %}) with n [Sides]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Lemma
 Every [Simple Polygon]({% post_url 2021-06-15-simple-polygon %}) with at-least 3 sides has an interior [Diagonal]({% post_url 2021-06-15-diagonal %}).
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

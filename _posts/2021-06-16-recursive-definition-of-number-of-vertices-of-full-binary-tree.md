@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Recursive Definition of Number of Vertices of Full Binary Tree
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 **Basis Step**: Number of vertices in  [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) $T$ containing a single vertex $r$ is $n(T) = 1$
@@ -363,7 +363,69 @@ imagealt:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Recursive Step**: If $T_1$ and $T_2$ are [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) then $T = T_1 \cdot T_2$ is also a [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) with number of vertices $n(T) = 1 + h(T_1) + h(T_2)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1074,6 +1136,38 @@ If $T$ is a [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) then 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

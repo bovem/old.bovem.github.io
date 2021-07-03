@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Least Common Multiple (LCM)
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: LCM of two positive integers $a$ and $b$ is smallest integers $k$ such that $a | k$ and $b | k$. It is denoted as $lcm(a, b)$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 *LCM* of two positive integers $a$ and $b$ is smallest integers $k$ such that $a | k$ and $b | k$. It is denoted as $lcm(a, b)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -721,7 +752,69 @@ Given $a = p_1^{a_1}p_2^{a_2} \dots p_n^{a_n}$ and $b = p_1^{b_1}p_2^{b_2} \dots
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $lcm(a, b) = p_1^{max(a_1, b_1)}p_2^{max(a_2, b_2)} \dots p_n^{max(a_n, b_n)}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1431,6 +1524,38 @@ If $a$ and $b$ are positive integers then $a \cdot b = lcm(a, b) \cdot gcd(a, b)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

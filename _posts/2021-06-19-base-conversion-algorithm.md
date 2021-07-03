@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Base Conversion Algorithm
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Let number to expand be $n$ and base be $b$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Let number to expand be $n$ and base be $b$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -718,7 +749,69 @@ First we divide $n$ by $b$ to get *quotient* and *remainder*.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $n = bq_0 + a_0$ such that $0 \le a_0 <b$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1427,6 +1520,37 @@ The $a_0$ obtained is rightmost term in expansion.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Next step is to divide $q_0$ by $b$.
 
 
@@ -1781,7 +1905,69 @@ Next step is to divide $q_0$ by $b$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $q_0 = bq_1 + a_1$ such that $0 \le a_1 <b$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2490,10 +2676,42 @@ $a_1$ is second last term in expansion.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We continue this process until quotient is equal to 0.
 
 
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

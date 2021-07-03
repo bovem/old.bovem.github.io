@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Composition Rule
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Suppose a program $S$ is divided in into two consecutive segments $S_1$ and $S_2$ such that $p\{S_1\}q$ and $q\{S_2\}r$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Suppose a program $S$ is divided in into two consecutive segments $S_1$ and $S_2$ such that $p\{S_1\}q$ and $q\{S_2\}r$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,7 +750,69 @@ Then to show $p\{S\}r$ is correct we have to show $p\{S_1\}q$ and $q\{S_2\}r$ ar
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1434,6 +1527,38 @@ $$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

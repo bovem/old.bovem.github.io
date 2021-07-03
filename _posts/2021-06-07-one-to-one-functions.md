@@ -2,16 +2,47 @@
 layout: article
 mathjax: true
 title: One-to-One Functions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Functions which do not assign same value to two different elements in Domain. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Functions which do not assign same value to two different elements in [Domain]({% post_url 2021-06-07-domain %}).
 
 A function is said to be one-to-one or *injunction* if and only if $f(a)=f(b)$ implies $a=b$. Function is said to be *injective*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -721,10 +752,42 @@ $$\forall a \forall b(f(a)=f(b) \rightarrow a=b)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="../assets/images/posts/Pasted image 20210607122351.png"/>
 
 [Strictly Decreasing Functions]({% post_url 2021-06-07-strictly-decreasing-functions %}) and [Strictly Increasing Functions]({% post_url 2021-06-07-strictly-increasing-functions %}) are always one-to-one.
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Bézout Theorem
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Named after French Mathematician Étienne Bézout. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Named after French Mathematician <b>Étienne Bézout</b>.
@@ -364,7 +364,69 @@ Named after French Mathematician <b>Étienne Bézout</b>.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$sa + tb$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1073,6 +1135,37 @@ where $s$ and $t$ are integers. This form is a <b>Linear Combination</b>.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $s$ and $t$ will be called *Bézout coefficients* of $a$ and $b$.
 
 
@@ -1427,7 +1520,69 @@ $s$ and $t$ will be called *Bézout coefficients* of $a$ and $b$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Equation $gcd(a, b) = sa + bt$ is called *Bézout Identity*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2138,8 +2293,70 @@ If $a$, $b$ and $c$ are positive integers such that $gcd(a, b) = 1$ and $a | bc$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Lemma 2
 If $p$ is a [Primes]({% post_url 2021-06-14-primes %}) and $p | a_1, a_2, \dots a_n$ then $p | a_i$ for some integer $i$ where $a_i$ is an integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2849,6 +3066,37 @@ Let $m$ be a positive integer and let $a$, $b$ and $c$ be integers. Such that $a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If $ac \equiv bc\ (mod\ m)$ and $gcd(c, m) = 1$ then $a \equiv b\ (mod\ m)$.
 
 
@@ -3205,6 +3453,38 @@ If $ac \equiv bc\ (mod\ m)$ and $gcd(c, m) = 1$ then $a \equiv b\ (mod\ m)$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

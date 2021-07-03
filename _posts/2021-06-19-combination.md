@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Combination
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Combination of Sets of distinct objects is an unordered arrangement of those objects. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Combination of [Sets]({% post_url 2021-06-08-sets %}) of distinct objects is an unordered arrangement of those objects.
@@ -365,7 +365,69 @@ Unordered arrangement of $r$ elements of a set is called $r$-combination.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Number of $r$-combination is denoted as $C(n, r)$ or $\binom n r$ and it is called <b>Binomial Coefficient</b>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1075,6 +1137,37 @@ If $n$ and $r$ are non-negative integers such that $0 \le r \le n$ then $$C(n, r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $r$-permutation could be obtained from $r$-combination by ordering elements in each combination.
 
 
@@ -1429,7 +1522,69 @@ $r$-permutation could be obtained from $r$-combination by ordering elements in e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$P(n, r) = C(n, r)P(r, r)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2140,6 +2295,37 @@ If $n$ and $r$ are non negative integers such that $r \le n$ then $C(n, r) = C(n
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Combinatorial Proof]({% post_url 2021-06-19-combinatorial-proof %})
 - [Combinations with Repetition]({% post_url 2021-06-19-combinations-with-repetition %})
@@ -2148,5 +2334,6 @@ If $n$ and $r$ are non negative integers such that $r \le n$ then $C(n, r) = C(n
 - [Generating r-combinations]({% post_url 2021-06-19-generating-r-combinations %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

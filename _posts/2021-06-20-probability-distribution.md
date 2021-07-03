@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Probability Distribution
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: When probability is expressed as a function $p()$ over outcomes $x_1, x_2, \dots x_n$ such that 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 When probability is expressed as a function $p()$ over outcomes $x_1, x_2, \dots x_n$ such that
@@ -363,7 +363,69 @@ When probability is expressed as a function $p()$ over outcomes $x_1, x_2, \dots
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$0 \le p(x_i) \le 1$$ for $i=1, 2, \dots n$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1073,6 +1135,37 @@ $$\sum_{i=1}^n p(x_i) = 1$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Uniform Distribution]({% post_url 2021-06-20-uniform-distribution %})
 - [Probability of an Event]({% post_url 2021-06-20-probability-of-an-event %})
@@ -1080,5 +1173,6 @@ $$\sum_{i=1}^n p(x_i) = 1$$
 - [Probability of disjoint events]({% post_url 2021-06-20-probability-of-disjoint-events %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

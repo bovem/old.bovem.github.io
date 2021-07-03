@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Proper Subset
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: We write set $A$ as proper subset of set $B$ (notation $A \subset B$). If $A$ is a subset of $B$ and there is an element of $B$ not present in $A$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 We write set $A$ as proper subset of set $B$ (notation $A \subset B$). If $A$ is a subset of $B$ and there is an element of $B$ not present in $A$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -719,6 +750,38 @@ $$\forall x(x \in A \to x \in B) \wedge \exists x(x \in B \wedge x \notin A)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

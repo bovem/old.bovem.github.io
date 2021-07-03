@@ -2,14 +2,45 @@
 layout: article
 mathjax: true
 title: Contrapositive
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: For proposition $p \to q$, contrapositive will be $\neg q \to \neg p$. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 For proposition $p \to q$, *contrapositive* will be $\neg q \to \neg p$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -368,5 +399,6 @@ A contrapositive statement has same [Truth Value]({% post_url 2021-06-03-truth-v
 So contrapositive is [Equivalent]({% post_url 2021-06-03-equivalent %}) to original [Proposition]({% post_url 2021-06-03-proposition %}).
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

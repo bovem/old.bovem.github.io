@@ -2,16 +2,47 @@
 layout: article
 mathjax: true
 title: Universal Quantifier
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Universal Quantification of Propositional Function P(x) over any particular domain asserts that P(x) is true over all values of x in that domain. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Universal Quantification of [Propositional Function]({% post_url 2021-06-03-propositional-function %}) *P(x)* over any particular domain asserts that *P(x)* is true over all values of *x* in that domain.
 
 It is denoted by $\forall xP(x)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -721,7 +752,69 @@ If [Domain of Discourse]({% post_url 2021-06-03-domain-of-discourse %}) is an em
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It is similar to [Conjunction]({% post_url 2021-06-03-conjunction %}) of P(x) over domain [$x_1, x_n$].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1430,9 +1523,41 @@ $$P(x_1) \wedge P(x_2) \wedge \dots P(x_n)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Counterexample]({% post_url 2021-06-03-counterexample %})
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

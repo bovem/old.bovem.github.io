@@ -2,16 +2,47 @@
 layout: article
 mathjax: true
 title: Fibonacci Sequence
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Named after Italian Mathematician Fibonacci. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Named after Italian Mathematician <b>Fibonacci</b>.
 
 It is a [Recurrance Relations]({% post_url 2021-06-07-recurrance-relations %}) defined by [Initial Condition]({% post_url 2021-06-07-initial-condition %}) ($f_0 = 0$ and $f_1 = 1$).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -721,6 +752,38 @@ $$f_n = f_{(n-1)} + f_{(n-2)}$$ for $n = 2, 3, \dots$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

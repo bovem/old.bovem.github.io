@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Graphs of Functions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc:   
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 Graph of function $f: A \to B$ is set of ordered pairs $\{ (a, b) | a \in A\ and\ f(a)=b \}$.
@@ -364,6 +364,38 @@ Graph of function $f: A \to B$ is set of ordered pairs $\{ (a, b) | a \in A\ and
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

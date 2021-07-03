@@ -2,16 +2,47 @@
 layout: article
 mathjax: true
 title: Summations
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: Summation notation is used to represent sum of Sequences. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 *Summation notation* is used to represent sum of [Sequences]({% post_url 2021-06-07-sequences %}).
 
 Sum of terms $a_1, a_2, \dots a_n$ would be represented as $\sum_{i=1}^n a_i$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -720,6 +751,38 @@ Here variable $i$ will be called *index of summation*.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.

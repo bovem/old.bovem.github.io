@@ -2,11 +2,11 @@
 layout: article
 mathjax: true
 title: Onto Functions
-image: "/assets/images/img_test.jpg"
+image: "/assets/images/covers/tim-johnson-Vwf8q3RzBRE-unsplash.jpg"
 categories:
 - DM
 desc: A function is called onto or surjection if for every element $b \in B$ there is an element $a \in A$ with $f(a)=b$. Function is called sujective. 
-imagealt: 
+imagealt: Cover Image for article
 ---
 
 A function is called *onto* or *surjection* if for every element $b \in B$ there is an element $a \in A$ with $f(a)=b$. Function is called *sujective*.
@@ -364,8 +364,40 @@ A function is called *onto* or *surjection* if for every element $b \in B$ there
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="../assets/images/posts/Pasted image 20210607123309.png"/>
 
 This blog was published directly from my notes.
-To check the source of my notes visit [Sources](sources.html).
-To see all of my notes download/clone this [repository](https://github.com/bovem/CS).
+To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
+
+To read my notes, download this <a href="https://github.com/bovem/CS" target="blank">repository</a>.
