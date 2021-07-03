@@ -1,8 +1,18 @@
-Artificially Intelligent
+BOVEM
 =================
 
-This is a Jekyll blog hosted on [GitHub pages](https://aipublication.github.io). Articles on this blog are based on 
-* Mathematics 
-* Computer Science 
-* Machine Learning
-* Statistics
+This is a Jekyll blog and portfolio website hosted on [GitHub pages](https://bovem.netlify.app). 
+  
+Categories of articles on this blog:
+* Discrete Mathematics
+* Linear Algebra
+* Calculus
+* Algorithms
+* Operating Systems
+* Database Management Systems
+* Digital Logic and Design
+* Computer Organization
+* Computer Networking
+* Compiler Design
+* Theory of Computation
+* C Programming
