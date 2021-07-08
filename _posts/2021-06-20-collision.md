@@ -9,7 +9,7 @@ desc: When two different Keys have same storage location provided by Hashing Fun
 imagealt: Cover Image for article
 ---
 
-When two different [Keys]({% post_url 2021-06-20-keys %}) have same storage location provided by [Hashing Function]({% post_url 2021-06-20-hashing-function %}).
+When two different [Keys]({% post_url 2021-06-20-keys %}) have same storage location provided by [Hashing Function]({% post_url 2021-07-08-hashing-function %}).
 
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.

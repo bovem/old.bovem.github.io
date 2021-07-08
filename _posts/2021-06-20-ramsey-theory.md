@@ -397,7 +397,47 @@ By symmetry it is shown that [Ramsey Number]({% post_url 2021-06-20-ramsey-numbe
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Also, $R(2, n)=n\ for\ every\ postive\ integer\ n \ge 2$ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

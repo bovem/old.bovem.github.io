@@ -394,6 +394,26 @@ To [Proofs]({% post_url 2021-06-04-proofs %}) that [Propositional Function]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Basis Step**: Verify that $P(1)$ is true.
 
 
@@ -779,7 +799,47 @@ To [Proofs]({% post_url 2021-06-04-proofs %}) that [Propositional Function]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Induction Step**: Show that $P(k) \to P(k+1)$ is true for all positive integers $k$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1550,8 +1610,48 @@ Assumption that $P(k)$ is true is called *inductive hypothesis*.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This complete technique could be stated as:
 $$(P(1) \wedge \forall k(P(k) \to P(k+1))) \to \forall nP(n)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

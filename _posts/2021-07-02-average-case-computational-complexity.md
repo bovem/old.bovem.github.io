@@ -395,7 +395,47 @@ Let
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * $X$ be a random variable that assigns $a_j$ number of operations used by algorithm on $a_j$ inputs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1166,8 +1206,48 @@ Let
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then expected value or average-case computational complexity of algorithm is calculated as
 $$E(X) = \sum_{j=1}^n p(a_j)X(a_j)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

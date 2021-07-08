@@ -394,6 +394,26 @@ If a procedure could be broken down into two tasks like $t_1$ and $t_2$ and:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * there are $n_1$ ways to do $t_1$
 
 
@@ -779,7 +799,47 @@ If a procedure could be broken down into two tasks like $t_1$ and $t_2$ and:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * and $n_2$ ways to do $t_2$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1550,6 +1610,26 @@ Then total number of ways to do the procedure is $n_1 n_2$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Cardinality]({% post_url 2021-06-08-cardinality %}) of [Cartesian Product]({% post_url 2021-06-05-cartesian-product %}) of [Sets]({% post_url 2021-06-08-sets %}) $A_1, A_2, \dots A_n$ is equal to product of cardinality of each set combined, given all sets are disjoint and finite.
 
 
@@ -1935,7 +2015,47 @@ Then total number of ways to do the procedure is $n_1 n_2$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$|A_1 \times A_2 \times \dots A_n| = |A_1| \cdot |A_2| \cdot \dots \cdot |A_n|$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

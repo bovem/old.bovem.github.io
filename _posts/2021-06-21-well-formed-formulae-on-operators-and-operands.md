@@ -395,6 +395,26 @@ Similar to [Well-Formed Formulae in Propositional Logic]({% post_url 2021-06-16-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Basis Step**:  $x$ is a formulae if $x$ is a numeral or a variable.
 
 
@@ -780,7 +800,47 @@ Similar to [Well-Formed Formulae in Propositional Logic]({% post_url 2021-06-16-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Recursive Step**: If $F$ and $G$ are well-formed formulae then $(F + G)$, $(F - G)$, $(F*G)$, $(F/G)$ and $(F \uparrow G)$ are also well-formed formulae.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -395,7 +395,47 @@ $$((p \vee q) \wedge (\neg p \vee r)) \to (q \vee r)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Final [Disjunction]({% post_url 2021-06-03-disjunction %}) $(q \vee r)$ is called *Resolvent*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -395,6 +395,26 @@ If a task could be done in either $n_1$ or $n_2$ ways and $n_1 \cap n_2 \neq \va
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is similar to [Principle of Inclusion-Exclusion]({% post_url 2021-06-05-principle-of-inclusion-exclusion %}).
 
 This blog was published directly from my notes.

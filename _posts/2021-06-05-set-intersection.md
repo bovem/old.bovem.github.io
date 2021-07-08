@@ -394,6 +394,26 @@ Intersection of two [Sets]({% post_url 2021-06-08-sets %}) $A$ and $B$ is the se
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It is denoted as $A \cap B$.
 
 
@@ -780,7 +800,47 @@ It is denoted as $A \cap B$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$A \cap B = \{ x | (x \in A) \wedge (x \in B)\}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -396,7 +396,47 @@ Unordered arrangement of $r$ elements of a set is called $r$-combination.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Number of $r$-combination is denoted as $C(n, r)$ or $\binom n r$ and it is called <b>Binomial Coefficient</b>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1168,7 +1208,47 @@ If $n$ and $r$ are non-negative integers such that $0 \le r \le n$ then $$C(n, r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $r$-permutation could be obtained from $r$-combination by ordering elements in each combination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1939,8 +2019,48 @@ $$P(n, r) = C(n, r)P(r, r)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Corollary
 If $n$ and $r$ are non negative integers such that $r \le n$ then $C(n, r) = C(n, n-r)$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

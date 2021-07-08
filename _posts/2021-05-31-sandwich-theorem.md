@@ -394,6 +394,26 @@ Given $f(x) \leq g(x) \leq h(x)$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="../assets/images/posts/dsarw.png"/>
 
 then if
@@ -782,8 +802,48 @@ $$\lim_{x \rightarrow c} f(x) = L$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 and
 $$\lim_{x \rightarrow c} h(x) = L$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1555,6 +1615,26 @@ $$\lim_{x \rightarrow c} g(x) = L$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Application: Finding value of $sin(\theta) \over \theta$ as $\theta$ approaches 0
 
 
@@ -1940,7 +2020,47 @@ Application: Finding value of $sin(\theta) \over \theta$ as $\theta$ approaches 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$Area(Red\ Triangle) \leq Area(Wedge) \leq Area(Blue\ Triangle)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

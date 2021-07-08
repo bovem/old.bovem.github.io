@@ -9,7 +9,7 @@ desc: Expected value is probability weighted average of values of Random Variabl
 imagealt: Cover Image for article
 ---
 
-Expected value is probability weighted average of values of [Random Variable]({% post_url 2021-06-20-random-variable %}).
+Expected value is probability weighted average of values of [Random Variable]({% post_url 2021-07-08-random-variable %}).
 
 *Expected value* or *expectation* or *mean* of a random variable $X$ over sample space $S$ is
 
@@ -396,7 +396,47 @@ Expected value is probability weighted average of values of [Random Variable]({%
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$E(X)= \sum_{s \in S}p(s)X(s)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1169,7 +1209,47 @@ Let $X$ be a random variable and $p(X=r)$ be the probability that random variabl
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$p(X=r) = \sum_{s \in S, X(s)=r} p(s)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1941,7 +2021,47 @@ $$E(X) = \sum_{r \in X(s)} p(X=r)r$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Expected number of successes when $n$ [Mutually Independent Events]({% post_url 2021-06-20-mutually-independent-events %}) [Bernoulli Trials]({% post_url 2021-06-20-bernoulli-trials %}) are performed is $np$ where $p$ is the probability of success.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

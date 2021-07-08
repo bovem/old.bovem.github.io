@@ -398,6 +398,26 @@ A [Simple Polygon]({% post_url 2021-06-15-simple-polygon %}) with n [Sides]({% p
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Lemma
 Every [Simple Polygon]({% post_url 2021-06-15-simple-polygon %}) with at-least 3 sides has an interior [Diagonal]({% post_url 2021-06-15-diagonal %}).
 

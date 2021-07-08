@@ -394,7 +394,47 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Recursive Step**: If $T_1$ and $T_2$ are full binary trees with dijointed roots then there exist a full binary tree with root $r$ and left subtree as $T_1$ and right subtree as $T_2$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

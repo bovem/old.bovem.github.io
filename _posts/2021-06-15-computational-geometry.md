@@ -9,7 +9,7 @@ desc: Part of Discrete Mathematics that studies computational problems involving
 imagealt: Cover Image for article
 ---
 
-Part of [Discrete Mathematics]({% post_url 2021-06-20-discrete-mathematics %}) that studies computational problems involving geometric objects.
+Part of [Discrete Mathematics]({% post_url 2021-07-08-discrete-mathematics %}) that studies computational problems involving geometric objects.
 
 ### Subtopics
 - [Polygon]({% post_url 2021-06-15-polygon %})

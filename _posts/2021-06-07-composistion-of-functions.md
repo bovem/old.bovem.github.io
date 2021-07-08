@@ -394,6 +394,26 @@ Let $g: A \rightarrow B$ and $f: B \rightarrow C$. Then composition (denoted as 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$(f \circ g)(a)= f(g(a))$$
 
 
@@ -780,7 +800,47 @@ $$(f \circ g)(a)= f(g(a))$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Range]({% post_url 2021-06-07-range %}) of function $g$ has to be a [Subsets]({% post_url 2021-06-05-subsets %}) of [Domain]({% post_url 2021-06-07-domain %}) of function $f$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

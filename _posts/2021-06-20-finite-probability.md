@@ -395,6 +395,26 @@ If $S$ is a finite nonempty [Sample Space]({% post_url 2021-06-20-sample-space %
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 According to Laplace's Definition probability ranges from 0 to 1.
 
 So $0 \le |E| \le |S|$ because $|S|=1$
@@ -782,7 +802,47 @@ So $0 \le |E| \le |S|$ because $|S|=1$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 and $0 \le p(E) = |E|/|S| \le 1$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

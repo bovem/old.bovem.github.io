@@ -424,8 +424,48 @@ Two sorted lists with $m$ and $n$ elements could be merged into a single list in
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Theorem
 Number of comparisons needed to merge sort a list with $n$ elements is $O(n\ log(n))$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -397,6 +397,26 @@ It is denoted as $\exists xP(x)$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Domain must be specified always.
 
 To falsify an existential quantification *P(x)* has to be false on all values of domain.
@@ -788,7 +808,47 @@ It is similar to [Disjunction]({% post_url 2021-06-03-disjunction %}) of P(x) ov
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$P(x_1) \vee P(x_2) \vee \dots P(x_n)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

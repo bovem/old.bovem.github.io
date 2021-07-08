@@ -397,6 +397,26 @@ $$|A \cup B| = |A| + |B| - |A \cap B|$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Generalized form of this is called *Principle of Inclusion-Exclusion*.
 
 This blog was published directly from my notes.

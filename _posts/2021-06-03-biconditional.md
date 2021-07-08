@@ -395,9 +395,49 @@ For two [Proposition]({% post_url 2021-06-03-proposition %}) *p* and *q*, [Compo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It is pronounced as *p if and only if q*.
 
 It could also be written as $(p \to q) \wedge (q \to p)$. Where $(q \to p)$ is [Inverse]({% post_url 2021-06-03-inverse %}) of original [Proposition]({% post_url 2021-06-03-proposition %}).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -395,6 +395,26 @@ Let $n$ be a positive integer such that $n = ab$ where $1<a<n$ and $b>1$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If $a > \sqrt{n}$ and $b > \sqrt{n}$ then $a.b > \sqrt{n} \sqrt{n} = n$ which is a [Contradiction]({% post_url 2021-06-03-contradiction %}). So, $a < \sqrt{n}$ and $b < \sqrt{n}$.
 
 
@@ -781,7 +801,47 @@ If $a > \sqrt{n}$ and $b > \sqrt{n}$ then $a.b > \sqrt{n} \sqrt{n} = n$ which is
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Trail Division is a <b>Brute Force Algorithm</b> in which we divide a number $n$ by primes not exceeding $\sqrt{n}$ if it is not divisible by any of them then it is a prime number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

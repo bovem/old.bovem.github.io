@@ -9,7 +9,27 @@ desc: We start with Initial Condition and reach $a_n$.
 imagealt: Cover Image for article
 ---
 
-We start with [Initial Condition]({% post_url 2021-06-07-initial-condition %}) and reach $a_n$.
+We start with [Initial Condition]({% post_url 2021-07-08-initial-condition %}) and reach $a_n$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

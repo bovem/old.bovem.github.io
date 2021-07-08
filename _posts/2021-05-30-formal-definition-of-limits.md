@@ -396,7 +396,47 @@ You can get $f(x)$ as close to $L$ "as you want" by getting $x$ sufficiently clo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Example: You can get in the range of $f(x)$ in $(L-0.5, L+0.5)$ if $x$ is within range $(c-0.25, c+0.25)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1169,7 +1209,47 @@ Given $\epsilon$ > 0
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We can find $\delta$ > 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1939,6 +2019,26 @@ Such that if $|x - c|$ < $\delta$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $|y - L|$ < $\epsilon$
 
 
@@ -2324,7 +2424,47 @@ Then $|y - L|$ < $\epsilon$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We can call $\delta$ as a function of $\epsilon$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

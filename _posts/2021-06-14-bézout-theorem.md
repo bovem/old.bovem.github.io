@@ -395,7 +395,47 @@ Named after French Mathematician <b>Étienne Bézout</b>.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$sa + tb$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1166,6 +1206,26 @@ where $s$ and $t$ are integers. This form is a <b>Linear Combination</b>.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $s$ and $t$ will be called *Bézout coefficients* of $a$ and $b$.
 
 
@@ -1551,7 +1611,47 @@ $s$ and $t$ will be called *Bézout coefficients* of $a$ and $b$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Equation $gcd(a, b) = sa + bt$ is called *Bézout Identity*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2324,8 +2424,48 @@ If $a$, $b$ and $c$ are positive integers such that $gcd(a, b) = 1$ and $a | bc$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Lemma 2
 If $p$ is a [Primes]({% post_url 2021-06-14-primes %}) and $p | a_1, a_2, \dots a_n$ then $p | a_i$ for some integer $i$ where $a_i$ is an integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3097,7 +3237,47 @@ Let $m$ be a positive integer and let $a$, $b$ and $c$ be integers. Such that $a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If $ac \equiv bc\ (mod\ m)$ and $gcd(c, m) = 1$ then $a \equiv b\ (mod\ m)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

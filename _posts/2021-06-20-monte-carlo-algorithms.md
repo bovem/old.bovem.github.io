@@ -400,7 +400,47 @@ Let $p$ be the probability that a test responds as "true" when correct answer is
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $1-p$ is the probability that a test responds as "unknown" when correct answer is "true".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1170,7 +1210,47 @@ So algorithm will answer "false" only when all $n$ test respond as "unknown" i.e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If $p \neq 0$ the probability of "false" response approaches 0 as $n$ increases and opposite probability approaches 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

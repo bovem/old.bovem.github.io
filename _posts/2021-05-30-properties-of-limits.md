@@ -396,8 +396,48 @@ $$\lim_{x \rightarrow c} (f(x) + g(x)) = \lim_{x \rightarrow c} f(x) + \lim_{x \
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtraction of limits
 $$\lim_{x \rightarrow c} (f(x) - g(x)) = \lim_{x \rightarrow c} f(x) - \lim_{x \rightarrow c} g(x)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1170,6 +1210,26 @@ $$\lim_{x \rightarrow c} (f(x) \cdot g(x)) = (\lim_{x \rightarrow c} f(x)) (\lim
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Multiplication of limit with constant $k$
 
 
@@ -1555,7 +1615,47 @@ $$\lim_{x \rightarrow c} (f(x) \cdot g(x)) = (\lim_{x \rightarrow c} f(x)) (\lim
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\lim_{x \rightarrow c} kf(x) = k \lim_{x \rightarrow c} f(x)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2328,8 +2428,48 @@ $${\lim_{x \rightarrow c} {f(x) \over g(x)}} = {\lim_{x \rightarrow c} f(x) \ove
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Limits raise to power
 $$\lim_{x \rightarrow c} {(f(x))}^r = {(\lim_{x \rightarrow c} f(x))}^r$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

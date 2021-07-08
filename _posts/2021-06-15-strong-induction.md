@@ -395,7 +395,47 @@ The basis step of *Strong Induction* is same as [Principle of Mathematical Induc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Induction Step: $[P(1) \wedge P(2) \wedge \dots P(k)] \to P(k+1)$ where $P(n)$ is a [Propositional Function]({% post_url 2021-06-03-propositional-function %}).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

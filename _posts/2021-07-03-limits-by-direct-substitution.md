@@ -395,7 +395,47 @@ We can find limits by directly substituting value of $x$ in $f(x)$ iff the funct
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $f(x)$ is continuous at $x=a$ iff $\lim_{x \rightarrow a}f(x) = f(a)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1169,8 +1209,48 @@ $$f(x) = {|x-3| \over x-3}$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 could be re-written as
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1560,6 +1640,26 @@ f(x) = \begin{cases}
       -1 & x < 0
  \end{cases}
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2335,7 +2435,47 @@ $sin(x)$ and $cos(x)$ are continuous everywhere so
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\lim_{x \rightarrow a} sin(x) = sin(a)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3106,7 +3246,47 @@ $$\lim_{x \rightarrow a} cos(x) = cos(a)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Limits for any input into $sin(x)$ or $cos(x)$ could be obtained by direct substitution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

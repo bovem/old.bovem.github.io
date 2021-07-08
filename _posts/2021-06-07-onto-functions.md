@@ -395,6 +395,26 @@ A function is called *onto* or *surjection* if for every element $b \in B$ there
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="../assets/images/posts/Pasted image 20210607123309.png"/>
 
 This blog was published directly from my notes.

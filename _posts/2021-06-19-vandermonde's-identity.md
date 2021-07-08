@@ -396,7 +396,47 @@ Let $m$, $n$ and $r$ be non negative integers with $r<m$ and $r<n$ then
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\binom {m+n} r = \sum_{k=0}^r \binom m {r-k} \binom n k$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1167,6 +1207,26 @@ Number of ways $r$ elements could be picked from a [Set Union]({% post_url 2021-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * number of ways $k$ elements can be picked from $n$ 
 
 
@@ -1552,7 +1612,47 @@ Number of ways $r$ elements could be picked from a [Set Union]({% post_url 2021-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * number of ways $r-k$ elements can be picked from $m$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2324,7 +2424,47 @@ If $n$ is a non-negative integer then
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\binom {2n} n = \sum_{k=0}^n {\binom n k}^2$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3096,7 +3236,47 @@ If $n$ and $r$ are non-negative integers and $r \le n$ then
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\binom {n+1} {r+1} = \sum_{j=r}^n \binom j r$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -397,6 +397,26 @@ A logic or Digital Circuit receives input bits ($p_1, p_2, \dots p_n$) as 0 (off
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Gates are used as [Bitwise Operators]({% post_url 2021-06-03-bitwise-operators %}):
 - [NOT Gate]({% post_url 2021-06-03-not-gate %})
 - [OR Gate]({% post_url 2021-06-03-or-gate %})

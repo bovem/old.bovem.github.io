@@ -394,7 +394,47 @@ A square matrix is *symmetric* if it is equal to [Transpose of Matrices]({% post
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $A = [a_{ij}]$ is symmetric if $a_{ij} = a_{ji}$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

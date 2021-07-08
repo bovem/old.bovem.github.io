@@ -395,6 +395,26 @@ For proposition $p \to q$, *contrapositive* will be $\neg q \to \neg p$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A contrapositive statement has same [Truth Value]({% post_url 2021-06-03-truth-value %}) as the original [Proposition]({% post_url 2021-06-03-proposition %}).
 So contrapositive is [Equivalent]({% post_url 2021-06-03-equivalent %}) to original [Proposition]({% post_url 2021-06-03-proposition %}).
 

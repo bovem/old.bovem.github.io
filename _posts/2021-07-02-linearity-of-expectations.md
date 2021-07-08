@@ -9,7 +9,27 @@ desc:
 imagealt: Cover Image for article
 ---
 
-If $X_i$ for $i=1, 2, \dots n$ are [Random Variable]({% post_url 2021-06-20-random-variable %}) over sample space $S$ and $a$ and $b$ are real numbers then:
+If $X_i$ for $i=1, 2, \dots n$ are [Random Variable]({% post_url 2021-07-08-random-variable %}) over sample space $S$ and $a$ and $b$ are real numbers then:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -779,7 +799,47 @@ If $X_i$ for $i=1, 2, \dots n$ are [Random Variable]({% post_url 2021-06-20-rand
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. $$E(aX + b) = a E(X) + b$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

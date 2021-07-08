@@ -9,7 +9,7 @@ desc: This algorithm outputs Fibonacci Sequence using Recursion.
 imagealt: Cover Image for article
 ---
 
-This algorithm outputs [Fibonacci Sequence]({% post_url 2021-06-07-fibonacci-sequence %}) using [Recursion]({% post_url 2021-06-17-recursion %}).
+This algorithm outputs [Fibonacci Sequence]({% post_url 2021-07-08-fibonacci-sequence %}) using [Recursion]({% post_url 2021-06-17-recursion %}).
 
 ```
 fibonacci(n):

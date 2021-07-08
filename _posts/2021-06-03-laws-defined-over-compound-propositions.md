@@ -407,8 +407,48 @@ Sometimes notations $\bigvee_{j=1}^n p_j$ or $\bigwedge_{j=1}^n p_j$ are used to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Using this we can write De Morgan Laws as
 $$\neg (\bigvee_{j=1}^n p_j) \equiv \bigwedge_{j=1}^n \neg p_j$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

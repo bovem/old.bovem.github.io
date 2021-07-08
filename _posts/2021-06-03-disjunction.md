@@ -395,7 +395,47 @@ Let *p* and *q* be two [Proposition]({% post_url 2021-06-03-proposition %}). The
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Truth Value]({% post_url 2021-06-03-truth-value %}) of $p \vee q$ will be false when both of them are false. It will be true otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

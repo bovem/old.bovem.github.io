@@ -397,6 +397,26 @@ Using this we can represent [Proposition]({% post_url 2021-06-03-proposition %})
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Preconditions]({% post_url 2021-06-03-preconditions %})
 - [Postconditions]({% post_url 2021-06-03-postconditions %})

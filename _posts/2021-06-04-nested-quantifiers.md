@@ -396,6 +396,26 @@ To check if $\forall x \forall y P(x, y)$ is true, first we have to loop through
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Order of Quantifiers is important unless all of the [Quantifiers]({% post_url 2021-06-04-quantifiers %}) are [Universal Quantifier]({% post_url 2021-06-03-universal-quantifier %}) or [Existential Quantifier]({% post_url 2021-06-03-existential-quantifier %}).
 
 ### Subtopics

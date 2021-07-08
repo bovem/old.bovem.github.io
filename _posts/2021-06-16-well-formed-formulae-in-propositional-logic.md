@@ -396,7 +396,47 @@ We can define the set of *well formed formulae* in [Propositional Logic]({% post
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Recursive Step**: If $E$ and $F$ are well-formed formulae then $\neg (E)$, $(E \wedge F)$, $(E \vee F)$, $(E \to F)$ and $(E \leftrightarrow F)$ are also well-formed formulae.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -395,6 +395,26 @@ Let $E$ and $F$ be two events such that outcome of $E$ depends on outcome of $F$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$p(E|F) = {p(E \cap F) \over p(F)}$$
 
 
@@ -781,7 +801,47 @@ $$p(E|F) = {p(E \cap F) \over p(F)}$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Sample Space]({% post_url 2021-06-20-sample-space %}) of event $E$ is changed to $F$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

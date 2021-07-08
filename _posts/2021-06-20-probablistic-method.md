@@ -397,8 +397,48 @@ If an element is selected at random from $S$ and probability of that element hav
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This method is used to find lower bound of [Ramsey Number]({% post_url 2021-06-20-ramsey-number %})s.
 If $k$ is an integer such that $k \ge 2$ then $R(k, k) \ge 2^{k \over 2}$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

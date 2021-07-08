@@ -11,7 +11,7 @@ imagealt: Cover Image for article
 
 Named after Russian mathematician <b>Pafnuty Lvovish Chebyshev</b>.
 
-It provided an upper bound on the probability of a [Random Variable]({% post_url 2021-06-20-random-variable %}) taking a value different from its [Expected Value]({% post_url 2021-07-02-expected-value %}) by a given amount.
+It provided an upper bound on the probability of a [Random Variable]({% post_url 2021-07-08-random-variable %}) taking a value different from its [Expected Value]({% post_url 2021-07-02-expected-value %}) by a given amount.
 
 If $X$ is a random variable over sample space $S$ and $r$ is a real number then
 
@@ -398,7 +398,47 @@ If $X$ is a random variable over sample space $S$ and $r$ is a real number then
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$p(|X(s) - E(X)| \ge r) \le V(X) / r^2$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

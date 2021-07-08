@@ -394,6 +394,26 @@ It is the square root of [Variance]({% post_url 2021-07-02-variance %}) denoted 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 It could also be said <b>Root Mean Square (RMS)</b> of [Deviation]({% post_url 2021-07-02-deviation %}).
 
 This blog was published directly from my notes.

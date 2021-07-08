@@ -394,6 +394,26 @@ Let $S$ be a set with finite $n$ distinct elements.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $S$ is a finite set and $n$ is *cardinality* or size of set.
 
 
@@ -779,7 +799,47 @@ Then $S$ is a finite set and $n$ is *cardinality* or size of set.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Cardinality of set $S$ could also be denoted as $|S|$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1551,9 +1611,29 @@ If there is a [One-to-One Functions]({% post_url 2021-06-07-one-to-one-functions
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Subtopics
 - [Countable]({% post_url 2021-06-08-countable %})
-- [Computable Functions]({% post_url 2021-06-08-computable-functions %})
+- [Computable Functions]({% post_url 2021-07-08-computable-functions %})
 - [Continuum Hypothesis]({% post_url 2021-06-08-continuum-hypothesis %})
 
 This blog was published directly from my notes.

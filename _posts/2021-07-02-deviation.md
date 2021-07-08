@@ -9,7 +9,27 @@ desc:
 imagealt: Cover Image for article
 ---
 
-Deviation of [Random Variable]({% post_url 2021-06-20-random-variable %}) $X$ at $X(s)$ such that $s \in S$ is $X(s) - E(X)$.
+Deviation of [Random Variable]({% post_url 2021-07-08-random-variable %}) $X$ at $X(s)$ such that $s \in S$ is $X(s) - E(X)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

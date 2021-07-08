@@ -394,6 +394,26 @@ We want to prove that [Conditional Statement]({% post_url 2021-06-03-conditional
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We assume its [Contradiction]({% post_url 2021-06-03-contradiction %}) $\neg p \to q$ to be true.
 
 
@@ -779,7 +799,47 @@ We assume its [Contradiction]({% post_url 2021-06-03-contradiction %}) $\neg p \
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We conclude that $q$ is false so $\neg p$ should've been false if contradiction is true. Hence, $p$ is true.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

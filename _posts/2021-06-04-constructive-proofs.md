@@ -395,6 +395,26 @@ We can find an element $a$ for which $P(a)$ is true, that element will be called
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This type of proof is called *constructive*.
 
 This blog was published directly from my notes.

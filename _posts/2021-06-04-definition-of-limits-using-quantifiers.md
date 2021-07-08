@@ -394,6 +394,26 @@ We know from [Formal Definition of Limits]({% post_url 2021-05-30-formal-definit
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$|f(x) - L| < \epsilon$$
 
 
@@ -779,7 +799,47 @@ $$|f(x) - L| < \epsilon$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 for every $$0 < |x - a| < \delta$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1552,7 +1612,47 @@ $$\forall \epsilon \exists \delta \forall x (0 < |x - a| < \delta \to |f(x) - L|
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Domain of $\delta$ and $\epsilon$ consists of all positive real numbers and domain of *x* consists of all real numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -397,7 +397,47 @@ A function is said to be one-to-one or *injunction* if and only if $f(a)=f(b)$ i
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\forall a \forall b(f(a)=f(b) \rightarrow a=b)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

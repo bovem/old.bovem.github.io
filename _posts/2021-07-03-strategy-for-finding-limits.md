@@ -397,6 +397,26 @@ $$f(x) = {x^2 +x-6 \over x-2} = {(x+3)(x-2) \over x-2} = x+3$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 so $f(x)$ could be rewritten as
 
 
@@ -782,7 +802,47 @@ so $f(x)$ could be rewritten as
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1556,6 +1616,26 @@ f(x) = \begin{cases}
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 ### Rationalization
 You can rationalize the numerator/denominator such that square root ($\sqrt{}$) is eliminated.
@@ -1944,7 +2024,47 @@ You can rationalize the numerator/denominator such that square root ($\sqrt{}$) 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$g(x) = {x+1 \over \sqrt{x+5} -2} = {x+1 \over \sqrt{x+5} -2} \times {\sqrt{x+5} +2 \over \sqrt{x+5}+2} = {x+1 (\sqrt{x+5} +2) \over x+5 - 4} = \sqrt{x+5} +2$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2719,7 +2839,47 @@ $$f(x) = {1 - cos(\theta) \over 2(sin(\theta))^2} = {1 - cos(\theta) \over 2(1 -
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$f(x) = {1 \over 2 + 2 cos(\theta)}, \theta \neq 0$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3491,7 +3651,47 @@ $$g(x) = {1 \over 2 + 2 cos(\theta)}$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$\lim_{x \rightarrow 0} f(x) = \lim_{x \rightarrow 0} g(x) = {1 \over 2 + 2 cos(0)} = {1 \over 4}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

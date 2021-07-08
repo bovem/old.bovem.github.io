@@ -9,7 +9,27 @@ desc: Random Variables $X$ and $Y$ on Sample Space $S$ are said to to be indepen
 imagealt: Cover Image for article
 ---
 
-[Random Variable]({% post_url 2021-06-20-random-variable %})s $X$ and $Y$ on [Sample Space]({% post_url 2021-06-20-sample-space %}) $S$ are said to to be independent if 
+[Random Variable]({% post_url 2021-07-08-random-variable %})s $X$ and $Y$ on [Sample Space]({% post_url 2021-06-20-sample-space %}) $S$ are said to to be independent if 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -779,8 +799,48 @@ $$p(X=r_1\ and\ Y=r_2) = p(X=r_1) \cdot p(Y=r_2)$$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 also
 $$E(XY) = E(X) \cdot E(Y)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -16,7 +16,7 @@ imagealt: Cover Image for article
 - [Independent Events]({% post_url 2021-06-20-independent-events %})
 - [Bernoulli Trials]({% post_url 2021-06-20-bernoulli-trials %})
 - [Binomial Distribution]({% post_url 2021-06-20-binomial-distribution %})
-- [Random Variable]({% post_url 2021-06-20-random-variable %})
+- [Random Variable]({% post_url 2021-07-08-random-variable %})
 - [The Birthday Problem]({% post_url 2021-06-20-the-birthday-problem %})
 - [Probability of collision in Hashing Functions]({% post_url 2021-06-20-probability-of-collision-in-hashing-functions %})
 - [Probablistic Algorithms]({% post_url 2021-06-20-probablistic-algorithms %})

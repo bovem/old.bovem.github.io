@@ -9,7 +9,7 @@ desc: Proofs that use Counting arguments to prove that there is a Bijection betw
 imagealt: Cover Image for article
 ---
 
-[Proofs]({% post_url 2021-06-04-proofs %}) that use [Counting]({% post_url 2021-07-03-counting %}) arguments to prove that there is a [Bijection]({% post_url 2021-06-07-bijection %}) between set of objects counted by two sides of identities.
+[Proofs]({% post_url 2021-06-04-proofs %}) that use [Counting]({% post_url 2021-07-04-counting %}) arguments to prove that there is a [Bijection]({% post_url 2021-06-07-bijection %}) between set of objects counted by two sides of identities.
 
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.

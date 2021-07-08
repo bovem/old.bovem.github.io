@@ -395,6 +395,26 @@ To find an element $x$ in an array this algorithm iterates over the complete lis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 search(i, j, x):
 	if(1 <= i <= j <= n):

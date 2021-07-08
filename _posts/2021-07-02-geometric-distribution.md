@@ -9,7 +9,27 @@ desc:
 imagealt: Cover Image for article
 ---
 
-A [Random Variable]({% post_url 2021-06-20-random-variable %}) $X$ has a *geometric distribution* with parameter $p$ if $p(X=k)=(1-p)^{k-1}p$ for $k=1, 2, 3, \dots$ where $p$ is a real number with $0< p \le 1$.
+A [Random Variable]({% post_url 2021-07-08-random-variable %}) $X$ has a *geometric distribution* with parameter $p$ if $p(X=k)=(1-p)^{k-1}p$ for $k=1, 2, 3, \dots$ where $p$ is a real number with $0< p \le 1$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -396,6 +416,26 @@ A [Random Variable]({% post_url 2021-06-20-random-variable %}) $X$ has a *geomet
 
 
 The expectation of random variable will be $E(x) = 1/p$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

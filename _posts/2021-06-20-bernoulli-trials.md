@@ -398,6 +398,26 @@ If probability of success is $p$ and probability of failure is $q$ then $p+q=1$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Bernoulli Trials are [Mutually Independent Events]({% post_url 2021-06-20-mutually-independent-events %}).
 
 This blog was published directly from my notes.

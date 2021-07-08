@@ -401,6 +401,26 @@ It is executed till condition becomes false.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If $p$ is loop invariant then $(p \wedge condition)\{S\}p$ is true.
 
 
@@ -787,7 +807,47 @@ If $p$ is loop invariant then $(p \wedge condition)\{S\}p$ is true.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1178,6 +1238,26 @@ $$
 	\therefore p\{while\ condition\ S\}(\neg condition \wedge p)
 \end{align}
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

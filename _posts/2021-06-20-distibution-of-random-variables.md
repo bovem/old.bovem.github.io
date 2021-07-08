@@ -9,7 +9,27 @@ desc: Distribution of Random Variable $X$ over Sample Space $S$ is the set of pa
 imagealt: Cover Image for article
 ---
 
-Distribution of [Random Variable]({% post_url 2021-06-20-random-variable %}) $X$ over [Sample Space]({% post_url 2021-06-20-sample-space %}) $S$ is the set of pairs $(r, p(X=r))$ .
+Distribution of [Random Variable]({% post_url 2021-07-08-random-variable %}) $X$ over [Sample Space]({% post_url 2021-06-20-sample-space %}) $S$ is the set of pairs $(r, p(X=r))$ .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -395,6 +415,26 @@ Distribution of [Random Variable]({% post_url 2021-06-20-random-variable %}) $X$
 
 
 $\forall r \in S$ and $p(X=r)$ is probability that $X$ takes value $r$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

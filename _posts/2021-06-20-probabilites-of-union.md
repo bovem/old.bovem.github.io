@@ -394,7 +394,47 @@ Let $E_1$ and $E_2$ be two [Event]({% post_url 2021-06-20-event %}) on [Sample S
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $$P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1 \cap E_2)$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

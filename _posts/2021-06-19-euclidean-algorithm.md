@@ -396,7 +396,47 @@ Let $a, b, q$ and $r$ be integers such that $a = bq + r$.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Then $gcd(a, b) = gcd(b, r)$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

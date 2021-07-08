@@ -394,8 +394,48 @@ Suppose $E$ is a sample space $S$ and $F_1, F_2, \dots F_n$ are mutually exclusi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Such that
 $$\bigcup_{i=1}^n F_i = 0$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1166,8 +1206,48 @@ Assume $p(E) \neq 0$ and $p(F_i) \neq 0$ for $i=1, 2, \dots n$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 then
 $$p(F_j | E) = {p(E|F_j)p(F_j) \over \sum_{i=1}^n p(E|F_i)p(F_i)}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

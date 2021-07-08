@@ -396,7 +396,47 @@ If an infinite set is countable we write its cardinality as $\aleph_0$ (Pronounc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If two sets $A$ and $B$ are countable then $A \cup B$ ([Set Union]({% post_url 2021-06-05-set-union %}) is also countable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -784,7 +824,7 @@ If two sets $A$ and $B$ are countable then $A \cup B$ ([Set Union]({% post_url 2
 
 ### Subtopics
 - [Grand Hotel Paradox]({% post_url 2021-06-08-grand-hotel-paradox %})
-- [Cantor Diagonalization Argument]({% post_url 2021-06-08-cantor-diagonalization-argument %})
+- [Cantor Diagonalization Argument]({% post_url 2021-07-08-cantor-diagonalization-argument %})
 - [Schröder-Bernstein Theorem]({% post_url 2021-06-08-schröder-bernstein-theorem %})
 
 This blog was published directly from my notes.

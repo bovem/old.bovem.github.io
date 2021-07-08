@@ -397,11 +397,51 @@ $$
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 M_{exp}(b, n, m) = b^n\ mod\ m = \begin{cases} 
       (b^{n/2}\ mod\ m)^2\ mod\ m & n\ is\ even \\
       ((b^{\lfloor n/2 \rfloor}\ mod\ m)^2\ mod\ m \cdot\ b\ mod\ m )\ mod\ m & n\ is\ odd
 \end{cases}
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
