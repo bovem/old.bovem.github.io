@@ -417,6 +417,10 @@ $$(p_1 \vee p_2 \vee \dots p_n) \to q$$
 
 
 
+
+
+
+
 we can use [Proof by Cases Tautology]({% post_url 2021-06-04-proof-by-cases-tautology %}).
 
 This blog was published directly from my notes.

@@ -414,7 +414,15 @@ When probability is expressed as a function $p()$ over outcomes $x_1, x_2, \dots
 
 
 
+
+
+
+
 $$0 \le p(x_i) \le 1$$ for $i=1, 2, \dots n$
+
+
+
+
 
 
 
@@ -821,6 +829,10 @@ $$0 \le p(x_i) \le 1$$ for $i=1, 2, \dots n$
 
 and
 $$\sum_{i=1}^n p(x_i) = 1$$
+
+
+
+
 
 
 

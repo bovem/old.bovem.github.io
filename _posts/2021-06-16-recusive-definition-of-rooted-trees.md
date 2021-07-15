@@ -416,6 +416,10 @@ A [Sets]({% post_url 2021-06-08-sets %}) of [Rooted Trees]({% post_url 2021-06-1
 
 
 
+
+
+
+
 **Recursive Step**: Suppose that $T_1, T_2, \dots T_n$ are disjointed rooted trees with roots $r_1, r_2, \dots r_n$ and another vertex $r$ which isn't a vertex of any of the trees.
 
 
@@ -821,7 +825,15 @@ A [Sets]({% post_url 2021-06-08-sets %}) of [Rooted Trees]({% post_url 2021-06-1
 
 
 
+
+
+
+
 We can connect $r$ with $r_1, r_2, \dots r_n$ and the final <b>Tree</b> formed will be a rooted tree.
+
+
+
+
 
 
 

@@ -422,7 +422,15 @@ Let $p(n)$ be the probability that every one in room has different birthdays.
 
 
 
+
+
+
+
 Then $1 - p(n)$ is the probability that at least two person have same birthday.
+
+
+
+
 
 
 
@@ -1234,7 +1242,15 @@ According to assumption 2 as people enter in room the probability of having diff
 
 
 
+
+
+
+
 So, we have to find the value of $n$ such that $$1 - p(n) = 1 - {365 \over 366} {364 \over 366} {363 \over 366} \dots {(367-n) \over 366} \ge 0.5$$ Therefore $n=23$ for which $1 - p(n) \approx 0.506$.
+
+
+
+
 
 
 

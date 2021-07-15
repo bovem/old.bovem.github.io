@@ -415,7 +415,15 @@ A [Random Variable]({% post_url 2021-07-08-random-variable %}) $X$ has a *geomet
 
 
 
+
+
+
+
 The expectation of random variable will be $E(x) = 1/p$.
+
+
+
+
 
 
 

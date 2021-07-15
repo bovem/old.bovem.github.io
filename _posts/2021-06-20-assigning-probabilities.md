@@ -414,6 +414,10 @@ Let $S$ be a sample space with finite number of outcomes then probability of eac
 
 
 
+
+
+
+
 $$0 \le p(s) \le 1$$
 
 
@@ -819,7 +823,15 @@ $$0 \le p(s) \le 1$$
 
 
 
+
+
+
+
 and $$\sum_{s \in S} p(s) = 1$$
+
+
+
+
 
 
 

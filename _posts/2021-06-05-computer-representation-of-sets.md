@@ -416,7 +416,15 @@ To store set $A$, we create a [Bit String]({% post_url 2021-06-03-bit-string %})
 
 
 
+
+
+
+
 $$U = {1, 2, 3, 4, 5, 6, 7, 8, 9}$$
+
+
+
+
 
 
 
@@ -1226,7 +1234,15 @@ $$A =\ Set\ of\ odd\ numbers$$
 
 
 
+
+
+
+
 $$Bit\ String\ for\ A=101010101$$
+
+
+
+
 
 
 

@@ -416,6 +416,10 @@ It concludes that $\exists xP(x)$ is true given that $P(c)$ is true for a partic
 
 
 
+
+
+
+
 $P(c)\ for\ some\ element\ c$
 
 
@@ -821,7 +825,15 @@ $P(c)\ for\ some\ element\ c$
 
 
 
+
+
+
+
 $\therefore \exists xP(x)$
+
+
+
+
 
 
 

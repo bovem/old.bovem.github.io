@@ -415,7 +415,15 @@ If there are $n/d$ ways to do a task then the procedure could be done in $n$ way
 
 
 
+
+
+
+
 If a finite [Sets]({% post_url 2021-06-08-sets %}) $A$ is [Set Union]({% post_url 2021-06-05-set-union %}) of $n$ pairwise disjoint sets and each set has $d$ elements then $n = |A|/d$
+
+
+
+
 
 
 

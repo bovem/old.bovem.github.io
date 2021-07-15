@@ -415,7 +415,15 @@ For a partial function $f$ is an assignment of a unique element $a$ (in a subset
 
 
 
+
+
+
+
 Elements not present *domain of definition* of $A$ are called *undefined*.
+
+
+
+
 
 
 

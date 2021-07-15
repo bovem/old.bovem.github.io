@@ -415,6 +415,10 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 * We assume the original statement is false, this is our new statement.
 * Then we reach [Negation]({% post_url 2021-06-03-negation %}) of <b>Conclusion</b> (in new statement).
 * This proves that <b>Hypothesis</b> was also false (in new statement.

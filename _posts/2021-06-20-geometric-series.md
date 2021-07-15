@@ -416,7 +416,15 @@ Suppose in a GP $a$ and $r$ are real numbers and $r \neq 0$
 
 
 
+
+
+
+
 $$\sum_{j=0}^{n} ar^{j} = 
+
+
+
+
 
 
 
@@ -826,6 +834,10 @@ $$\sum_{j=0}^{n} ar^{j} =
       (n+1)a & if\ r = 1
    \end{cases}
 $$
+
+
+
+
 
 
 

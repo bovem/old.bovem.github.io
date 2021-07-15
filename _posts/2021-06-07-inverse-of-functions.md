@@ -414,7 +414,15 @@ Let $f$ be a [Bijection]({% post_url 2021-06-07-bijection %}) from $A$ to $B$.
 
 
 
+
+
+
+
 *Inverse* of function $f$ assigns an element $b \in B$ to another element $a \in A$ such that $f(a) = b$. Hence, $f^{-1}(b) = a$.
+
+
+
+
 
 
 

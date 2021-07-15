@@ -417,6 +417,10 @@ $$Floor(x) = \lfloor x \rfloor = a (x-1 < a \leq x\ and\ a \in I)$$
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

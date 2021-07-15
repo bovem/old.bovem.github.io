@@ -9,7 +9,11 @@ desc:
 imagealt: Cover Image for article
 ---
 
-A problem of size $n$ is divided into $a$ sub-problems where size of each sub-problem is $n/b$ and $g(n)$ extra operations are required to aggregate the sub-solutions. Then [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}) of an algorithm that solves the problem using *divide-and-conquer* paradigm will be
+A problem of size $n$ is divided into $a$ sub-problems where size of each sub-problem is $n/b$ and $g(n)$ extra operations are required to aggregate the sub-solutions. Then [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}) of an algorithm that solves the problem using *divide-and-conquer* paradigm will be
+
+
+
+
 
 
 
@@ -820,7 +824,15 @@ $$f(n) = a f(n/b) + g(n)$$
 
 
 
+
+
+
+
 Let $n = b^k$ where $k$ is a positive integer then
+
+
+
+
 
 
 
@@ -1630,7 +1642,15 @@ $$f(n) = af(n/b) + g(n)$$
 
 
 
+
+
+
+
 $$f(n) = a^2f(n/b^2) + ag(n/b) + g(n)$$
+
+
+
+
 
 
 
@@ -2440,7 +2460,15 @@ $$f(n) = a^3f(n/b^3) + a^2g(n/b^2) + ag(n/b) + g(n)$$
 
 
 
+
+
+
+
 $$\vdots$$
+
+
+
+
 
 
 
@@ -3250,7 +3278,15 @@ $$f(n) = a^kf(n/b^k) + \sum_{j=0}^{k-1} a^j g(n/b^j)$$
 
 
 
+
+
+
+
 because $n = b^k$
+
+
+
+
 
 
 
@@ -4061,8 +4097,16 @@ $$f(n) = a^kf(1) + \sum_{j=0}^{k-1} a^j g(n/b^j)$$
 
 
 
+
+
+
+
 ### Theorem
-If $f$ is an [Increasing Functions]({% post_url 2021-06-07-increasing-functions %}) that satisfies [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %})
+If $f$ is an [Increasing Functions]({% post_url 2021-06-07-increasing-functions %}) that satisfies [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %})
+
+
+
+
 
 
 
@@ -4468,6 +4512,10 @@ If $f$ is an [Increasing Functions]({% post_url 2021-06-07-increasing-functions 
 
 
 $f(n) = af(n/b) + c$
+
+
+
+
 
 
 
@@ -5279,7 +5327,15 @@ whenever
 
 
 
+
+
+
+
 * $a \ge 1$
+
+
+
+
 
 
 
@@ -6089,7 +6145,15 @@ whenever
 
 
 
+
+
+
+
 * $c$ is positive real number
+
+
+
+
 
 
 
@@ -6902,6 +6966,10 @@ $$f(n) = \begin{cases} O(n^{log_b a}) & if\ a >1\\ O(log n) & if\ a =1 \end{case
 
 
 
+
+
+
+
 If $n=b^k$, $a \neq 1$ and $k>0$ then
 
 
@@ -7307,7 +7375,15 @@ If $n=b^k$, $a \neq 1$ and $k>0$ then
 
 
 
+
+
+
+
 $$f(n) = C_1 n^{log_b a} + C_2$$
+
+
+
+
 
 
 
@@ -8118,8 +8194,16 @@ $$C_1 = f(1) + {c \over (a-1)}$$
 
 
 
+
+
+
+
 and 
 $$C_2 = {-c \over (a-1)}$$
+
+
+
+
 
 
 

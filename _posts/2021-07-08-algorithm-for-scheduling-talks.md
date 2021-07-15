@@ -424,6 +424,10 @@ We have $n$ talks each beginning at time $s_j$ and ending at time $e_j$, attende
 
 
 
+
+
+
+
 If a student attends more than one talk then he/she is counted more than one time.
 
 $T(j)$ : Maximum number of total attendance for first $j$ talks using optimal algorithm.
@@ -831,7 +835,15 @@ $T(j)$ : Maximum number of total attendance for first $j$ talks using optimal al
 
 
 
+
+
+
+
 $T(n)$ : Maximum number of total attendance for all $n$ talks using optimal algorithm.
+
+
+
+
 
 
 
@@ -1644,7 +1656,15 @@ $T(n)$ : Maximum number of total attendance for all $n$ talks using optimal algo
 
 
 
+
+
+
+
 3. Assign a value $p(j)$ for each talk $j$. Value of $p(j)$ is the talk with largest number (out of talks [Compatible]({% post_url 2021-07-08-compatible %}) with $j$) or 0 if such talk dosen't exist.
+
+
+
+
 
 
 
@@ -2454,7 +2474,15 @@ $T(n)$ : Maximum number of total attendance for all $n$ talks using optimal algo
 
 
 
+
+
+
+
 	a. Talks are in optimal schedule. Then by adding talk $j$ the schedule will get better than overall optimal schedule.
+
+
+
+
 
 
 
@@ -3264,7 +3292,15 @@ $T(n)$ : Maximum number of total attendance for all $n$ talks using optimal algo
 
 
 
+
+
+
+
 	b. Talks are not in optimal schedule. Then optimal schedule from $1, 2, \dots j$ is same as optimal schedule from $1, 2, \dots (j-1)$
+
+
+
+
 
 
 
@@ -4074,8 +4110,16 @@ $T(n)$ : Maximum number of total attendance for all $n$ talks using optimal algo
 
 
 
-5. Combining case (a) and (b) from step 4 we get a [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %})
+
+
+
+
+5. Combining case (a) and (b) from step 4 we get a [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %})
 	$$T(j) = max(w_j + T(p(j)), T(j-1))$$
+
+
+
+
 
 
 

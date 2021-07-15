@@ -414,7 +414,15 @@ Distribution of [Random Variable]({% post_url 2021-07-08-random-variable %}) $X$
 
 
 
+
+
+
+
 $\forall r \in S$ and $p(X=r)$ is probability that $X$ takes value $r$.
+
+
+
+
 
 
 

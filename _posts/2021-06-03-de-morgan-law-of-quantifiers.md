@@ -414,7 +414,15 @@ $$\neg \forall xP(x) \equiv \exists !x \neg P(x)$$
 
 
 
+
+
+
+
 $$\neg \exists !xP(x) \equiv \forall x \neg P(x)$$
+
+
+
+
 
 
 

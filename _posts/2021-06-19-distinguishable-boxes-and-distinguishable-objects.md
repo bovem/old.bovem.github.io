@@ -414,7 +414,15 @@ Number of ways to distribute $n$ distinguishable objects in $k$ distinguishable 
 
 
 
+
+
+
+
 $$n! \over {n_1! n_2! \dots n_k!}$$
+
+
+
+
 
 
 

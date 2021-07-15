@@ -415,10 +415,18 @@ Find closest pair of points in a set of $n$ points $(x_1, y_1), (x_2, y_2), \dot
 
 
 
+
+
+
+
 The distance used as metric is <b>Euclidean Distance</b>.
 
 ### Solution
 The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O(n^2)$.
+
+
+
+
 
 
 
@@ -1229,7 +1237,15 @@ The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O
 
 
 
+
+
+
+
 * We assume that $n = 2^k$ where $k$ is some positive integer.
+
+
+
+
 
 
 
@@ -2042,8 +2058,16 @@ The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O
 
 
 
+
+
+
+
 * Closest points can lie in
 	Case a: One in left region $L$ and one in right region $R$
+
+
+
+
 
 
 
@@ -2853,7 +2877,15 @@ The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O
 
 
 
+
+
+
+
 	Case c: Both in right region $R$
+
+
+
+
 
 
 
@@ -3663,7 +3695,15 @@ The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O
 
 
 
+
+
+
+
 * To handle "Case a" both of the points have to lie in a strip of width $2d$ centered around line $l$.  <img src="../assets/images/posts/Pasted image 20210708192614.png"/>
+
+
+
+
 
 
 
@@ -4474,8 +4514,16 @@ The <b>Brute Force Algorithm</b> approach will have <b>Time Complexity</b> of $O
 
 
 
-For a set of 16 points the [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}) of this algorithm will be
+
+
+
+
+For a set of 16 points the [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}) of this algorithm will be
 $$f(n) = 2f(n/2) + 7n$$
+
+
+
+
 
 
 
@@ -5286,7 +5334,15 @@ $2f(n/2)$ for splitting the plane and $7n$ is maximum number of comparisons done
 
 
 
+
+
+
+
 <b>Time Complexity</b> of this algorithm is $O(nlog(n))$. $O(log(n))$ for sorting and $O(n)$ for comparisons.
+
+
+
+
 
 
 

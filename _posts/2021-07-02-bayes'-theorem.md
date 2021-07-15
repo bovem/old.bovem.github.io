@@ -416,7 +416,15 @@ Suppose $E$ and $F$ are [Event]({% post_url 2021-06-20-event %})s from [Sample S
 
 
 
+
+
+
+
 such that $p(E) \neq 0$ and $p(F) \neq 0$
+
+
+
+
 
 
 
@@ -823,6 +831,10 @@ such that $p(E) \neq 0$ and $p(F) \neq 0$
 
 then
 $$p(F | E) = {p(E|F)p(F) \over p(E|F)p(F) + p(E|\bar{F})p(\bar{F})}$$
+
+
+
+
 
 
 

@@ -417,6 +417,10 @@ If $A = [a_{ij}]$ and $B= [b_{ij}]$ then $A+B = [a_{ij} + b_{ij}]$
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

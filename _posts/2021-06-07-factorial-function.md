@@ -415,6 +415,10 @@ A *factorial function* $f:N \to Z^{+}$ or $f(n) = n!$ is the product of first n 
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

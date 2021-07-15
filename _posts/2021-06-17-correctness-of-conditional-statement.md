@@ -418,6 +418,10 @@ $$
 
 
 
+
+
+
+
 \begin{align}
 	(p \wedge\ condition) \{S\}q \\
 	(p \wedge\ \neg condition) \to q \\
@@ -425,6 +429,10 @@ $$
 	\therefore p\{if\ condition\ then\ S\}q
 \end{align}
 $$
+
+
+
+
 
 
 

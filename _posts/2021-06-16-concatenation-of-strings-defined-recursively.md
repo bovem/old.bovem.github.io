@@ -416,6 +416,10 @@ Let $\Sigma$ be a set of symbols and $\Sigma^*$ be a set of strings formed from 
 
 
 
+
+
+
+
 **Basis Step**: If $w \in \Sigma^*$ then $w \cdot \lambda = w$ where $\lambda$ is <b>Empty String</b>.
 
 
@@ -821,7 +825,15 @@ Let $\Sigma$ be a set of symbols and $\Sigma^*$ be a set of strings formed from 
 
 
 
+
+
+
+
 **Recursive Step**: If $w_1 \in \Sigma^*$ and $w_2 \in \Sigma^*$ and $w_1 \in \Sigma$ then $w_1 \cdot (w_2 x) = (w_1 w_2) \cdot x$
+
+
+
+
 
 
 

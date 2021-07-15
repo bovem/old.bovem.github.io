@@ -414,6 +414,10 @@ A *subsequence* of a sequence $a_1, a_2 \dots a_n$ is of form $a_{i_1}, a_{i_2} 
 
 
 
+
+
+
+
 It is obtained from original sequence by taking some of the elements of it in same order and perhaps not including other terms.
 
 A sequence is *strictly increasing* if every term is larger than its previous term.
@@ -421,6 +425,10 @@ A sequence is *strictly decreasing* if every term is smaller than its previous t
 
 ### Theorem
 Every sequence of $n^2 + 1$ distinct integers contains a subsequence of length $n+1$ that is either strictly increasing or strictly decreasing.
+
+
+
+
 
 
 

@@ -9,7 +9,7 @@ desc: It specifies the term before the first term of Recurrence Relation.
 imagealt: Cover Image for article
 ---
 
-It specifies the term before the first term of [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}).
+It specifies the term before the first term of [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}).
 
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.

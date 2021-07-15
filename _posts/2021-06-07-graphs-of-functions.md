@@ -415,6 +415,10 @@ Graph of function $f: A \to B$ is set of ordered pairs $\{ (a, b) | a \in A\ and
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

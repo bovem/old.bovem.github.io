@@ -9,7 +9,11 @@ desc: Let $f$ be an Increasing Functions that satisfies Recurrence Relation
 imagealt: Cover Image for article
 ---
 
-Let $f$ be an [Increasing Functions]({% post_url 2021-06-07-increasing-functions %}) that satisfies [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %})
+Let $f$ be an [Increasing Functions]({% post_url 2021-06-07-increasing-functions %}) that satisfies [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %})
+
+
+
+
 
 
 
@@ -415,6 +419,10 @@ Let $f$ be an [Increasing Functions]({% post_url 2021-06-07-increasing-functions
 
 
 $f(n) = af(n/b) + cn^d$
+
+
+
+
 
 
 
@@ -1226,6 +1234,10 @@ where
 
 
 
+
+
+
+
 * $k>0$
 
 
@@ -1631,7 +1643,15 @@ where
 
 
 
+
+
+
+
 * $b>1$
+
+
+
+
 
 
 
@@ -2442,8 +2462,16 @@ where
 
 
 
+
+
+
+
 then 
 $$f(n) = \begin{cases} O(n^{d}) & if\ a<b^d \\ O(n^d log n) & if\ a = b^d \\ O(n^{log_b a}) & if\ a \ge b^d \end{cases}$$
+
+
+
+
 
 
 

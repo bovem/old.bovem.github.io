@@ -416,7 +416,15 @@ Let $x$ and $y$ be variables and $n$ be a non-negative number then
 
 
 
+
+
+
+
 $$(x+y)^n = \sum_{j=0}^n \binom n j x^{n-j} y^j$$
+
+
+
+
 
 
 
@@ -1229,6 +1237,10 @@ $$\sum_{k=0}^n \binom n k = 2^n$$
 
 
 
+
+
+
+
 ## Corollary 2
 $$\sum_{k=0}^n (-1)^k \binom n k = 0$$
 
@@ -1636,8 +1648,16 @@ $$\sum_{k=0}^n (-1)^k \binom n k = 0$$
 
 
 
+
+
+
+
 ## Corollary 3
 $$\sum_{k=0}^n 2^k \binom n k = 3^n$$
+
+
+
+
 
 
 

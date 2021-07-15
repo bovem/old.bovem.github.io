@@ -416,6 +416,10 @@ $$G(x) = a_0 + a_1 x_1 + a_2 x_2 + \dots + a_k x_k + \dots = \sum_{k=0}^{ \infty
 
 
 
+
+
+
+
 [Addition of Generating Functions]({% post_url 2021-07-08-addition-of-generating-functions %}) and [Multiplication of Generating Functions]({% post_url 2021-07-08-multiplication-of-generating-functions %}) is valid only for <b>Power Series</b> that <b>Converge</b> in that interval.
 
 ### Subtopics

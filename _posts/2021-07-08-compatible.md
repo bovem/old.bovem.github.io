@@ -414,7 +414,15 @@ Two talks are $compatible$ if the first talk $i$ ends before start of second tal
 
 
 
+
+
+
+
 $i < j$ for which $e_i < s_j$.
+
+
+
+
 
 
 

@@ -415,7 +415,15 @@ Probability of $k$ success in $n$ independent Bernoulli Trials is $C(n, k) p^k q
 
 
 
+
+
+
+
 Sum of $k$ successes for different values of $k$ is $$\sum_{k=0}^n C(n, k) p^k q^{n-k} = (p+q)^n = 1$$ which is same as [Binomial Theorem]({% post_url 2021-06-19-binomial-theorem %}).
+
+
+
+
 
 
 

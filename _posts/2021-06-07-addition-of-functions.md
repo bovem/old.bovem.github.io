@@ -414,6 +414,10 @@ Let $f_1$ and $f_2$ be two [Real-Valued Functions]({% post_url 2021-06-07-real-v
 
 
 
+
+
+
+
 Their [Domain]({% post_url 2021-06-07-domain %}) is a set $A$ and their [Codomain]({% post_url 2021-06-07-codomain %}) is set $R$ (set of all real numbers).
 
 
@@ -820,7 +824,15 @@ Their [Domain]({% post_url 2021-06-07-domain %}) is a set $A$ and their [Codomai
 
 
 
+
+
+
+
 Then $f_1 + f_2$ and $f_1 f_2$ are also [Real-Valued Functions]({% post_url 2021-06-07-real-valued-functions %}) defined over same [Domain]({% post_url 2021-06-07-domain %}) and [Codomain]({% post_url 2021-06-07-codomain %}).
+
+
+
+
 
 
 

@@ -415,7 +415,15 @@ A *linear homogeneous recurrence relation* of degree $k$ with constant coefficie
 
 
 
+
+
+
+
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{n-k} a_{n-k}$$
+
+
+
+
 
 
 
@@ -1227,6 +1235,10 @@ Here, $c_1, c_2, \dots c_n$ are constant terms and $c_k \neq 0$.
 
 
 
+
+
+
+
 These [Relation]({% post_url 2021-06-05-relation %})s represent terms as a <b>Linear Combination</b> of previous terms.
 It is called *linear* because terms in sum on right are multiplied with a [Function]({% post_url 2021-06-07-function %}) of $n$.
 
@@ -1633,7 +1645,15 @@ It is called *linear* because terms in sum on right are multiplied with a [Funct
 
 
 
+
+
+
+
 Its *homogeneous* because all the terms are multiple of $a_j$.
+
+
+
+
 
 
 

@@ -415,6 +415,10 @@ $$[(p_1, p_2, \dots, p_n) \to q] \leftrightarrow [(p_1 \to q) \wedge (p_2 \to q)
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

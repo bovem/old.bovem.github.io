@@ -415,6 +415,10 @@ A function $f$ whose [Domain]({% post_url 2021-06-07-domain %}) and [Codomain]({
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

@@ -415,6 +415,10 @@ Suppose a program $S$ is divided in into two consecutive segments $S_1$ and $S_2
 
 
 
+
+
+
+
 Then to show $p\{S\}r$ is correct we have to show $p\{S_1\}q$ and $q\{S_2\}r$ are also correct.
 
 
@@ -821,7 +825,15 @@ Then to show $p\{S\}r$ is correct we have to show $p\{S_1\}q$ and $q\{S_2\}r$ ar
 
 
 
+
+
+
+
 $$
+
+
+
+
 
 
 
@@ -1233,6 +1245,10 @@ $$
 	\therefore p\{S_1 ; S_2\}r
 \end{align}
 $$
+
+
+
+
 
 
 

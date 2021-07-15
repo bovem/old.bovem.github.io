@@ -9,7 +9,7 @@ desc: It is a method to find Closed Formula or Initial Condition by reapplying R
 imagealt: Cover Image for article
 ---
 
-It is a method to find [Closed Formula]({% post_url 2021-07-08-closed-formula %}) or [Initial Condition]({% post_url 2021-07-08-initial-condition %}) by reapplying [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}).
+It is a method to find [Closed Formula]({% post_url 2021-07-08-closed-formula %}) or [Initial Condition]({% post_url 2021-07-08-initial-condition %}) by reapplying [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}).
 
 It is also a method of repeatedly applying **Recursive Step** from [Recursion]({% post_url 2021-06-17-recursion %}) on each element starting from **Basis Step**. This is similar to [Strong Induction]({% post_url 2021-06-15-strong-induction %}).
 

@@ -416,6 +416,10 @@ It concludes that $\forall xP(x)$ is true given that $P(c)$ is true for all elem
 
 
 
+
+
+
+
 $P(c)\ for\ an\ arbitrary\ c$
 
 
@@ -821,7 +825,15 @@ $P(c)\ for\ an\ arbitrary\ c$
 
 
 
+
+
+
+
 $\therefore \forall xP(x)$
+
+
+
+
 
 
 

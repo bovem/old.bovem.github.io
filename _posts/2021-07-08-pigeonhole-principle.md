@@ -415,10 +415,18 @@ If $k>0$ and $k+1$ objects are placed in $k$ boxes then at least one box will ha
 
 
 
+
+
+
+
 It is also known as *Dirichlet Drawer Principle* named after German mathematician <b>G. Lejuene Dirichlet</b>
 
 ### [Corollary]({% post_url 2021-06-04-corollary %}) 1
 A [Function]({% post_url 2021-06-07-function %}) $f$ from a set of $k+1$ or more elements to $k$ elements is not [One-to-One Functions]({% post_url 2021-06-07-one-to-one-functions %}).
+
+
+
+
 
 
 

@@ -415,6 +415,10 @@ Integers $a_1, a_2, \dots a_n$ are pairwise relatively prime if $gcd(a_i, a_j)=1
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

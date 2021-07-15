@@ -414,8 +414,16 @@ We express relation in the form $a_n = r^n$, where $r$ is a constant.
 
 
 
+
+
+
+
 It is equation is called *solution* of recurrence relation
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{n-k} a_{n-k} \to (1)$$
+
+
+
+
 
 
 
@@ -1226,6 +1234,10 @@ $$r^n = c_1 r^{n-1} + c_2 r^{n-2} + \dots + c_{n-k} r^{n-k} \to (2)$$
 
 
 
+
+
+
+
 After dividing this equation with $r^{n-k}$ and moving all the terms to left side we get
 
 
@@ -1631,7 +1643,15 @@ After dividing this equation with $r^{n-k}$ and moving all the terms to left sid
 
 
 
+
+
+
+
 $$r^k - c_1 r^{k-1} - c_2 r^{k-2} - \dots - c_{k-1}r - c_{k}=0 \to (3)$$
+
+
+
+
 
 
 
@@ -2443,8 +2463,16 @@ $(3)$ is called <b>Characteristic Equation</b> and *solutions* of that equation 
 
 
 
+
+
+
+
 ### Theorem
 Let $c_1, c_2, \dots c_n$ be real numbers.
+
+
+
+
 
 
 
@@ -3254,6 +3282,10 @@ The *characteristic equation* with $k$ distinct roots ($r_1, r_2, \dots ,r_n$) w
 
 
 
+
+
+
+
 $$r^k - c_1 r^{k-1} - c_2 r^{k-2} - \dots - c_{k-1}r - c_{k}=0$$
 
 
@@ -3659,7 +3691,15 @@ $$r^k - c_1 r^{k-1} - c_2 r^{k-2} - \dots - c_{k-1}r - c_{k}=0$$
 
 
 
-[Sequence]({% post_url 2021-07-08-sequence %}) ${a_n}$ is solution of [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %})
+
+
+
+
+[Sequence]({% post_url 2021-07-08-sequence %}) ${a_n}$ is solution of [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %})
+
+
+
+
 
 
 
@@ -4065,6 +4105,10 @@ $$r^k - c_1 r^{k-1} - c_2 r^{k-2} - \dots - c_{k-1}r - c_{k}=0$$
 
 
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{n-k} a_{n-k}$$
+
+
+
+
 
 
 
@@ -4875,7 +4919,15 @@ $$a_n = \alpha_1 r_1^n + \alpha_2 r_2^n + \dots + \alpha_k r_k^n$$
 
 
 
+
+
+
+
 for $n=0, 1, 2 \dots$ and $\alpha_1, \alpha_2, \dots \alpha_k$ are constants.
+
+
+
+
 
 
 
@@ -5690,7 +5742,15 @@ $$r^k - c_1 r^{k-1} - c_2 r^{k-2} - \dots - c_{k-1}r - c_{k}=0$$
 
 
 
+
+
+
+
 has $t$ different roots $r_1, r_2 \dots r_t$ with multiplicities $m_1, m_2 \dots m_t$ respectively.
+
+
+
+
 
 
 
@@ -6501,7 +6561,15 @@ Such that, $m_i \ge 1$ for $i=1, 2, \dots , t$ and $m_1 + m_2 + \dots m_t = k$.
 
 
 
-[Sequence]({% post_url 2021-07-08-sequence %}) ${a_n}$ is solution of [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %})
+
+
+
+
+[Sequence]({% post_url 2021-07-08-sequence %}) ${a_n}$ is solution of [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %})
+
+
+
+
 
 
 
@@ -6907,6 +6975,10 @@ Such that, $m_i \ge 1$ for $i=1, 2, \dots , t$ and $m_1 + m_2 + \dots m_t = k$.
 
 
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{n-k} a_{n-k}$$
+
+
+
+
 
 
 
@@ -7717,7 +7789,15 @@ $$a_n = P_1(n) r_1^n + P_2(n) r_2^n + \dots + P_k(n) r_t^n$$
 
 
 
+
+
+
+
 Here, $P_t(n)$ is a polynomial of degree $m-1$ expressed as
+
+
+
+
 
 
 
@@ -8528,7 +8608,15 @@ $$a_n = (\alpha_{1,0} +  \alpha_{1,1}n + \dots + \alpha_{1, m_1-1}n^{m_1-1}) r_1
 
 
 
+
+
+
+
 for $n=0, 1, 2 \dots$ and $\alpha_{i, j}$ are constants such that $1 \le i \le t$ and $0 \le j \le m_i -1$.
+
+
+
+
 
 
 

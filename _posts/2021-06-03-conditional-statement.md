@@ -415,6 +415,10 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 In this statement *p* will be called <b>Hypothesis</b> and q will be called <b>Conclusion</b>.
 
 Conditional statement is also called as *Implication*.

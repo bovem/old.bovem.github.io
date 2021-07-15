@@ -417,6 +417,10 @@ As a [Logical Operators]({% post_url 2021-06-03-logical-operators %}) it is repr
 
 
 
+
+
+
+
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.
 

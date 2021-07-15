@@ -415,7 +415,15 @@ $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{k} a_{n-k} + F(n)$$
 
 
 
+
+
+
+
 $a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{k} a_{n-k}$ is called *associated homogeneous recurrence relation* and $F(n)$ is a [Function]({% post_url 2021-06-07-function %}) dependent on just $n$.
+
+
+
+
 
 
 
@@ -1227,7 +1235,15 @@ If [Sequence]({% post_url 2021-07-08-sequence %}) $\{a_n^{(p)}\}$ is *particular
 
 
 
+
+
+
+
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{k} a_{n-k} + F(n)$$
+
+
+
+
 
 
 
@@ -2038,6 +2054,10 @@ then every solution is of form $\{a_n^{(p)} + a_n^{(h)}\}$.
 
 
 
+
+
+
+
 Here [Sequence]({% post_url 2021-07-08-sequence %}) $\{ a_n^{(h)} \}$ is *solution* of associated homogeneous recurrence relation
 
 
@@ -2443,7 +2463,15 @@ Here [Sequence]({% post_url 2021-07-08-sequence %}) $\{ a_n^{(h)} \}$ is *soluti
 
 
 
+
+
+
+
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{k} a_{n-k}$$
+
+
+
+
 
 
 
@@ -3255,7 +3283,15 @@ Suppose [Sequence]({% post_url 2021-07-08-sequence %}) $\{a_n^{(p)}\}$ is *parti
 
 
 
+
+
+
+
 $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \dots + c_{k} a_{n-k} + F(n)$$
+
+
+
+
 
 
 
@@ -4066,6 +4102,10 @@ $$F(n) = (b_t n^t + b_{t-1}n^{t-1} + \dots + b_1 n+b_0)s^n$$
 
 
 
+
+
+
+
 here $b_t, b_{t-1} \dots b_0$ and $s$ are real numbers.
 
 
@@ -4472,7 +4512,15 @@ here $b_t, b_{t-1} \dots b_0$ and $s$ are real numbers.
 
 
 
+
+
+
+
 **Case 1:** When $s$ is not a root of <b>Characteristic Equation</b> of the associated homogeneous recurrence relation.
+
+
+
+
 
 
 
@@ -5284,7 +5332,15 @@ $$(p_t n^t + p_{t-1} n^{t-1} + \dots + p_1 n + p_0)s^n$$
 
 
 
+
+
+
+
 **Case 2:** When $s$ is a root of <b>Characteristic Equation</b> of the associated homogeneous recurrence relation with multiplicity $m$.
+
+
+
+
 
 
 
@@ -5691,6 +5747,10 @@ $$(p_t n^t + p_{t-1} n^{t-1} + \dots + p_1 n + p_0)s^n$$
 
 Then there is a particular of form
 $$n^m(p_t n^t + p_{t-1} n^{t-1} + \dots + p_1 n + p_0)s^n$$
+
+
+
+
 
 
 

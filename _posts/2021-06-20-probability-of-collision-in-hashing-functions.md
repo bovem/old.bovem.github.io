@@ -418,7 +418,15 @@ Suppose the [Keys]({% post_url 2021-06-20-keys %}) are $k_1, k_2, \dots k_n$.
 
 
 
+
+
+
+
 Probability of having a different key after first one is added is $(m-1)/m$.
+
+
+
+
 
 
 
@@ -1229,6 +1237,10 @@ Probability of having a different key after first and second one are added is $(
 
 
 
+
+
+
+
 Probability that all $n$ keys are mapped to different locations is
 
 
@@ -1634,7 +1646,15 @@ Probability that all $n$ keys are mapped to different locations is
 
 
 
+
+
+
+
 $$p_n = {m-1 \over m} \cdot {m-2 \over m} \cdot \dots {m-(n+1) \over m}$$
+
+
+
+
 
 
 
@@ -2447,7 +2467,15 @@ $1 - p_n = 1 - {m-1 \over m} \cdot {m-2 \over m} \cdot \dots {m-(n+1) \over m}$.
 
 
 
+
+
+
+
 To find the smallest value of $n$ for given value of $m$ we use relation $n=1.777 \sqrt{m}$.
+
+
+
+
 
 
 

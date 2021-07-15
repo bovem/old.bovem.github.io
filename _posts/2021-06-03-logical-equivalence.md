@@ -415,7 +415,15 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 If *p* and *q* are logically equivalent then $p \leftrightarrow q$ is a [Tautology]({% post_url 2021-06-03-tautology %}).
+
+
+
+
 
 
 

@@ -417,6 +417,10 @@ Ordered arrangement of $r$ elements of a set is called $r$-permutation. It is de
 
 
 
+
+
+
+
 [Product Rule]({% post_url 2021-06-18-product-rule %}) is used to find formula of $P(n, r)$ where $n$ and $r$ are positive integers and $1 \le r \le n$ then
 
 
@@ -822,7 +826,15 @@ Ordered arrangement of $r$ elements of a set is called $r$-permutation. It is de
 
 
 
+
+
+
+
 $$P(n, r) = (n)(n-1)(n-2) \dots (n-r+1)$$ will be $r$-permutation of set with $n$ distinct elements.
+
+
+
+
 
 
 
@@ -1634,8 +1646,16 @@ $P(n, 0)=1$ if $n$ is a non-negative integer because there is only one way to ar
 
 
 
+
+
+
+
 ### Corollary
 If $n$ and $r$ are non-negative integers such that $0 \le r \le n$ then $$P(n, r) = {n! \over (n-r)!}$$
+
+
+
+
 
 
 

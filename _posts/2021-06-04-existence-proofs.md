@@ -415,6 +415,10 @@ Proof of a [Proposition]({% post_url 2021-06-03-proposition %}) of type $\exists
 
 
 
+
+
+
+
 ### Subtopics
 - [Constructive Proofs]({% post_url 2021-06-04-constructive-proofs %})
 - [Nonconstructive Proofs]({% post_url 2021-06-04-nonconstructive-proofs %})

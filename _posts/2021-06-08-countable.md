@@ -416,7 +416,15 @@ If an infinite set is countable we write its cardinality as $\aleph_0$ (Pronounc
 
 
 
+
+
+
+
 If two sets $A$ and $B$ are countable then $A \cup B$ ([Set Union]({% post_url 2021-06-05-set-union %}) is also countable. 
+
+
+
+
 
 
 

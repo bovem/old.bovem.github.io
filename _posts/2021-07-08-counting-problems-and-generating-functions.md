@@ -415,7 +415,15 @@ $$e_1 + e_2 + \dots + e_n = C$$
 
 
 
+
+
+
+
 where $C$ is some constant and $e_i$ is a non-negative integer subjected to some constraints.
+
+
+
+
 
 
 

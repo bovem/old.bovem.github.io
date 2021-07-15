@@ -416,7 +416,15 @@ Let $n$ and $k$ be positive integers with $n \ge k$. Then
 
 
 
+
+
+
+
 $$\binom {n+1} k = \binom n {k-1} + \binom n k$$
+
+
+
+
 
 
 
@@ -1228,9 +1236,17 @@ Pascal's Identity with initial conditions $\binom n 0 = \binom n n = 1$ could be
 
 
 
+
+
+
+
 <img src="../assets/images/posts/Pasted image 20210619091229.png"/>
 
 $n$th row in Pascal's Triangle consist of binomial coefficient.
+
+
+
+
 
 
 

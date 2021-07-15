@@ -416,9 +416,17 @@ Example: Limits dosen't exist for $f(x)$ at $x=2$.
 
 
 
+
+
+
+
 <img src="../assets/images/posts/16.png"/>
 
 Limit approaching from left is denoted with superscripted $-$ sign and limit approaching from right is denoted by superscripted $+$ sign.
+
+
+
+
 
 
 

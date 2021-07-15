@@ -9,7 +9,7 @@ desc: Counting problems could be solved using Recurrence Relation.
 imagealt: Cover Image for article
 ---
 
-Counting problems could be solved using [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}).
+Counting problems could be solved using [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}).
 
 ### Subtopics
 - [Tower of Hanoi]({% post_url 2021-07-08-tower-of-hanoi %})

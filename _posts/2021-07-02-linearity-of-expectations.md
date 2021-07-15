@@ -414,6 +414,10 @@ If $X_i$ for $i=1, 2, \dots n$ are [Random Variable]({% post_url 2021-07-08-rand
 
 
 
+
+
+
+
 1. $$E(X_1 + X_2 \dots + X_n) = E(X_1) + E(X_2) \dots + E(X_n)$$
 
 
@@ -819,7 +823,15 @@ If $X_i$ for $i=1, 2, \dots n$ are [Random Variable]({% post_url 2021-07-08-rand
 
 
 
+
+
+
+
 2. $$E(aX + b) = a E(X) + b$$
+
+
+
+
 
 
 

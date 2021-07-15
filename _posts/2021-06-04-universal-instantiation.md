@@ -416,6 +416,10 @@ It concludes that $P(c)$ is true if $c$ is part of the domain. Given $\forall xP
 
 
 
+
+
+
+
 $\forall xP(x)$
 
 
@@ -821,7 +825,15 @@ $\forall xP(x)$
 
 
 
+
+
+
+
 $\therefore P(c)$
+
+
+
+
 
 
 

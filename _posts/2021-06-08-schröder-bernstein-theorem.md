@@ -415,7 +415,15 @@ If $|A| \le |B|$ and $|B| \le |A|$ then $|A| = |B|$.
 
 
 
+
+
+
+
 If $f: A \to B$ and $g: B \to A$ are [One-to-One Functions]({% post_url 2021-06-07-one-to-one-functions %}), then there is a [Bijection]({% post_url 2021-06-07-bijection %}) between $A$ and $B$.
+
+
+
+
 
 
 

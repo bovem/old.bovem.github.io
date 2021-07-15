@@ -417,7 +417,15 @@ If $u$ is a real number and $k$ is a non-negative integer then extended <b>Binom
 
 
 
+
+
+
+
 $$\binom u k = \begin{cases} u(u-1) \dots (u-k+1)/ k! & if\ k>0 \\ 1 & if\ k=0\end{cases}$$
+
+
+
+
 
 
 
@@ -1228,6 +1236,10 @@ For negative $u$
 
 
 
+
+
+
+
 $$\binom {-u} r = (-1)^r C(u+r-1, r)$$
 
 
@@ -1633,7 +1645,15 @@ $$\binom {-u} r = (-1)^r C(u+r-1, r)$$
 
 
 
+
+
+
+
 See [Combination]({% post_url 2021-06-19-combination %}) to calculate value of $C(u+r-1, r)$.
+
+
+
+
 
 
 
@@ -2445,7 +2465,15 @@ If $x$ and $u$ are real numbers and $|x| < 1$ then
 
 
 
+
+
+
+
 $$(1+x)^u = \sum_{k=0}^{\infty} \binom u k x^k$$
+
+
+
+
 
 
 

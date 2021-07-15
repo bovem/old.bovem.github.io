@@ -415,7 +415,15 @@ If $a$ and $b$ are integers then we say *$a$ divides $b$* if there exists an int
 
 
 
+
+
+
+
 $a$ will be called *factor* of $b$.
+
+
+
+
 
 
 
@@ -1226,7 +1234,15 @@ $b$ will be called *multiple* of $a$.
 
 
 
+
+
+
+
 $a$ divides $b$ is represented as $a | b$.
+
+
+
+
 
 
 

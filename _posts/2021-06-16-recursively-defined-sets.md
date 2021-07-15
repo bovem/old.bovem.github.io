@@ -414,6 +414,10 @@ A [Sets]({% post_url 2021-06-08-sets %}) $\Sigma^*$ over <b>Alphabet</b> $\Sigma
 
 
 
+
+
+
+
 **Basis Step**: $\lambda \in \Sigma$ (Where $\lambda$ is an <b>Empty String</b>)
 
 
@@ -819,7 +823,15 @@ A [Sets]({% post_url 2021-06-08-sets %}) $\Sigma^*$ over <b>Alphabet</b> $\Sigma
 
 
 
+
+
+
+
 **Recursive Step**: If $w \in \Sigma^*$ and $x \in \Sigma^*$ then $wx \in \Sigma^*$
+
+
+
+
 
 
 

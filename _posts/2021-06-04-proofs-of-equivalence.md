@@ -414,7 +414,15 @@ To prove a [Biconditional]({% post_url 2021-06-03-biconditional %}) statement $p
 
 
 
+
+
+
+
 $$p \leftrightarrow q \to (p \to q ) \wedge (q \to p)$$
+
+
+
+
 
 
 

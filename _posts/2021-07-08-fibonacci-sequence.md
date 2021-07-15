@@ -11,7 +11,11 @@ imagealt: Cover Image for article
 
 Named after Italian Mathematician <b>Fibonacci</b>.
 
-It is a [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}) defined by [Initial Condition]({% post_url 2021-07-08-initial-condition %}) ($f_0 = 0$ and $f_1 = 1$).
+It is a [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}) defined by [Initial Condition]({% post_url 2021-07-08-initial-condition %}) ($f_0 = 0$ and $f_1 = 1$).
+
+
+
+
 
 
 
@@ -418,6 +422,10 @@ It is a [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}) def
 
 
 $$f_n = f_{(n-1)} + f_{(n-2)}$$ for $n = 2, 3, \dots$
+
+
+
+
 
 
 

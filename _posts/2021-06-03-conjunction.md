@@ -415,7 +415,15 @@ Let *p* and *q* be two [Proposition]({% post_url 2021-06-03-proposition %}). The
 
 
 
+
+
+
+
 [Truth Value]({% post_url 2021-06-03-truth-value %}) of $p \wedge q$ will be true only when both *p* and *q* are true. It will be false otherwise.
+
+
+
+
 
 
 

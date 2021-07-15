@@ -414,7 +414,15 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 **Recursive Step**: If $T_1$ and $T_2$ are [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) then $T = T_1 \cdot T_2$ is also a [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) with number of vertices $n(T) = 1 + h(T_1) + h(T_2)$
+
+
+
+
 
 
 
@@ -822,6 +830,10 @@ imagealt: Cover Image for article
 
 ### Theorem
 If $T$ is a [Full Binary Tree]({% post_url 2021-06-16-full-binary-tree %}) then $n(T) \le 2^{h(T)+1} -1$.
+
+
+
+
 
 
 

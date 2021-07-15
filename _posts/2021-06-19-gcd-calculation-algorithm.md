@@ -414,6 +414,10 @@ Calculation of [Greatest Common Divisor (GCD)]({% post_url 2021-06-14-greatest-c
 
 
 
+
+
+
+
 This is a recursive implementation of [Euclidean Algorithm]({% post_url 2021-06-19-euclidean-algorithm %}).
 
 ```

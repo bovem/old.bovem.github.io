@@ -414,6 +414,10 @@ Let $E_1$ and $E_2$ be two [Event]({% post_url 2021-06-20-event %}) on [Sample S
 
 
 
+
+
+
+
 $$P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1 \cap E_2)$$
 
 
@@ -820,7 +824,11 @@ $$P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1 \cap E_2)$$
 
 
 
-This is similar to [Principle of Inclusion-Exclusion]({% post_url 2021-06-05-principle-of-inclusion-exclusion %}).
+
+
+
+
+This is similar to [Principle of Inclusion-Exclusion]({% post_url 2021-07-15-principle-of-inclusion-exclusion %}).
 
 This blog was published directly from my notes.
 To check the source of my notes and images used in this blog, visit <a href="/credits.html" target="_blank">Credits</a>.

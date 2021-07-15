@@ -414,8 +414,16 @@ $f(x) = \sum_{k=0}^{ \infty } a_k x^k$ and $g(x) = \sum_{k=0}^{ \infty } b_k x^k
 
 
 
+
+
+
+
 Then
 $$f(x) + g(x) = \sum_{k=0}^{ \infty } (a_k + b_k) x^k$$
+
+
+
+
 
 
 

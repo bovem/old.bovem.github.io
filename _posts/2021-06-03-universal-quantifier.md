@@ -417,7 +417,15 @@ It is denoted by $\forall xP(x)$.
 
 
 
+
+
+
+
 If [Domain of Discourse]({% post_url 2021-06-03-domain-of-discourse %}) is an empty set then $\forall xP(x)$ will always be true.
+
+
+
+
 
 
 
@@ -1228,7 +1236,15 @@ It is similar to [Conjunction]({% post_url 2021-06-03-conjunction %}) of P(x) ov
 
 
 
+
+
+
+
 $$P(x_1) \wedge P(x_2) \wedge \dots P(x_n)$$
+
+
+
+
 
 
 

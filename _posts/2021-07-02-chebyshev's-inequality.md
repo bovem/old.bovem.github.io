@@ -418,7 +418,15 @@ If $X$ is a random variable over sample space $S$ and $r$ is a real number then
 
 
 
+
+
+
+
 $$p(|X(s) - E(X)| \ge r) \le V(X) / r^2$$
+
+
+
+
 
 
 

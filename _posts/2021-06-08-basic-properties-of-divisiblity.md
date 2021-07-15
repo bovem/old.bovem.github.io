@@ -414,6 +414,10 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 2. $if\ a | b\ then\ a|bc\ \forall c \in Z$
 
 
@@ -819,7 +823,15 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 3. $if\ a | b\ and\ b|c\ then\ a|c$
+
+
+
+
 
 
 

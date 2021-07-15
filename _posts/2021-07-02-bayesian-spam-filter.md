@@ -419,9 +419,17 @@ Let $B$ be a set of emails known to spam and $G$ be a set of email known not to 
 
 
 
+
+
+
+
 Assume, probability of a new email to be spam or not spam is equally likely.
 
 Probability of a word $w$ occurring in set $B$ and $G$ is $p(w) = n_B(w) / |B|$ and $q(w) = n_G(w) / |G|$ respectively.
+
+
+
+
 
 
 
@@ -1232,7 +1240,15 @@ Let $E$ be the event that email contains word $w$ and $S$ be the event that emai
 
 
 
+
+
+
+
 Then probability of an email to be spam given it contains word $w$ is
+
+
+
+
 
 
 
@@ -2043,7 +2059,15 @@ $$p(S | E) = {p(E|S)p(S) \over p(E|S)p(S) + p(E|\bar{S})p(\bar{S})}$$
 
 
 
+
+
+
+
 As $p(S) = p(\bar{S}) = 1/2$ (equally likely events).
+
+
+
+
 
 
 
@@ -2854,7 +2878,15 @@ $$p(S | E) = {p(E|S)p(S) \over p(E|S) + p(E|\bar{S})}$$
 
 
 
+
+
+
+
 Let $r(w)$ represent the probability $p(S|E)$ then
+
+
+
+
 
 
 
@@ -3665,7 +3697,15 @@ $$r(w) = {p(w) \over {p(w) + q(w)}}$$
 
 
 
+
+
+
+
 For each word $r(w)$ is calculated and if it is greater than some threshold set by us (like 0.9) then emails containing that word are marked as spam.
+
+
+
+
 
 
 
@@ -4478,7 +4518,15 @@ Let $E_i$ be an event of occurrence of word $w_i$ in email such that $E_i | S$ f
 
 
 
+
+
+
+
 Then $$r(w_1, w_2, \dots w_n) = {\prod_{i=1}^n p(w_i) \over {\prod_{i=1}^n p(w_i) + \prod_{i=1}^n q(w_i)}}$$
+
+
+
+
 
 
 

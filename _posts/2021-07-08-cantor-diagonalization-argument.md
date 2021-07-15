@@ -417,6 +417,10 @@ Then we create a [Sequence]({% post_url 2021-07-08-sequence %}) such that first 
 
 
 
+
+
+
+
 <img src="../assets/images/posts/Pasted image 20210608090610.png"/>
 
 Because all positive rational numbers are listed once we can verify that it is countable.

@@ -414,6 +414,10 @@ Number of different permutations of $n$ objects where:
 
 
 
+
+
+
+
 * there are $n_1$ indistinguishable objects of type 1
 
 
@@ -819,7 +823,15 @@ Number of different permutations of $n$ objects where:
 
 
 
+
+
+
+
 * there are $n_2$ indistinguishable objects of type 2
+
+
+
+
 
 
 
@@ -1630,7 +1642,15 @@ Number of different permutations of $n$ objects where:
 
 
 
+
+
+
+
 is $$n! \over {n_1! n_2! \dots n_k!}$$
+
+
+
+
 
 
 

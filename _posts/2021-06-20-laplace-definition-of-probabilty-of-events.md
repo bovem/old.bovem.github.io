@@ -416,7 +416,15 @@ Assume an event $E$ with $m$ outcomes
 
 
 
+
+
+
+
 $$p(E) = \sum_{i=1}^m {1 \over n} = {m \over n}$$
+
+
+
+
 
 
 
@@ -1226,7 +1234,15 @@ because $|E| = m$ and $|S| = n$
 
 
 
+
+
+
+
 $$p(E) = {|E| \over |S|} = {m \over n}$$
+
+
+
+
 
 
 

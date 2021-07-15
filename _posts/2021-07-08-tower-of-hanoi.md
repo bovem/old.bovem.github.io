@@ -430,7 +430,15 @@ If $H_n$ is the number of moves it takes to solve *Tower of Hanoi Problem*.
 
 
 
+
+
+
+
 So in $H_{n-1}$ moves, $(n-1)$ disks could be moved to third peg.
+
+
+
+
 
 
 
@@ -1244,6 +1252,10 @@ Finally, it will take $H_{n-1}$ moves again to move all $(n-1)$ disks from third
 
 
 
+
+
+
+
 $$H_n = 2H_{n-1} + 1$$
 
 
@@ -1649,7 +1661,11 @@ $$H_n = 2H_{n-1} + 1$$
 
 
 
-This is a [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}).
+
+
+
+
+This is a [Recurrence Relation]({% post_url 2021-07-11-recurrence-relation %}).
 
 [Initial Condition]({% post_url 2021-07-08-initial-condition %}) of this relation will be $H_1 = 1$.
 
@@ -2057,8 +2073,16 @@ This is a [Recurrence Relation]({% post_url 2021-07-08-recurrence-relation %}).
 
 
 
+
+
+
+
 If we solve this relation iteratively (expressing terms using previous terms and using initial condition at last step) then we get
 $$H_n = 2^n - 1$$
+
+
+
+
 
 
 

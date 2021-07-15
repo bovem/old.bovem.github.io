@@ -414,7 +414,15 @@ imagealt: Cover Image for article
 
 
 
+
+
+
+
 $$p(X=r_1\ and\ Y=r_2) = p(X=r_1) \cdot p(Y=r_2)$$
+
+
+
+
 
 
 
@@ -821,6 +829,10 @@ $$p(X=r_1\ and\ Y=r_2) = p(X=r_1) \cdot p(Y=r_2)$$
 
 also
 $$E(XY) = E(X) \cdot E(Y)$$
+
+
+
+
 
 
 

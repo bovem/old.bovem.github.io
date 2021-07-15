@@ -415,6 +415,10 @@ To find an element $x$ in an array we first compare $x$ with element at middle i
 
 
 
+
+
+
+
 ```
 binary_search(i, j, x):
 	if(1 <= i <= j <= n):
