@@ -53,3 +53,6 @@ docker-compose up
 ```
 
 4. Visit `localhost:7000` in your web browser.
+
+## License
+[MIT](LICENSE)
