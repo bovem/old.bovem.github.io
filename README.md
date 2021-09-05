@@ -1,12 +1,12 @@
-<a href="https://bovem.github.io/" target="_blank"><img src="images/banner
-.png"></a>
+<img src="images/banner.png">
 
 ## Project Overview
-A [Jekyll](https://jekyllrb.com/) based website hosted on [Netlify](https://www.netlify.com/). 
+A [Jekyll](https://jekyllrb.com/) based website hosted on [Netlify](https://www.netlify.com/).  
+Deployment URL: [bovem.netlify.app](https://bovem.netlify.app).
 
 ## Features
 My portfolio and blog.  
-Blog is based on these topics:
+Blogs are based on these topics:
 * Discrete Mathematics
 * Linear Algebra
 * Calculus
