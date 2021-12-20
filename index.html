@@ -30,26 +30,20 @@ about_page: true
 
         <div class="row add-bottom">
             <div class="column large-full">
-                <h1 class="display-2">Recent Posts</h1>
-            </div>
-            <div class="column large-full">
-                <ul style="list-style-type: none; padding: 0; margin: 0;">
-                    {% for post in site.posts limit:3%}
-                    <li>
-                        <a href="{{ post.url }}" target="_blank">
-                            <h6>{{ post.title }}</h6>
-                        </a>
-                        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-
-        <div class="row add-bottom">
-            <div class="column large-full">
                 <h1 class="display-2">Projects</h1>
             </div>
+            
+            <div class="column large-6">
+
+                <a target="_blank" href="https://github.com/bovem/bovem.github.io">
+                    <img src="assets/images/project_logos/bvlogo.png" alt="Bovem Logo">
+                </a>
+                <!-- <p style="margin: 0%"> -->
+                <!-- <b>Jekyll Github Blog</b> -->
+                <!-- </p> -->
+                <!-- <small style="margin: 0%; color:#33998a">Jekyll, HTML, CSS, JS</small> -->
+            </div>
+
             <div class="column large-6">
                 <a target="_blank" href="https://github.com/bovem/DataWiz">
                     <img src="assets/images/project_logos/datawiz.png" alt="DataWiz Project Logo">
@@ -91,17 +85,6 @@ about_page: true
                 <!-- <b>Medium Publication</b> -->
                 <!-- </p> -->
                 <!-- <small style="margin: 0%; color:#33998a">Linear Algebra</small> -->
-            </div>
-
-            <div class="column large-6">
-
-                <a target="_blank" href="https://github.com/bovem/bovem.github.io">
-                    <img src="assets/images/project_logos/bvlogo.png" alt="Bovem Logo">
-                </a>
-                <!-- <p style="margin: 0%"> -->
-                <!-- <b>Jekyll Github Blog</b> -->
-                <!-- </p> -->
-                <!-- <small style="margin: 0%; color:#33998a">Jekyll, HTML, CSS, JS</small> -->
             </div>
 
         </div>
