@@ -6,7 +6,7 @@ Deployment URL: [bovem.netlify.app](https://bovem.netlify.app).
 
 ## Features
 My portfolio and blog.  
-Blogs are based on these topics:
+<!-- Blogs are based on these topics:
 * Discrete Mathematics
 * Linear Algebra
 * Calculus
@@ -18,7 +18,7 @@ Blogs are based on these topics:
 * Computer Networking
 * Compiler Design
 * Theory of Computation
-* C Programming
+* C Programming -->
 
 ## Screenshots
 <img src="images/screenshot1.png">
@@ -33,26 +33,23 @@ Blogs are based on these topics:
 ## Setup
 ### Pre-requisites
 Install [docker](https://www.docker.com/) and [docker-compose](https://docs.docker.com/compose/).
+Or install [podman](https://podman.io/).  
 
 ### Steps
-1. Change directory to `docker`.
+
+1. Build container image from Containerfile
 
 ```bash
-cd docker
+podman build --tag jekyll_blog -f ./Containerfile
 ```
-2. Build docker service `jekyll-blog` using docker compose.
+
+2. Start `jekyll_blog` container from the container image
 
 ```bash
-docker-compose build
+podman run -d --name jekyll_blog -p 7000:7000 -v .:/srv/jekyll:Z jekyll_blog
 ```
 
-3. Start docker service
-
-```bash
-docker-compose up
-```
-
-4. Visit `localhost:7000` in your web browser.
+3. Visit `localhost:7000` in your web browser.
 
 ## License
 [MIT](LICENSE)
